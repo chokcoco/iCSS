@@ -15,3 +15,5 @@
 ![backgroundClip](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_backgroundClip.png)
 
 #### 3、层叠顺序（stacking level）与堆栈上下文（stacking context）知多少？
+
+#### 4、从倒影说起，谈谈 CSS 继承 inherit
