@@ -17,3 +17,7 @@
 #### 3、层叠顺序（stacking level）与堆栈上下文（stacking context）知多少？
 
 #### 4、从倒影说起，谈谈 CSS 继承 inherit
+
+#### 5、纯 CSS 实现单行居中显示文字，多行居左显示，最多两行超过用省略号结尾
+
+![多行文字展示](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_center.png)
