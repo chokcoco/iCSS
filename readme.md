@@ -2,7 +2,7 @@
 
 谈谈一些有趣的 `CSS` 题目，不断更新中。
 
-[题目戳我](https://github.com/chokcoco/iCSS/issues/1)
+[查看题目戳我](https://github.com/chokcoco/iCSS/issues/1)
 
 ## 题目列表
 
@@ -21,3 +21,4 @@
 #### 5、纯 CSS 实现单行居中显示文字，多行居左显示，最多两行超过用省略号结尾
 
 ![多行文字展示](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_center.png)
+
