@@ -2,7 +2,9 @@
 
 谈谈一些有趣的 `CSS` 题目，不断更新中。
 
-[查看题目戳我](https://github.com/chokcoco/iCSS/issues/1)
+[题目1~5](https://github.com/chokcoco/iCSS/issues/1)
+
+[题目6~10](https://github.com/chokcoco/iCSS/issues/1)
 
 ## 题目列表
 
