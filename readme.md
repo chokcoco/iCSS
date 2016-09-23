@@ -22,3 +22,9 @@
 
 ![多行文字展示](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_center.png)
 
+#### 6、全兼容的多列均匀布局问题
+
+如何实现下列这种多列均匀布局：
+
+![多列均匀布局](http://images2015.cnblogs.com/blog/608782/201607/608782-20160713180644092-236763328.png)
+
