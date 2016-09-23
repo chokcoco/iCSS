@@ -4,7 +4,7 @@
 
 [题目1~5](https://github.com/chokcoco/iCSS/issues/1)
 
-[题目6~10](https://github.com/chokcoco/iCSS/issues/1)
+[题目6~10](https://github.com/chokcoco/iCSS/issues/2)
 
 ## 题目列表
 
