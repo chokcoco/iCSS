@@ -12,7 +12,7 @@
 
 ![border](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_border.png)
 
-#### 2、类似下面这个图形，只使用一个标签，可以有多少种实现方式：
+#### 2、类似下面这样的条纹边框，只使用一个标签，可以有多少种实现方式 -- 从条纹边框的实现谈盒子模型：
 
 ![backgroundClip](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_backgroundClip.png)
 
