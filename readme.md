@@ -1,6 +1,8 @@
 # iCSS -- intresting css
 
-谈谈一些有趣的 `CSS` 题目，不断更新中。
+谈谈一些有趣的 `CSS` 题目，题目类型天马行空，想到什么说什么，不仅为了拓宽一下解决问题的思路，更涉及一些容易忽视的 CSS 。
+
+细节不断更新中。
 
 [题目 1 ~ 5](https://github.com/chokcoco/iCSS/issues/1)
 
