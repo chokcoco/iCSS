@@ -38,3 +38,9 @@
 
 ![消失的边界线](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_disappear.png)
 
+#### 8、纯CSS的导航栏Tab切换方案
+
+不用 `Javascript`，使用纯 `CSS` 方案，实现类似下图的导航栏切换：
+
+![纯CSS的导航栏切换方案](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_navswitch.gif)
+
