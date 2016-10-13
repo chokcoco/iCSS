@@ -42,7 +42,7 @@
 
 不用 `Javascript`，使用纯 `CSS` 方案，实现类似下图的导航栏切换：
 
-![纯CSS的导航栏切换方案](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_navswitch.gif)
+![纯CSS的导航栏切换方案](http://images2015.cnblogs.com/blog/608782/201610/608782-20161013103036328-1395095905.gif)
 
 #### 9、巧妙的多列等高布局
 
