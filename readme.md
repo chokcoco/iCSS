@@ -46,3 +46,10 @@
 
 #### 9、巧妙的多列等高布局
 
+规定下面的布局，实现多列等高布局。
+```HTML
+<div id="container">
+	<div class="left">多列等高布局左</div> 
+	<div class="right">多列等高布局右</div>
+</div>
+```
