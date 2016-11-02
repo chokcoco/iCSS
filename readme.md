@@ -59,4 +59,4 @@
 
 如何实现使用单个标签，实现下图所示的斜线效果。
 
-![CSS slash](http://www.cnblogs.com/coco1s/gallery/image/176013.html)
+![CSS slash](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_slash.png)
