@@ -63,6 +63,8 @@
 
 ![CSS slash](http://images2015.cnblogs.com/blog/608782/201611/608782-20161103132531986-482520887.png)
 
+#### 11、几个特殊且实用的伪类选择器（`:root`,`:target`）
+
 #### 11、BFC、IFC、GFC 与 FFC 知多少 
 
 #### 12、引人瞩目的 CSS 变量
