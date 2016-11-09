@@ -65,10 +65,10 @@
 
 #### 11、几个特殊且实用的伪类选择器（`:root`,`:target`）
 
-#### 11、BFC、IFC、GFC 与 FFC 知多少 
+#### 12、BFC、IFC、GFC 与 FFC 知多少 
 
-#### 12、引人瞩目的 CSS 变量
+#### 13、引人瞩目的 CSS 变量
 
-#### 13、在 CSS 中使用随机函数
+#### 14、在 CSS 中使用随机函数
 
-#### 14、CSS 运动路径 motion-path
+#### 15、CSS 运动路径 motion-path
