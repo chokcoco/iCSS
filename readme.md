@@ -63,9 +63,9 @@
 
 ![CSS slash](http://images2015.cnblogs.com/blog/608782/201611/608782-20161103132531986-482520887.png)
 
-#### 11、IFC、BFC、GFC 与 FFC 知多少 
+#### 11、[IFC、BFC、GFC 与 FFC 知多少](https://github.com/chokcoco/iCSS/issues/5)
 
-#### 12、特殊且实用的结构性伪类选择器
+#### 12、[特殊且实用的结构性伪类选择器](https://github.com/chokcoco/iCSS/issues/5)
 
 #### 13、引人瞩目的 CSS 变量
 
