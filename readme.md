@@ -65,7 +65,7 @@
 
 #### 11、[IFC、BFC、GFC 与 FFC 知多少](https://github.com/chokcoco/iCSS/issues/5)
 
-#### 12、[特殊且实用的结构性伪类选择器](https://github.com/chokcoco/iCSS/issues/5)
+#### 12、[结构性伪类选择器](https://github.com/chokcoco/iCSS/issues/5)
 
 #### 13、引人瞩目的 CSS 变量
 
