@@ -73,4 +73,4 @@
 
 #### 14、在 CSS 中使用随机函数
 
-#### 15、CSS 运动路径 motion-path (offset-path)
+#### 15、CSS 运动路径 offset-path
