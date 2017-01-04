@@ -73,4 +73,4 @@
 
 #### 14、[CSS命名方式是否有必要规范](https://github.com/chokcoco/iCSS/issues/5)
 
-#### 15、深入探究 `reset.css` ？
+#### 15、[深入探究 `reset.css` ？](https://github.com/chokcoco/iCSS/issues/5)
