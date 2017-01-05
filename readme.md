@@ -75,4 +75,4 @@
 
 #### 15、[`reset.css` 知多少 ？](https://github.com/chokcoco/iCSS/issues/5)
 
-#### 16、[你该知道的字体 font-family](https://github.com/chokcoco/iCSS/issues/6)
+#### 16、[你该知道的字体 `font-family`](https://github.com/chokcoco/iCSS/issues/6)
