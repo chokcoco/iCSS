@@ -4,7 +4,7 @@
 
 持续更新中，觉得不错的可以点个 `star` 收藏。
 
-题目全在 Issues 中，也可以点击下面链接跳转：
+题目在 Issues 中，也可以点击下面链接跳转：
 
 [题目 1 ~ 5](https://github.com/chokcoco/iCSS/issues/1)
 
@@ -13,6 +13,7 @@
 [题目 11 ~ 15](https://github.com/chokcoco/iCSS/issues/5)
 
 [题目 16 -- 你该知道的字体 `font-family`](https://github.com/chokcoco/iCSS/issues/6)
+
 ## 题目列表
 
 #### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/1)
