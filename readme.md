@@ -6,13 +6,6 @@
 
 题目在 Issues 中，也可以点击下面链接进行跳转：
 
-[题目 1 ~ 5](https://github.com/chokcoco/iCSS/issues/1)
-
-[题目 6 ~ 10](https://github.com/chokcoco/iCSS/issues/2)
-
-[题目 11 ~ 15](https://github.com/chokcoco/iCSS/issues/5)
-
-[题目 16 -- 你该知道的字体 `font-family`](https://github.com/chokcoco/iCSS/issues/6)
 
 ## 题目列表
 
