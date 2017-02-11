@@ -73,3 +73,7 @@
 #### 16、[你该知道的字体 `font-family`](https://github.com/chokcoco/iCSS/issues/6)
 
 #### 17、[再探究字体的渲染规则及 fallback 机制](https://github.com/chokcoco/iCSS/issues/7)
+
+#### 18、[你所不知道的 `position:sticky` ]
+
+#### 19、[探究 `width` 新属性 `min-content`]
