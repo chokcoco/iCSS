@@ -76,4 +76,4 @@
 
 #### 18、[你所不知道的 `position:sticky` ]
 
-#### 19、[探究 `width` 新属性 `min-content`]
+#### 19、[探究 `width` 新取值 `min-content`]
