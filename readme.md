@@ -74,6 +74,6 @@
 
 #### 17、[再探究字体的渲染规则及 fallback 机制](https://github.com/chokcoco/iCSS/issues/7)
 
-#### 18、[你所不知道的 `position:sticky` ]
+#### 18、[使用 `position:sticky` 实现黏性布局及 `@support` ]
 
 #### 19、[探究 `width` 新取值 `min-content`]
