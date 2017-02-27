@@ -6,6 +6,10 @@
 
 题目在 Issues 中，也可以点击下面链接进行跳转。
 
+## 同步更新在我的博客上
+
+[CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
+
 ## 题目列表
 
 #### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/1)
@@ -75,8 +79,6 @@
 
 #### 18、[使用 `position:sticky` 实现粘性布局](https://github.com/chokcoco/iCSS/issues/8)
 
-#### 19、[探究 `width` 新取值 `min-content`]
+#### 19、[深入探讨 CSS 特性检测]
 
-## 同步更新在我的 BLOG 上
 
-[CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
