@@ -1,6 +1,6 @@
 # iCSS -- intresting css
 
-本系列谈谈一些有趣的 `CSS` 题目，题目类型天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
+本系列谈谈一些有趣的 `CSS` 话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
 
 持续更新中，觉得不错的可以点个 `star` 收藏订阅。
 
@@ -79,5 +79,5 @@
 
 #### 18、[使用 `position:sticky` 实现粘性布局](https://github.com/chokcoco/iCSS/issues/8)
 
-#### 19、[深入探讨 CSS 特性检测]()
+#### 19、[深入探讨 CSS 特性检测](https://github.com/chokcoco/iCSS/issues/9)
 
