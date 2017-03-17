@@ -79,5 +79,5 @@
 
 #### 18、[使用 `position:sticky` 实现粘性布局](https://github.com/chokcoco/iCSS/issues/8)
 
-#### 19、[深入探讨 CSS 特性检测](https://github.com/chokcoco/iCSS/issues/9)
+#### 19、[深入探讨 CSS 特性检测 @supports 与 Modernizr](https://github.com/chokcoco/iCSS/issues/9)
 
