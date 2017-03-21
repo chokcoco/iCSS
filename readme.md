@@ -6,11 +6,13 @@
 
 题目在 Issues 中，也可以点击下面链接进行跳转。
 
-## 同步更新在我的博客上
+## Blog
+
+同步更新在我的博客上：
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
-## 题目列表
+## List
 
 #### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/1)
 
