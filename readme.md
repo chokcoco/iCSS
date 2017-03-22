@@ -87,3 +87,5 @@
 
 如何实现下述的背景色渐变动画？
 
+![lineargradient](https://cloud.githubusercontent.com/assets/8554143/24186346/d984600a-0f12-11e7-8220-dc9a6c04b7ef.gif)
+
