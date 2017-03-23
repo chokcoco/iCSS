@@ -83,7 +83,7 @@
 
 #### 19、[深入探讨 CSS 特性检测 @supports 与 Modernizr](https://github.com/chokcoco/iCSS/issues/9)
 
-#### 20、[背景色渐变动画！？](https://github.com/chokcoco/iCSS/issues/10)
+#### 20、[巧妙地制作背景色渐变动画！](https://github.com/chokcoco/iCSS/issues/10)
 
 如何实现下述的背景色渐变动画？
 
