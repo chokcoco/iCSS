@@ -91,4 +91,4 @@
 
 #### 21、[提高 CSS 动画性能的正确姿势](https://github.com/chokcoco/iCSS/issues/11)
 
-#### 22、[CSS 动画是否可以暂停](https://github.com/chokcoco/iCSS/issues/12)
+#### 22、[纯 CSS 方式实现 CSS 动画的暂停与播放](https://github.com/chokcoco/iCSS/issues/12)
