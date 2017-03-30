@@ -59,7 +59,7 @@
 </div>
 ```
 
-#### 10、[巧妙的实现 CSS 斜线](https://github.com/chokcoco/iCSS/issues/2)#
+#### 10、[巧妙的实现 CSS 斜线](https://github.com/chokcoco/iCSS/issues/2)
 
 使用单个标签，如何实现下图所示的斜线效果。
 
