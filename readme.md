@@ -8,7 +8,7 @@
 
 ## Blog
 
-同步更新在我的博客上：
+ 系列同步更新在我的博客上：
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
