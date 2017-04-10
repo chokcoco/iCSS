@@ -95,4 +95,4 @@
 
 #### 23、解析关键渲染路径（CRP）
 
-#### 24、谈谈 CSS 关键字 initail、inherit 和 unset
+#### 24、谈谈 CSS 关键字 initial、inherit 和 unset
