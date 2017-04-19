@@ -94,3 +94,5 @@
 #### 22、[纯 CSS 方式实现 CSS 动画的暂停与播放](https://github.com/chokcoco/iCSS/issues/12)
 
 #### 23、[谈谈 CSS 关键字 initial、inherit 和 unset](https://github.com/chokcoco/iCSS/issues/13)
+
+#### 24、解析关键渲染路径（CRP）
