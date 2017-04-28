@@ -95,12 +95,10 @@
 
 #### 23、[谈谈 CSS 关键字 initial、inherit 和 unset](https://github.com/chokcoco/iCSS/issues/13)
 
-#### 24、解析关键渲染路径（CRP）
+#### 24、flex 实现瀑布流布局
 
-#### 25、flex 实现瀑布流布局
+#### 25、vh、vw、vmin、vmax 知多少
 
-#### 26、vh、vw、vmin、vmax 知多少
+#### 26、奇妙的`-webkit-background-clip: text`
 
-#### 27、奇妙的`-webkit-background-clip: text`
-
-#### 28、`conic-gradient` 圆锥渐变
+#### 27、`conic-gradient` 圆锥渐变
