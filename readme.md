@@ -101,4 +101,4 @@
 
 #### 26、奇妙的`-webkit-background-clip: text`
 
-#### 27、`conic-gradient` 圆锥渐变
+#### 27、`conic-gradient` 开始使用圆锥渐变
