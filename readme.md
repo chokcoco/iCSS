@@ -99,6 +99,6 @@
 
 #### 25、vh、vw、vmin、vmax 知多少
 
-#### 26、奇妙的`-webkit-background-clip: text`
+#### 26、[奇妙的`-webkit-background-clip: text`](https://github.com/chokcoco/iCSS/issues/14)
 
 #### 27、`conic-gradient` 开始使用圆锥渐变
