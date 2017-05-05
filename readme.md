@@ -102,3 +102,5 @@
 #### 26、[奇妙的`-webkit-background-clip: text`](https://github.com/chokcoco/iCSS/issues/14)
 
 #### 27、`conic-gradient` 开始使用圆锥渐变
+
+#### 28、颜色混合模式 `mix-blend-mode`
