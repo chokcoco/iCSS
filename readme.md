@@ -8,7 +8,7 @@
 
 ## Blog
 
-本系列同步更新在我的博客：
+本系列同步更新在我的博客上：
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
@@ -104,3 +104,5 @@
 #### 27、`conic-gradient` 开始使用圆锥渐变
 
 #### 28、[不可思议的混合模式 `mix-blend-mode`](https://github.com/chokcoco/iCSS/issues/16)
+
+#### 29、`text-fill-color` 与 `color`
