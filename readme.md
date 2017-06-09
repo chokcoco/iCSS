@@ -107,4 +107,4 @@
 
 #### 29、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
 
-#### 30、[不可思议的 CSS shape 大全](https://github.com/chokcoco/iCSS/issues/18)
+#### 30、[不可思议的 CSS shape（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
