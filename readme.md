@@ -61,7 +61,7 @@
 
 #### 10、[巧妙的实现 CSS 斜线](https://github.com/chokcoco/iCSS/issues/2)
 
-使用单个标签，如何实现下图所示的斜线效果。
+使用单个标签，如何实现下图所示的斜线效果:
 
 ![CSS slash](http://images2015.cnblogs.com/blog/608782/201611/608782-20161103132531986-482520887.png)
 
