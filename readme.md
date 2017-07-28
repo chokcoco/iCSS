@@ -109,6 +109,6 @@
 
 #### 30、[奇妙的 CSS shapes（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
 
-#### 31、[纯 CSS 实现波浪效果](https://github.com/chokcoco/iCSS/issues/22)
+#### 31、[纯 CSS 实现波浪效果!](https://github.com/chokcoco/iCSS/issues/22)
 
 
