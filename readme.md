@@ -1,4 +1,4 @@
-# iCSS -- intresting css
+# iCSS -- interesting css
 
 本系列围绕 `CSS` 展开，谈一些有趣的话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
 
