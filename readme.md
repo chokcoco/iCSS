@@ -114,5 +114,3 @@
 #### 32、CSS新特性`contain`，控制页面的重绘与重排
 
 #### 33、[不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
-
-#### 34
