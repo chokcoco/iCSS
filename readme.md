@@ -115,4 +115,4 @@
 
 #### 33、[不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
 
-#### 34、你所不知道的 CSS 动画技巧与细节
+#### 34、[你所不知道的 CSS 动画技巧与细节](https://github.com/chokcoco/iCSS/issues/27)
