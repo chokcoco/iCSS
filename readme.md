@@ -115,7 +115,7 @@
 
 #### 32、[CSS 新特性`contain`，控制页面的重绘与重排](https://github.com/chokcoco/iCSS/issues/23)
 
-#### 33、[fixed 定位失效 | 不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
+#### 33、[fixed 定位失效 || 不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
 
 #### 34、[你所不知道的 CSS 动画技巧与细节](https://github.com/chokcoco/iCSS/issues/27)
 
