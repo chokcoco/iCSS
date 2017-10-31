@@ -121,7 +121,7 @@
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
-## 交流联系
+## Contact
 
 如果有任何问题或者疑问，可以加 QQ 群：418766876 联系我。
 
