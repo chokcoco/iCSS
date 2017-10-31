@@ -120,3 +120,12 @@
 #### 34、[你所不知道的 CSS 动画技巧与细节](https://github.com/chokcoco/iCSS/issues/27)
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
+
+## 交流联系
+
+如果有任何问题或者疑问，可以加 QQ 群：418766876 联系我。
+
+也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
+
+
+
