@@ -127,5 +127,5 @@
 
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
-![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.jpg)
+![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)
 
