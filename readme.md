@@ -8,7 +8,7 @@
 
 所有文章都在 Issues 中，同步更新到我的[个人博客](http://www.cnblogs.com/coco1s/)，也可以点击下面链接进行跳转。
 
-> 奇文共欣赏，疑义相与析。带着问题来也好，讨论各种黑科技、酷炫的 CSS 技术也行，[一键加群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
+> 奇文共欣赏，疑义相与析。带着问题来也好，讨论各种黑科技、酷炫的 CSS 技术也行，[一键加 QQ 群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
 
 ## Blog
 
