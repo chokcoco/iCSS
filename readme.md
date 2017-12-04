@@ -123,7 +123,7 @@
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
-#### 35、Web 动画帧率计算
+#### 36、Web 动画帧率（FPS）计算
 
 ## Contact Me
 
