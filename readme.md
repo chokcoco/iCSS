@@ -123,7 +123,7 @@
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
-#### 36、不可思议的混合模式 `mix-blend-mode`（二） 
+#### 36、[不可思议的混合模式 `mix-blend-mode`（二）](https://github.com/chokcoco/iCSS/issues/31)
 
 ## Contact Me
 
