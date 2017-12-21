@@ -125,6 +125,8 @@
 
 #### 36、[不可思议的混合模式 `mix-blend-mode`（二）](https://github.com/chokcoco/iCSS/issues/31)
 
+#### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
+
 ## Contact Me
 
 如果有任何问题或者疑问，可以加 QQ 群：418766876 联系我，[一键加群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
