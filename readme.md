@@ -127,7 +127,7 @@
 
 #### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
 
-#### 38
+#### 38、多种方式实现纯 CSS 实现文字输入效果
 
 ## Contact Me
 
