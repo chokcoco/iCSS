@@ -109,7 +109,7 @@
 
 #### 28、[不可思议的混合模式 `mix-blend-mode` ](https://github.com/chokcoco/iCSS/issues/16)
 
-#### 29、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
+#### 29、[不可思议的混合模式 `background-blend-mode`](https://github.com/chokcoco/iCSS/issues/31)
 
 #### 30、[奇妙的 CSS shapes（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
 
@@ -123,7 +123,7 @@
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
-#### 36、[不可思议的混合模式 `background-blend-mode`](https://github.com/chokcoco/iCSS/issues/31)
+#### 36、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
 
 #### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
 
