@@ -129,7 +129,7 @@
 
 #### 38、[不可思议的CSS导航栏下划线跟随效果](https://github.com/chokcoco/iCSS/issues/33)
 
-如何使用纯 CSS 制作如下效果？
+如何使用纯 CSS 制作下述下划线跟随效果？
 
 ![underline](https://user-images.githubusercontent.com/8554143/37917279-8f6fd236-3150-11e8-8b8d-fca96d1d6001.gif)
 
