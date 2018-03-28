@@ -127,7 +127,7 @@
 
 #### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
 
-#### 38、[不可思议的CSS导航栏下划线跟随效果](https://github.com/chokcoco/iCSS/issues/33)
+#### 38、[不可思议的纯 CSS 导航栏下划线跟随效果](https://github.com/chokcoco/iCSS/issues/33)
 
 如何使用纯 CSS 制作下述下划线跟随效果？
 
