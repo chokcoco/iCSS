@@ -133,7 +133,7 @@
 
 ![underline](https://user-images.githubusercontent.com/8554143/37917279-8f6fd236-3150-11e8-8b8d-fca96d1d6001.gif)
 
-#### 39、CSS snap points
+#### 39、面向未来编程 -- CSS snap points
 
 #### 40、[再谈 filter](https://codepen.io/Chokcoco/pen/pLKmZQ) 
 
