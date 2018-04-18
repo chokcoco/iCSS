@@ -135,7 +135,7 @@
 
 #### 39、面向未来编程 -- CSS snap points
 
-#### 40、[使用transfrom-origin控制动画方向](https://github.com/chokcoco/iCSS/issues/33)
+#### 40、[使用 transfrom-origin 控制动画方向](https://github.com/chokcoco/iCSS/issues/34)
 
 ## Contact Me
 
