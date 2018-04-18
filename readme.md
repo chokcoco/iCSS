@@ -135,9 +135,7 @@
 
 #### 39、面向未来编程 -- CSS snap points
 
-#### 40、[再谈 filter](https://codepen.io/Chokcoco/pen/pLKmZQ) 
-
-#### 41、postcss
+#### 40、[使用transfrom-origin控制动画方向](https://github.com/chokcoco/iCSS/issues/33)
 
 ## Contact Me
 
