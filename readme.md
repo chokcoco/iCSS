@@ -133,9 +133,9 @@
 
 ![underline](https://user-images.githubusercontent.com/8554143/37917279-8f6fd236-3150-11e8-8b8d-fca96d1d6001.gif)
 
-#### 39、面向未来编程 -- CSS snap points
+#### 39、[妙用 scale 与 transfrom-origin，精准控制动画方向](https://github.com/chokcoco/iCSS/issues/34)
 
-#### 40、[妙用 scale 与 transfrom-origin，精准控制动画方向](https://github.com/chokcoco/iCSS/issues/34)
+#### 40、面向未来编程 -- CSS snap points
 
 ## Contact Me
 
