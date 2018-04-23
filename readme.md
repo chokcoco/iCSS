@@ -135,6 +135,10 @@
 
 #### 39、[妙用 scale 与 transfrom-origin，精准控制动画方向](https://github.com/chokcoco/iCSS/issues/34)
 
+如何使用纯 CSS 制作下述下划线跟随效果？
+
+![underline](https://user-images.githubusercontent.com/8554143/38973547-fd32970a-43d8-11e8-94cf-2d30ed12d8cf.gif)
+
 #### 40、CSS snap points
 
 ## Contact Me
