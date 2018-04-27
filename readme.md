@@ -141,7 +141,7 @@
 
 ### 40、CSS snap points
 
-### 41、CSS Button Effects
+### 41、Button Hover Effects
 
 ## Contact Me
 
