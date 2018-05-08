@@ -16,7 +16,7 @@
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
-## List
+## Article List
 
 ### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/1)
 
