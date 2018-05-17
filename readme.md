@@ -137,7 +137,7 @@
 
 如何使用纯 CSS 制作下述下划线跟随效果？
 
-### 40、[CSS Only Button Hover Effect](https://codepen.io/Chokcoco/pen/MGPwLg)
+### 40、[Pure CSS Button Effect](https://codepen.io/Chokcoco/pen/MGPwLg)
 
 ![underline](https://user-images.githubusercontent.com/8554143/38973547-fd32970a-43d8-11e8-94cf-2d30ed12d8cf.gif)
 
