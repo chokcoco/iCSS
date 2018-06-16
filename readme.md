@@ -139,7 +139,7 @@
 
 ### 40、[Pure CSS Button Effect](//codepen.io/Chokcoco/pen/MGPwLg)
 
-### 41、[神奇的选择器 `:focus-within`]
+### 41、[神奇的选择器 `:focus-within`](https://github.com/chokcoco/iCSS/issues/35)
 
 ### 42、再谈字体，移动端字体研究
 
