@@ -142,7 +142,7 @@
 
 #### 41、[神奇的选择器 `:focus-within`](https://github.com/chokcoco/iCSS/issues/36)
 
-#### 41、[CSS 实现视差效果](https://github.com/chokcoco/iCSS/issues/37)
+#### 41、[滚动视差? CSS不在话下](https://github.com/chokcoco/iCSS/issues/37)
 
 
 ## Contact Me
