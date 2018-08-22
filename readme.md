@@ -144,6 +144,7 @@
 
 #### 41、[滚动视差? CSS不在话下](https://github.com/chokcoco/iCSS/issues/37)
 
+#### 42、font-variation-settings 了解一下
 
 ## Contact Me
 
