@@ -146,7 +146,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 42、font-variation-settings 了解一下
 
-#### 43、CSS-SANP-POINT 占坑
+#### 43、CSS-SNAP-POINT
 
 ## Contact Me
 
