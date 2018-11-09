@@ -144,7 +144,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 41、[滚动视差? CSS不在话下](https://github.com/chokcoco/iCSS/issues/37)
 
-#### 42、[你所不知道的 CSS 阴影技巧与细节]()
+#### 42、[你所不知道的 CSS 阴影技巧与细节](https://github.com/chokcoco/iCSS/issues/39)
 
 #### 43、font-variation-settings 了解一下
 
