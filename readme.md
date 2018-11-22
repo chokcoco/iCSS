@@ -100,7 +100,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 23、[谈谈 CSS 关键字 initial、inherit 和 unset](https://github.com/chokcoco/iCSS/issues/13)
 
-#### 24、~~使用 `display:flex` 实现瀑布流布局~~
+#### 24、[纯 CSS 实现瀑布流布局](https://github.com/chokcoco/iCSS/issues/40)
 
 #### 25、[vh、vw、vmin、vmax 知多少](https://github.com/chokcoco/iCSS/issues/15)
 
