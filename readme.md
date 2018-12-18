@@ -136,8 +136,6 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 39、[妙用 scale 与 transfrom-origin，精准控制动画方向](https://github.com/chokcoco/iCSS/issues/34)
 
-如何使用纯 CSS 制作下述下划线跟随效果:
-
 #### 40、[Pure CSS Button Effect](//codepen.io/Chokcoco/pen/MGPwLg)
 
 #### 41、[神奇的选择器 `:focus-within`](https://github.com/chokcoco/iCSS/issues/36)
