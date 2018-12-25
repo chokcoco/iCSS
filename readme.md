@@ -150,7 +150,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 45、[探究 CSS 混合模式\滤镜导致 CSS 3D 失效问题](https://github.com/chokcoco/iCSS/issues/41)
 
-#### 46、~~如何用 CSS 让你的电脑卡死~~
+#### 46、如何用 CSS 让你的电脑卡死
 
 ## Contact Me
 
