@@ -144,13 +144,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 42、[你所不知道的 CSS 阴影技巧与细节](https://github.com/chokcoco/iCSS/issues/39)
 
-#### 43、font-variation-settings 了解一下
+#### 43、[探究 CSS 混合模式\滤镜导致 CSS 3D 失效问题](https://github.com/chokcoco/iCSS/issues/41)
 
-#### 44、CSS-SNAP-POINT
-
-#### 45、[探究 CSS 混合模式\滤镜导致 CSS 3D 失效问题](https://github.com/chokcoco/iCSS/issues/41)
-
-#### 46、如何用 CSS 让你的电脑卡死
+#### 44、如何用 CSS 让你的电脑卡死
 
 ## Contact Me
 
