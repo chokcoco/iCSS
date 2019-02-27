@@ -148,7 +148,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 44、[不可思议的纯 CSS 进度条效果](https://github.com/chokcoco/iCSS/issues/43)
 
-#### 44、[有趣的 `box-decoration-break`](https://github.com/chokcoco/iCSS/issues/44)
+#### 44、[有趣的 `box-decoration-break`](https://github.com/chokcoco/iCSS/issues/45)
 
 ## Contact Me
 
