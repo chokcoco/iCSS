@@ -150,7 +150,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 46、[有趣的 `box-decoration-break`](https://github.com/chokcoco/iCSS/issues/45)
 
-#### 47、纯 CSS 实现鼠标跟随
+#### 47、[纯 CSS 实现鼠标跟随](https://github.com/chokcoco/iCSS/issues/46)
 
 ## Contact Me
 
