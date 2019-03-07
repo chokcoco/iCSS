@@ -152,7 +152,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 47、[不可思议的纯 CSS 实现鼠标跟随](https://github.com/chokcoco/iCSS/issues/46)
 
-#### 48、如何使用 CSS 让你的浏览器卡死
+#### 48、[如何使用 CSS 让你的浏览器卡死](https://github.com/chokcoco/iCSS/issues/47)
 
 ## Contact Me
 
