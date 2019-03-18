@@ -27,11 +27,11 @@ CSS 奇技淫巧，在这里，都有。
 
 ![backgroundClip](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_backgroundClip.png)
 
-#### 3、[层叠顺序（stacking level）与堆栈上下文（stacking context）知多少？](https://github.com/chokcoco/iCSS/issues/1)
+#### 3、[层叠顺序（stacking level）与堆栈上下文（stacking context）知多少？](https://github.com/chokcoco/iCSS/issues/48)
 
-#### 4、[从倒影说起，谈谈 CSS 继承 inherit](https://github.com/chokcoco/iCSS/issues/1)
+#### 4、[从倒影说起，谈谈 CSS 继承 inherit](https://github.com/chokcoco/iCSS/issues/49)
 
-#### 5、[纯 CSS 实现单行居中显示文字，多行居左显示，最多两行超过用省略号结尾](https://github.com/chokcoco/iCSS/issues/1)
+#### 5、[纯 CSS 实现单行居中显示文字，多行居左显示，最多两行超过用省略号结尾](https://github.com/chokcoco/iCSS/issues/50)
 
 ![多行文字展示](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_center.png)
 
