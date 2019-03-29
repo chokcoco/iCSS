@@ -156,7 +156,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 49、[CSS 火焰，不在话下](https://github.com/chokcoco/iCSS/issues/62)
 
-#### 50、[使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
+#### 50、[巧妙使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
 
 ## Contact Me
 
