@@ -19,7 +19,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## Article List
 
-#### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/1)
+#### 1、[下面这个左边竖条图形，只使用一个标签，可以有多少种实现方式：](https://github.com/chokcoco/iCSS/issues/51)
 
 ![border](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_border.png)
 
