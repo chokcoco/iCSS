@@ -106,7 +106,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 26、[奇妙的`-webkit-background-clip: text`](https://github.com/chokcoco/iCSS/issues/14)
 
-#### 27、[神奇的 `conic-gradient` 圆锥渐变](https://github.com/chokcoco/iCSS/issues/19)
+#### 27、[神奇的 `conic-gradient` 角向渐变](https://github.com/chokcoco/iCSS/issues/19)
 
 #### 28、[不可思议的混合模式 `mix-blend-mode` ](https://github.com/chokcoco/iCSS/issues/16)
 
