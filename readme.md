@@ -158,7 +158,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 50、[巧妙使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
 
-#### 51、[探究 flex 盒子下 margin 的更多用法](https://github.com/chokcoco/iCSS/issues/64)
+#### 51、[探秘 flex 上下文中神奇的自动 margin](https://github.com/chokcoco/iCSS/issues/64)
 
 ## Contact Me
 
