@@ -160,7 +160,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 51、[探秘 flex 上下文中神奇的自动 margin](https://github.com/chokcoco/iCSS/issues/64)
 
-#### 52、属性选择器的深入挖掘
+#### 52、[属性选择器的深入挖掘](https://github.com/chokcoco/iCSS/issues/65)
 
 #### 53、你可能需要了解的字体 `font` 的更多细节
 
