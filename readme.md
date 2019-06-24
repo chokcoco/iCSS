@@ -169,7 +169,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 54、有意思的多行布局 `Multi-Column`
 
-#### 55、Web响应式布局与兼容性
+#### 55、[Web响应式布局与兼容性](https://github.com/chokcoco/iCSS/issues/66)
 
 #### 54、CSS动画进阶
 
