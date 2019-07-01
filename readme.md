@@ -160,22 +160,22 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 51、[CSS 属性选择器的深入挖掘](https://github.com/chokcoco/iCSS/issues/65)
 
-#### 56、[CSS Rules Guide](https://github.com/chokcoco/iCSS/issues/67)
+#### 52、[CSS Rules Guide](https://github.com/chokcoco/iCSS/issues/67)
 
 -------
 > （正在写但未完成的）
 
-#### 52、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 53、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 53、你可能需要了解的字体 `font` 的更多细节
+#### 54、你可能需要了解的字体 `font` 的更多细节
 
-#### 54、有意思的多行布局 `Multi-Column`
+#### 55、有意思的多行布局 `Multi-Column`
 
-#### 55、[Web响应式布局与兼容性]()
+#### 56、[Web响应式布局与兼容性]()
 
-#### 54、CSS 动画进阶
+#### 57、CSS 动画进阶
 
-#### 55、CSS Grid 艺术
+#### 58、CSS Grid 艺术
 
 ## Contact Me
 
