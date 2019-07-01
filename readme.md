@@ -160,7 +160,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 51、[CSS 属性选择器的深入挖掘](https://github.com/chokcoco/iCSS/issues/65)
 
-#### 52、[CSS Rules Guide](https://github.com/chokcoco/iCSS/issues/67)
+#### 52、[A Guide to CSS Rules](https://github.com/chokcoco/iCSS/issues/67)
 
 -------
 > （正在写但未完成的）
