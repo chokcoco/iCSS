@@ -167,8 +167,6 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 53、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 54、有意思的多行布局 `Multi-Column`
-
 #### 55、[Web响应式布局与兼容性](https://github.com/chokcoco/iCSS/issues/68)
 
 #### 56、CSS 动画进阶
