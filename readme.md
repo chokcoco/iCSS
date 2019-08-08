@@ -162,6 +162,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 52、[A Guide to CSS Rules](https://github.com/chokcoco/iCSS/issues/67)
 
+#### 59、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
+
 -------
 > （正在写但未完成的）
 
@@ -174,8 +176,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 57、CSS Grid 艺术
 
 #### 58、噪声在CSS中的应用
-
-#### 59、[你所不知道的 CSS 负值技巧与细节]()
 
 ## Contact Me
 
