@@ -162,12 +162,12 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 52、[A Guide to CSS Rules](https://github.com/chokcoco/iCSS/issues/67)
 
-#### 59、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
+#### 53、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
 
 -------
 > （正在写但未完成的）
 
-#### 53、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 54、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
 #### 55、[Web响应式布局与兼容性](https://github.com/chokcoco/iCSS/issues/66)
 
