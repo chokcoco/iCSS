@@ -164,7 +164,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 53、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
 
-#### 59、[Web 字体 Font-family 再探秘](https://github.com/chokcoco/iCSS/issues/69)
+#### 59、[Web 字体 font-family 再探秘](https://github.com/chokcoco/iCSS/issues/69)
 
 -------
 > （正在写但未完成的）
