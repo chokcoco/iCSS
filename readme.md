@@ -173,7 +173,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 56、[Web响应式布局与兼容性](https://github.com/chokcoco/iCSS/issues/66)
 
-#### 57、CSS 动画进阶
+#### 57、CSS 动画与性能进阶
 
 #### 58、CSS Grid 艺术
 
