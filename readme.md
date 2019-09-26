@@ -177,7 +177,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 59、噪声在CSS中的应用
 
-#### 60、CSS艺术 -- 新时代布局
+#### 60、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 ## Contact Me
 
