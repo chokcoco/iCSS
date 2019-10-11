@@ -166,6 +166,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 54、[Web 字体 font-family 再探秘](https://github.com/chokcoco/iCSS/issues/69)
 
+#### 61、[CSS 阴影动画优化技巧一则](https://github.com/chokcoco/iCSS/issues/71)
+
 -------
 > （正在写但未完成的）
 
@@ -179,7 +181,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 60、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 61、CSS 阴影动画优化技巧一则
+
 
 ## Contact Me
 
