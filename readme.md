@@ -168,7 +168,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 61、[CSS 阴影动画优化技巧一则](https://github.com/chokcoco/iCSS/issues/71)
 
-#### 62、[CSS 技巧一则 -- 在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
+#### 62、[在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
 
 -------
 > （正在写但未完成的）
