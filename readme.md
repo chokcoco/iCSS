@@ -185,6 +185,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
+#### 64、[滚动优化 sroll-snap-type](https://github.com/chokcoco/iCSS/issues/74)
+
 
 
 
