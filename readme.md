@@ -166,27 +166,26 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 54、[Web 字体 font-family 再探秘](https://github.com/chokcoco/iCSS/issues/69)
 
-#### 61、[CSS 阴影动画优化技巧一则](https://github.com/chokcoco/iCSS/issues/71)
+#### 55、[CSS 阴影动画优化技巧一则](https://github.com/chokcoco/iCSS/issues/71)
 
-#### 62、[在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
+#### 56、[在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
+
+#### 57、[使用 sroll-snap-type 优化滚动](https://github.com/chokcoco/iCSS/issues/74)
 
 -------
 > （正在写但未完成的）
 
-#### 55、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 58、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 57、CSS 动画与性能进阶
+#### 59、CSS 动画与性能进阶
 
-#### 58、CSS Grid 艺术
+#### 60、CSS Grid 艺术
 
-#### 59、噪声在CSS中的应用
+#### 61、噪声在CSS中的应用
 
-#### 60、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 62、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
-
-#### 64、[滚动优化 sroll-snap-type](https://github.com/chokcoco/iCSS/issues/74)
-
 
 
 
