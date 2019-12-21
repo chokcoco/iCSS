@@ -172,14 +172,14 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 57、[使用 sroll-snap-type 优化滚动](https://github.com/chokcoco/iCSS/issues/74)
 
+#### 58、[巧用 CSS 实现酷炫的电池充电动画](https://github.com/chokcoco/iCSS/issues/75)
+
 -------
 > （正在写但未完成的）
 
-#### 58、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 59、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 59、CSS 动画与性能进阶
-
-#### 60、CSS Grid 艺术
+#### 60、CSS 动画与性能进阶
 
 #### 61、噪声在CSS中的应用
 
@@ -187,7 +187,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
-#### 64、[巧用 CSS 实现酷炫的电池充电动画](https://github.com/chokcoco/iCSS/issues/75)
+#### 64、CSS Grid 艺术
+
+
 
 
 
