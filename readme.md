@@ -172,7 +172,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 57、[使用 sroll-snap-type 优化滚动](https://github.com/chokcoco/iCSS/issues/74)
 
-#### 58、[巧用 CSS 实现酷炫的电池充电动画](https://github.com/chokcoco/iCSS/issues/75)
+#### 58、[巧用 CSS 实现酷炫的充电动画](https://github.com/chokcoco/iCSS/issues/75)
 
 -------
 > （正在写但未完成的）
