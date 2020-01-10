@@ -86,6 +86,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 18、[使用 `position:sticky` 实现粘性布局](https://github.com/chokcoco/iCSS/issues/8)
 
+![](https://cloud.githubusercontent.com/assets/8554143/22967003/97af8828-f39f-11e6-82db-55405160eea3.gif)
+
 #### 19、[深入探讨 CSS 特性检测 @supports 与 Modernizr](https://github.com/chokcoco/iCSS/issues/9)
 
 #### 20、[巧妙地制作背景色渐变动画！](https://github.com/chokcoco/iCSS/issues/10)
