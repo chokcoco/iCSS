@@ -116,6 +116,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 31、[纯 CSS 实现波浪效果!](https://github.com/chokcoco/iCSS/issues/22)
 
+![CSSWaVe](https://user-images.githubusercontent.com/8554143/28265378-f9bf3f82-6b21-11e7-83eb-e240b40b550a.gif)
+
 #### 32、[CSS 新特性`contain`，控制页面的重绘与重排](https://github.com/chokcoco/iCSS/issues/23)
 
 #### 33、[fixed 定位失效 || 不受控制的 `position:fixed`](https://github.com/chokcoco/iCSS/issues/24)
