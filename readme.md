@@ -114,7 +114,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 28、[不可思议的混合模式 `mix-blend-mode` ](https://github.com/chokcoco/iCSS/issues/16)
 
+![](https://cloud.githubusercontent.com/assets/8554143/25800098/7dccd4fe-341a-11e7-832c-f321e77ddac7.gif)
+
 #### 29、[不可思议的混合模式 `background-blend-mode`](https://github.com/chokcoco/iCSS/issues/31)
+
+![](https://user-images.githubusercontent.com/8554143/34141560-07988702-e4bd-11e7-96bc-e3ae8e931230.gif)
 
 #### 30、[奇妙的 CSS shapes（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
 
