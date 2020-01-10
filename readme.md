@@ -164,6 +164,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 43、[你所不知道的 CSS 阴影技巧与细节](https://github.com/chokcoco/iCSS/issues/39)
 
+![](https://user-images.githubusercontent.com/8554143/48009747-415fc580-e157-11e8-8612-25dd32825551.png)
+
 #### 44、[探究 CSS 混合模式\滤镜导致 CSS 3D 失效问题](https://github.com/chokcoco/iCSS/issues/41)
 
 #### 45、[不可思议的纯 CSS 进度条效果](https://github.com/chokcoco/iCSS/issues/43)
