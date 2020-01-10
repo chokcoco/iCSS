@@ -122,6 +122,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 30、[奇妙的 CSS shapes（CSS图形）](https://github.com/chokcoco/iCSS/issues/18)
 
+![](https://user-images.githubusercontent.com/8554143/27017159-f7fb0fe4-4f58-11e7-8397-a467cc9662ab.gif)
+
 #### 31、[纯 CSS 实现波浪效果!](https://github.com/chokcoco/iCSS/issues/22)
 
 ![CSSWaVe](https://user-images.githubusercontent.com/8554143/28265378-f9bf3f82-6b21-11e7-83eb-e240b40b550a.gif)
