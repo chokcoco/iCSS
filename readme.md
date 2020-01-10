@@ -110,6 +110,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 27、[神奇的 `conic-gradient` 角向渐变](https://github.com/chokcoco/iCSS/issues/19)
 
+![](https://user-images.githubusercontent.com/8554143/27471835-c0749fe6-582b-11e7-91eb-9be5ed6610f3.gif)
+
 #### 28、[不可思议的混合模式 `mix-blend-mode` ](https://github.com/chokcoco/iCSS/issues/16)
 
 #### 29、[不可思议的混合模式 `background-blend-mode`](https://github.com/chokcoco/iCSS/issues/31)
