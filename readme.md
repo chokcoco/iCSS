@@ -178,6 +178,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 48、[CSS 火焰，不在话下](https://github.com/chokcoco/iCSS/issues/62)
 
+![](https://user-images.githubusercontent.com/8554143/54913205-23b6b100-4eea-11e9-9b01-910b30840fb6.gif)
+
 #### 49、[巧妙使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
 
 #### 50、[探秘 flex 上下文中神奇的自动 margin](https://github.com/chokcoco/iCSS/issues/64)
