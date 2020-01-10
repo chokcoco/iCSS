@@ -156,7 +156,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 41、[神奇的选择器 `:focus-within`](https://github.com/chokcoco/iCSS/issues/36)
 
+![](https://user-images.githubusercontent.com/8554143/43517148-48c40d10-95ba-11e8-9c42-61567daae18d.gif)
+
 #### 42、[滚动视差? CSS不在话下](https://github.com/chokcoco/iCSS/issues/37)
+
+![](https://user-images.githubusercontent.com/8554143/43909161-3ff2bd1c-9c2c-11e8-932e-c21d0d031233.gif)
 
 #### 43、[你所不知道的 CSS 阴影技巧与细节](https://github.com/chokcoco/iCSS/issues/39)
 
