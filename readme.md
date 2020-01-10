@@ -134,6 +134,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 34、[你所不知道的 CSS 动画技巧与细节](https://github.com/chokcoco/iCSS/issues/27)
 
+![](https://user-images.githubusercontent.com/8554143/29759170-ca7c7768-8beb-11e7-8f8b-981c4e69f36c.gif)
+
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
 #### 36、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
