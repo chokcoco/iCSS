@@ -138,6 +138,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 35、[你所不知道的 CSS 滤镜技巧与细节](https://github.com/chokcoco/iCSS/issues/30)
 
+![](https://user-images.githubusercontent.com/8554143/30364781-3997cd10-9898-11e7-8c25-c54c6b6db705.gif)
+
 #### 36、[`text-fill-color` 与 `color` 的异同](https://github.com/chokcoco/iCSS/issues/17)
 
 #### 37、[两行 CSS 代码实现图片任意颜色赋色技术](https://github.com/chokcoco/iCSS/issues/32)
