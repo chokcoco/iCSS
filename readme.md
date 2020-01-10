@@ -174,6 +174,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 47、[不可思议的纯 CSS 实现鼠标跟随](https://github.com/chokcoco/iCSS/issues/46)
 
+![](https://user-images.githubusercontent.com/8554143/53795509-1b172e80-3f6d-11e9-9836-4fc545e9094a.gif)
+
 #### 48、[CSS 火焰，不在话下](https://github.com/chokcoco/iCSS/issues/62)
 
 #### 49、[巧妙使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
