@@ -182,6 +182,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 49、[巧妙使用 CSS 控制动画行进](https://github.com/chokcoco/iCSS/issues/63)
 
+![](https://user-images.githubusercontent.com/8554143/55224859-422dec80-5209-11e9-9297-eba3bb834246.gif)
+
 #### 50、[探秘 flex 上下文中神奇的自动 margin](https://github.com/chokcoco/iCSS/issues/64)
 
 #### 51、[CSS 属性选择器的深入挖掘](https://github.com/chokcoco/iCSS/issues/65)
