@@ -200,6 +200,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 56、[在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
 
+![](https://user-images.githubusercontent.com/8554143/69351842-e5f76b80-0cb6-11ea-8c3c-b6eee35dff01.gif)
+
 #### 57、[使用 sroll-snap-type 优化滚动](https://github.com/chokcoco/iCSS/issues/74)
 
 #### 58、[巧用 CSS 实现酷炫的充电动画](https://github.com/chokcoco/iCSS/issues/75)
