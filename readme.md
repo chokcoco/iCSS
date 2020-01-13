@@ -206,6 +206,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 58、[巧用 CSS 实现酷炫的充电动画](https://github.com/chokcoco/iCSS/issues/75)
 
+![](https://user-images.githubusercontent.com/8554143/71305432-e9ddf100-240e-11ea-81a9-b64bc3db8c21.gif)
+
 -------
 > （正在写但未完成的）
 
