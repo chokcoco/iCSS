@@ -208,10 +208,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/71305432-e9ddf100-240e-11ea-81a9-b64bc3db8c21.gif)
 
+#### 59、[深入理解 CSS（Cascading Style Sheets）中的层叠（Cascading）](https://github.com/chokcoco/iCSS/issues/76)
+
 -------
 > （正在写但未完成的）
-
-#### 59、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
 #### 60、CSS 动画与性能进阶
 
@@ -223,7 +223,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 64、CSS Grid 艺术
 
-#### 65、[深入理解 CSS（Cascading Style Sheets）中的层叠（Cascading）](https://github.com/chokcoco/iCSS/issues/76)
+#### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+
+
 
 
 
