@@ -225,6 +225,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
+#### 66、渐变边框的N种实现方法
+
 
 
 
