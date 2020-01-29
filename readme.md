@@ -214,6 +214,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 60、[巧妙实现带圆角的渐变边框](https://github.com/chokcoco/iCSS/issues/77) 
 
+![](https://user-images.githubusercontent.com/8554143/73247942-f4995c00-41ec-11ea-97d3-17250b0f0378.gif)
+
 -------
 > （正在写但未完成的）
 
