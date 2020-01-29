@@ -212,10 +212,10 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 59、[深入理解 CSS（Cascading Style Sheets）中的层叠（Cascading）](https://github.com/chokcoco/iCSS/issues/76)
 
+#### 60、[巧妙实现带圆角的渐变边框](https://github.com/chokcoco/iCSS/issues/77) 
+
 -------
 > （正在写但未完成的）
-
-#### 60、CSS 动画与性能进阶
 
 #### 61、噪声在CSS中的应用
 
@@ -227,9 +227,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 66、渐变边框的N种实现方法
+#### 66、哦吼，你的 CSS 出问题了
 
-#### 67、哦吼，你的 CSS 出问题了
+#### 67、CSS 动画与性能进阶
 
 
 ## Contact Me
