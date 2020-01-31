@@ -216,10 +216,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/73247942-f4995c00-41ec-11ea-97d3-17250b0f0378.gif)
 
+#### 61、[CSS 故障艺术](https://github.com/chokcoco/iCSS/issues/78)
+
 -------
 > （正在写但未完成的）
-
-#### 61、噪声在CSS中的应用
 
 #### 62、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
@@ -229,7 +229,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 66、哦吼，你的 CSS 出问题了
+#### 66、噪声在CSS中的应用
 
 #### 67、CSS 动画与性能进阶
 
