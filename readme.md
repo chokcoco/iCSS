@@ -218,6 +218,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 61、[CSS 故障艺术](https://github.com/chokcoco/iCSS/issues/78)
 
+![](https://user-images.githubusercontent.com/8554143/73518406-2acb1b80-4439-11ea-84c3-c83e51601bac.gif)
+
 -------
 > （正在写但未完成的）
 
