@@ -227,13 +227,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
-#### 64、CSS Grid 艺术
+#### 64、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 65、噪声在CSS中的应用
 
-#### 66、噪声在CSS中的应用
-
-#### 67、CSS 动画与性能进阶
+#### 66、CSS 动画与性能进阶
 
 
 ## Contact Me
