@@ -220,6 +220,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/73518406-2acb1b80-4439-11ea-84c3-c83e51601bac.gif)
 
+#### 62、[从 display: contents 理解浏览器渲染](https://github.com/chokcoco/iCSS/issues/79)
+
 -------
 > （正在写但未完成的）
 
@@ -233,7 +235,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 66、形变动画的细节
 
-#### 67、从 display: contents 理解浏览器渲染
+
 
 
 ## Contact Me
