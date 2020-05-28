@@ -220,7 +220,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/73518406-2acb1b80-4439-11ea-84c3-c83e51601bac.gif)
 
-#### 67、[从 display: contents 理解浏览器渲染](https://github.com/chokcoco/iCSS/issues/79)
+#### 67、[使用 display: contents 增强页面语义](https://github.com/chokcoco/iCSS/issues/79)
 
 -------
 > （正在写但未完成的）
