@@ -220,20 +220,20 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/73518406-2acb1b80-4439-11ea-84c3-c83e51601bac.gif)
 
-#### 67、[使用 display: contents 增强页面语义](https://github.com/chokcoco/iCSS/issues/79)
+#### 62、[使用 display: contents 增强页面语义](https://github.com/chokcoco/iCSS/issues/79)
 
 -------
 > （正在写但未完成的）
 
-#### 62、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 63、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
+#### 64、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
-#### 64、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 65、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 65、噪声在CSS中的应用
+#### 66、噪声在CSS中的应用
 
-#### 66、形变动画的细节
+#### 67、形变动画的细节
 
 
 
