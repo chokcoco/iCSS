@@ -235,7 +235,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 67、形变动画的细节
 
-#### 68、奇妙的 CSS MASK
+#### 68、[奇妙的 CSS MASK](https://github.com/chokcoco/iCSS/issues/80)
 
 
 ## Contact Me
