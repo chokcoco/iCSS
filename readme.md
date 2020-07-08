@@ -224,6 +224,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 63、[奇妙的 CSS MASK](https://github.com/chokcoco/iCSS/issues/80)
 
+![](https://user-images.githubusercontent.com/8554143/86525662-ab94b480-bebc-11ea-9824-b4f6e0536da7.gif)
+
 -------
 
 > （正在写但未完成的）
