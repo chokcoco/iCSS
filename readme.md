@@ -51,7 +51,7 @@ CSS 奇技淫巧，在这里，都有。
 
 不用 `Javascript`，使用纯 `CSS` 方案，实现类似下图的导航栏 Tab 切换：
 
-![纯CSS的导航栏切换方案](http://images2015.cnblogs.com/blog/608782/201610/608782-20161013103036328-1395095905.gif)
+![纯CSS的导航栏切换方案](https://user-images.githubusercontent.com/8554143/87443012-8aa03200-c627-11ea-9325-b1c39331263b.gif)
 
 #### 9、[巧妙的多列等高布局](https://github.com/chokcoco/iCSS/issues/55)
 
