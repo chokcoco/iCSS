@@ -39,7 +39,7 @@ CSS 奇技淫巧，在这里，都有。
 
 如何实现下列这种多列均匀布局：
 
-![多列均匀布局](http://images2015.cnblogs.com/blog/608782/201607/608782-20160713180644092-236763328.png)
+![image](https://user-images.githubusercontent.com/8554143/87442550-03eb5500-c627-11ea-80f5-ada17a79a6d0.png)
 
 #### 7、[全兼容的最后一条边界线问题](https://github.com/chokcoco/iCSS/issues/53)
 
