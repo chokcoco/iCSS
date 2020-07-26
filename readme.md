@@ -226,6 +226,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/86525662-ab94b480-bebc-11ea-9824-b4f6e0536da7.gif)
 
+#### 70、[CSS 小技巧一则 -- 不定宽溢出文本适配滚动](https://github.com/chokcoco/iCSS/issues/81)
+
 -------
 
 > （正在写但未完成的）
@@ -242,7 +244,6 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 69、渐变的魅力
 
-#### 70、[CSS 小技巧一则 -- 不定宽溢出文本适配滚动展示](https://github.com/chokcoco/iCSS/issues/81)
 
 ## Contact Me
 
