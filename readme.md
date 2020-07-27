@@ -226,23 +226,23 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/86525662-ab94b480-bebc-11ea-9824-b4f6e0536da7.gif)
 
-#### 70、[CSS 技巧一则 -- 不定宽溢出文本适配滚动](https://github.com/chokcoco/iCSS/issues/81)
+#### 64、[CSS 技巧一则 -- 不定宽溢出文本适配滚动](https://github.com/chokcoco/iCSS/issues/81)
 
 -------
 
 > （正在写但未完成的）
 
-#### 64、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 65、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 65、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
+#### 66、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
-#### 66、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 67、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 67、噪声在CSS中的应用
+#### 68、噪声在CSS中的应用
 
-#### 68、形变动画的细节
+#### 69、形变动画的细节
 
-#### 69、渐变的魅力
+#### 70、渐变的魅力
 
 
 ## Contact Me
