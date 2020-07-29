@@ -228,6 +228,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 64、[CSS 技巧一则 -- 不定宽溢出文本适配滚动](https://github.com/chokcoco/iCSS/issues/81)
 
+![textscroll](https://user-images.githubusercontent.com/8554143/88412686-871d5f80-ce0c-11ea-9649-becdae112f30.gif)
+
 -------
 
 > （正在写但未完成的）
