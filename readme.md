@@ -25,7 +25,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 2、[类似下面这样的条纹边框，只使用一个标签，可以有多少种实现方式 -- 从条纹边框的实现谈盒子模型：](https://github.com/chokcoco/iCSS/issues/1)
 
-![backgroundClip](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_backgroundClip.png)
+![image](https://user-images.githubusercontent.com/8554143/97247472-b6dc6900-183a-11eb-8331-ed952e4c2a1c.png)
 
 #### 3、[层叠顺序（stacking level）与堆栈上下文（stacking context）知多少？](https://github.com/chokcoco/iCSS/issues/48)
 
