@@ -45,8 +45,6 @@ CSS 奇技淫巧，在这里，都有。
 
 看看下图，常见于一些导航栏中，要求每行中最后一列的右边框消失，如何在所有浏览器中最便捷最优雅的实现？
 
-![消失的边界线](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_disappear.png)
-
 #### 8、[纯CSS的导航栏Tab切换方案](https://github.com/chokcoco/iCSS/issues/54)
 
 不用 `Javascript`，使用纯 `CSS` 方案，实现类似下图的导航栏 Tab 切换：
