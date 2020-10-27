@@ -33,7 +33,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 5、[纯 CSS 实现单行居中显示文字，多行居左显示，最多两行超过用省略号结尾](https://github.com/chokcoco/iCSS/issues/50)
 
-![多行文字展示](http://images.cnblogs.com/cnblogs_com/coco1s/881614/o_center.png)
+![image](https://user-images.githubusercontent.com/8554143/97247656-0f136b00-183b-11eb-8d8f-fb27af99a04b.png)
 
 #### 6、[全兼容的多列均匀布局问题](https://github.com/chokcoco/iCSS/issues/52)
 
