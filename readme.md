@@ -228,6 +228,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ![textscroll](https://user-images.githubusercontent.com/8554143/88412686-871d5f80-ce0c-11ea-9649-becdae112f30.gif)
 
+#### 65、[使用 tabindex 实现父选择器](https://github.com/chokcoco/iCSS/issues/82)
+
 -------
 
 > （正在写但未完成的）
