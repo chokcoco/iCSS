@@ -228,13 +228,13 @@ CSS 奇技淫巧，在这里，都有。
 
 ![textscroll](https://user-images.githubusercontent.com/8554143/88412686-871d5f80-ce0c-11ea-9649-becdae112f30.gif)
 
-#### 65、[使用 tabindex 实现父选择器](https://github.com/chokcoco/iCSS/issues/83)
+#### 65、[使用 tabindex 配合 focus-within 巧妙实现父选择器](https://github.com/chokcoco/iCSS/issues/83)
 
 -------
 
 > （正在写但未完成的）
 
-#### 65、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 66、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
