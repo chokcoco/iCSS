@@ -246,7 +246,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 72、[CSS 艺术 -- 创造各种花里胡哨的背景]
+#### 72、[CSS 艺术 -- 创造各种花里胡哨的背景](https://github.com/chokcoco/iCSS/issues/84)
 
 
 
