@@ -232,6 +232,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 66、[CSS 艺术 -- 使用 background 创造各种美妙的背景](https://github.com/chokcoco/iCSS/issues/84)
 
+![bg9](https://user-images.githubusercontent.com/8554143/100546640-6030d780-329d-11eb-83f8-457090c76bae.gif)
+
 -------
 
 > （正在写但未完成的）
