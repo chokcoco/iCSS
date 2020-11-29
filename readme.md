@@ -230,11 +230,13 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 65、[使用 tabindex 配合 focus-within 巧妙实现父选择器](https://github.com/chokcoco/iCSS/issues/83)
 
+#### 66、[CSS 艺术 -- 使用 background 创造各种美妙的背景](https://github.com/chokcoco/iCSS/issues/84)
+
 -------
 
 > （正在写但未完成的）
 
-#### 66、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
+#### 72、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
 #### 67、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
@@ -246,7 +248,6 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 72、[CSS 艺术 -- 创造各种花里胡哨的背景](https://github.com/chokcoco/iCSS/issues/84)
 
 
 
