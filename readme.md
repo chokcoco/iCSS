@@ -19,6 +19,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## Article List
 
+#### 67、[探究 position-sticky 失效问题](https://github.com/chokcoco/iCSS/issues/85)
+
 #### 66、[CSS 艺术 -- 使用 background 创造各种美妙的背景](https://github.com/chokcoco/iCSS/issues/84)
 
 ![bg9](https://user-images.githubusercontent.com/8554143/100546640-6030d780-329d-11eb-83f8-457090c76bae.gif)
@@ -249,9 +251,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 70、渐变的魅力
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
-
-#### 73、[position-sticky 失效问题](https://github.com/chokcoco/iCSS/issues/85)
-
 
 
 
