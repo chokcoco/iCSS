@@ -252,7 +252,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 74、[使用纯 CSS 实现滚动吸附及滚动阴影效果]()
+#### 74、[使用纯 CSS 实现滚动阴影效果](https://github.com/chokcoco/iCSS/issues/86)
 
 
 
