@@ -248,7 +248,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 73、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 68、噪声在CSS中的应用
+#### 74、噪声在CSS中的应用
 
 #### 69、形变动画的细节
 
@@ -256,6 +256,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
+#### 75、[一行 CSS 代码的魅力](https://github.com/chokcoco/iCSS/issues/87)
 
 
 ## Contact Me
