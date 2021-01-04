@@ -21,6 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 68、[使用纯 CSS 实现滚动阴影效果](https://github.com/chokcoco/iCSS/issues/86)
 
+![](https://user-images.githubusercontent.com/8554143/103438190-671b8300-4c6b-11eb-957f-f7557dc83619.gif)
+
 #### 67、[探究 position-sticky 失效问题](https://github.com/chokcoco/iCSS/issues/85)
 
 #### 66、[CSS 艺术 -- 使用 background 创造各种美妙的背景](https://github.com/chokcoco/iCSS/issues/84)
