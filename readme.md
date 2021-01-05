@@ -11,11 +11,11 @@ CSS 奇技淫巧，在这里，都有。
 
 > 奇文共欣赏，疑义相与析。带着问题来也好，讨论各种黑科技、酷炫的 CSS 技术也行，[一键加 QQ 群讨论](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
 
-## Blog
+## 公众号
 
-本 CSS 系列同步更新在我的博客：
+想 Get 到最有意思的 CSS 资讯，千万不要错过我的公众号 😄
 
-[CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
+<img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
 
 ## Article List
 
