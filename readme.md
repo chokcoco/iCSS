@@ -17,7 +17,7 @@ CSS 奇技淫巧，在这里，都有。
 
 <img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
 
-## Article List
+## 文章列表
 
 #### 68、[使用纯 CSS 实现滚动阴影效果](https://github.com/chokcoco/iCSS/issues/86)
 
