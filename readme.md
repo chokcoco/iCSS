@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 69、[一行 CSS 代码的魅力](https://github.com/chokcoco/iCSS/issues/87)
+
 #### 68、[使用纯 CSS 实现滚动阴影效果](https://github.com/chokcoco/iCSS/issues/86)
 
 ![](https://user-images.githubusercontent.com/8554143/103438190-671b8300-4c6b-11eb-957f-f7557dc83619.gif)
@@ -246,13 +248,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 74、噪声在CSS中的应用
 
-#### 69、形变动画的细节
+#### 75、形变动画的细节
 
 #### 70、渐变的魅力
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
-
-#### 75、[一行 CSS 代码的魅力](https://github.com/chokcoco/iCSS/issues/87)
 
 
 ## Contact Me
