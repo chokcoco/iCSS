@@ -254,7 +254,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 76、前端布局优秀实践
+#### 76、前端优秀实践避坑集锦
 
 
 ## Contact Me
