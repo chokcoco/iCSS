@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 69、[一行 CSS 代码的魅力](https://github.com/chokcoco/iCSS/issues/87)
 
+![](https://user-images.githubusercontent.com/8554143/103552828-7ad31d80-4ee7-11eb-87ff-d279a6eec1e9.png)
+
 #### 68、[使用纯 CSS 实现滚动阴影效果](https://github.com/chokcoco/iCSS/issues/86)
 
 ![](https://user-images.githubusercontent.com/8554143/103438190-671b8300-4c6b-11eb-957f-f7557dc83619.gif)
