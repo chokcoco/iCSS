@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 71、[如何不使用 `overflow: hidden` 实现 `overflow: hidden`？](https://github.com/chokcoco/iCSS/issues/90)
+
 #### 70、[水平垂直居中深入挖掘](https://github.com/chokcoco/iCSS/issues/89)
 
 #### 69、[一行 CSS 代码的魅力](https://github.com/chokcoco/iCSS/issues/87)
@@ -254,13 +256,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 75、形变动画的细节
 
-#### 79、渐变的魅力
-
 #### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 76、前端优秀实践避坑集锦
-
-#### 78、如何不使用 `overflow: hidden` 实现 `overflow: hidden`？
 
 ## Contact Me
 
