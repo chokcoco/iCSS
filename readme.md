@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 72、[CSS 技巧一则：动态高度过渡动画](https://github.com/chokcoco/iCSS/issues/91)
+
 #### 71、[如何不使用 `overflow: hidden` 实现 `overflow: hidden`？](https://github.com/chokcoco/iCSS/issues/90)
 
 #### 70、[水平垂直居中深入挖掘](https://github.com/chokcoco/iCSS/issues/89)
@@ -256,11 +258,10 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 75、形变动画的细节
 
-#### 71、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 79、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 76、前端优秀实践避坑集锦
 
-#### 77、CSS 技巧一则：height 过渡动画
 
 ## Contact Me
 
