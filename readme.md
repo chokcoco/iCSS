@@ -262,7 +262,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 76、前端优秀实践避坑集锦
 
-#### 80、奇思妙想边框动画
+#### 80、[奇思妙想边框动画](https://github.com/chokcoco/iCSS/issues/91)
 
 
 ## Contact Me
