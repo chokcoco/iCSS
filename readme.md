@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 73、[奇思妙想边框动画](https://github.com/chokcoco/iCSS/issues/92)
+
 #### 72、[CSS 技巧一则：动态高度过渡动画](https://github.com/chokcoco/iCSS/issues/91)
 
 #### 71、[如何不使用 `overflow: hidden` 实现 `overflow: hidden`？](https://github.com/chokcoco/iCSS/issues/90)
@@ -261,8 +263,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 79、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 76、前端优秀实践避坑集锦
-
-#### 80、[奇思妙想边框动画](https://github.com/chokcoco/iCSS/issues/92)
 
 #### 82、了解生僻标签 fieldset 与 legend
 
