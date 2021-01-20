@@ -266,7 +266,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 76、前端优秀实践避坑集锦
 
-#### 82、了解生僻标签 fieldset 与 legend
+#### 82、生僻标签 fieldset 与 legend 的妙用
 
 
 ## Contact Me
