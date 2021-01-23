@@ -17,9 +17,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 74、[生僻标签 fieldset 与 legend 的妙用](https://github.com/chokcoco/iCSS/issues/93)
 
+<img width="200" src="https://user-images.githubusercontent.com/8554143/105197984-2c28b300-5b78-11eb-96e2-26213af4cd90.png">
+
 #### 73、[CSS 奇思妙想边框动画](https://github.com/chokcoco/iCSS/issues/92)
 
-![](https://user-images.githubusercontent.com/8554143/104848230-f9d04900-591e-11eb-8ecf-7915010f7bcd.gif)
+<img width="200" src="https://user-images.githubusercontent.com/8554143/104848230-f9d04900-591e-11eb-8ecf-7915010f7bcd.gif">
 
 #### 72、[CSS 技巧一则：动态高度过渡动画](https://github.com/chokcoco/iCSS/issues/91)
 
