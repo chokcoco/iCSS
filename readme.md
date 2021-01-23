@@ -21,7 +21,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 73、[CSS 奇思妙想边框动画](https://github.com/chokcoco/iCSS/issues/92)
 
-<img width="400" src="https://user-images.githubusercontent.com/8554143/104848230-f9d04900-591e-11eb-8ecf-7915010f7bcd.gif">
+<img width="600" src="https://user-images.githubusercontent.com/8554143/104848230-f9d04900-591e-11eb-8ecf-7915010f7bcd.gif">
 
 #### 72、[CSS 技巧一则：动态高度过渡动画](https://github.com/chokcoco/iCSS/issues/91)
 
