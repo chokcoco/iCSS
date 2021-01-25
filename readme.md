@@ -270,7 +270,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 76、前端优秀实践避坑集锦
 
-#### 84、CSS艺术 -- CSS Pattern Generate
+#### 84、CSS奇思妙想 -- 使用 CSS 绘制图案
 
 
 ## Contact Me
