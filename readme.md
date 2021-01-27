@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 75、[CSS奇思妙想 -- 使用 CSS 创造艺术图案](https://github.com/chokcoco/iCSS/issues/94)
+
 #### 74、[生僻标签 fieldset 与 legend 的妙用](https://github.com/chokcoco/iCSS/issues/93)
 
 <img width="200" src="https://user-images.githubusercontent.com/8554143/105197984-2c28b300-5b78-11eb-96e2-26213af4cd90.png">
@@ -269,8 +271,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 79、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 76、前端优秀实践避坑集锦
-
-#### 84、CSS奇思妙想 -- 使用 CSS 绘制图案
 
 
 ## Contact Me
