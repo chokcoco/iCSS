@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 75、[CSS奇思妙想 -- 使用 CSS 创造艺术图案](https://github.com/chokcoco/iCSS/issues/94)
 
+![](https://user-images.githubusercontent.com/8554143/105871313-23caef00-6034-11eb-8ad9-4133502103f7.png)
+
 #### 74、[生僻标签 fieldset 与 legend 的妙用](https://github.com/chokcoco/iCSS/issues/93)
 
 <img width="200" src="https://user-images.githubusercontent.com/8554143/105197984-2c28b300-5b78-11eb-96e2-26213af4cd90.png">
