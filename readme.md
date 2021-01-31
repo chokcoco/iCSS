@@ -274,7 +274,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 76、前端优秀实践避坑集锦
 
-#### 84、你可能不知道的 transition 技巧与细节
+#### 84、[你可能不知道的 transition 技巧与细节](https://github.com/chokcoco/iCSS/issues/96)
 
 
 ## Contact Me
