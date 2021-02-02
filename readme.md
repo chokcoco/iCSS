@@ -272,7 +272,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 79、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 76、前端优秀实践避坑集锦
+#### 76、[前端优秀实践不完全指南](https://github.com/chokcoco/iCSS/issues/88)
 
 #### 84、[你可能不知道的 transition 技巧与细节](https://github.com/chokcoco/iCSS/issues/96)
 
