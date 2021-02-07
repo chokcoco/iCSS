@@ -11,7 +11,7 @@ CSS 奇技淫巧，在这里，都有。
 
 想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
 
-<img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
+<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/gzh_style.png">
 
 ## 文章列表
 
