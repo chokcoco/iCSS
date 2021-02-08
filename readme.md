@@ -15,6 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 77、[使用 mask 实现视频弹幕人物遮罩过滤](https://github.com/chokcoco/iCSS/issues/97)
 
 #### 76、[你可能不知道的 transition 技巧与细节](https://github.com/chokcoco/iCSS/issues/96)
 
@@ -278,8 +279,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 76、[前端优秀实践不完全指南](https://github.com/chokcoco/iCSS/issues/88)
 
 #### 84、玩转显示与隐藏
-
-#### 85、使用 mask 实现视频弹幕人物遮罩过滤
 
 
 ## Contact Me
