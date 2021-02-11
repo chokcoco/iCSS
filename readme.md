@@ -20,6 +20,7 @@ CSS 奇技淫巧，在这里，都有。
 ![](https://user-images.githubusercontent.com/8554143/107122321-0ddde980-68d2-11eb-8457-b3ad6c760c98.gif)
 
 #### 76、[你可能不知道的 transition 技巧与细节](https://github.com/chokcoco/iCSS/issues/96)
+![](https://user-images.githubusercontent.com/8554143/106390351-05456900-6423-11eb-9800-6ffd1d3eeef6.gif)
 
 #### 75、[CSS奇思妙想 -- 使用 CSS 创造艺术图案](https://github.com/chokcoco/iCSS/issues/94)
 
