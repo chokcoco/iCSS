@@ -285,7 +285,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 85、使用 filter: blur 实现酷炫阴影效果
 
-#### 88、巧用 `-webkit-box-reflect` 实现倒影效果
+#### 88、巧用 `-webkit-box-reflect` 倒影实现各类动效
 
 ## Contact Me
 
