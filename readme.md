@@ -280,13 +280,13 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 82、形变动画的细节
 
-#### 79、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 80、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 84、玩转显示与隐藏
 
 #### 85、使用 filter: blur 实现酷炫阴影效果
 
-#### 88、你可能不知道的字体技巧与细节
+#### 79、你可能不知道的字体技巧与细节
 
 ## Contact Me
 
