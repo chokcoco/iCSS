@@ -286,7 +286,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 85、使用 filter: blur 实现酷炫阴影效果
 
-#### 79、你可能不知道的字体技巧与细节
+#### 79、[你可能不知道的字体技巧与细节](https://github.com/chokcoco/iCSS/issues/101)
 
 ## Contact Me
 
