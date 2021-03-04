@@ -284,7 +284,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 84、玩转显示与隐藏
 
-#### 79、[你可能不知道的字体技巧与细节](https://github.com/chokcoco/iCSS/issues/101)
+#### 79、[奇思妙想 CSS 文字动效](https://github.com/chokcoco/iCSS/issues/101)
 
 ## Contact Me
 
