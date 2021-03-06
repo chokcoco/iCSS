@@ -286,7 +286,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 79、[奇思妙想 CSS 文字动效](https://github.com/chokcoco/iCSS/issues/101)
 
-#### 85、Safari 文本溢出特性再探究
+#### 85、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
 ## Contact Me
 
