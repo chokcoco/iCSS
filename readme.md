@@ -15,7 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 79、[奇思妙想 CSS 文字动效](https://github.com/chokcoco/iCSS/issues/101)
+#### 79、[奇思妙想 CSS 文字动画](https://github.com/chokcoco/iCSS/issues/101)
 
 #### 78、[巧用 `-webkit-box-reflect` 倒影实现各类动效](https://github.com/chokcoco/iCSS/issues/100)
 ![](https://user-images.githubusercontent.com/8554143/108523825-530a0e80-7309-11eb-84e4-dad148e2c731.gif)
