@@ -290,7 +290,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 85、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
-#### 88、CSS 文字装饰 text-decoration & text-emphasis
+#### 88、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
 ## Contact Me
 
