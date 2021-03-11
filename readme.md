@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 80、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
+
 #### 79、[奇思妙想 CSS 文字动画](https://github.com/chokcoco/iCSS/issues/101)
 
 ![](https://user-images.githubusercontent.com/8554143/109828417-948aaa00-7c77-11eb-876f-d2cd863b74ac.gif)
@@ -287,8 +289,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 80、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 84、玩转显示与隐藏
-
-#### 85、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
 #### 88、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
