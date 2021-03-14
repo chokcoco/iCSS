@@ -284,9 +284,9 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 87、噪声在CSS中的应用
 
-#### 82、形变动画的细节
+#### 85、形变动画的细节
 
-#### 80、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 82、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 84、玩转显示与隐藏
 
