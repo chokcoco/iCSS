@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 80、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
+![](https://user-images.githubusercontent.com/8554143/110193533-5fe14300-7e6f-11eb-817b-076dae1b174f.png)
+
 #### 79、[奇思妙想 CSS 文字动画](https://github.com/chokcoco/iCSS/issues/101)
 
 ![](https://user-images.githubusercontent.com/8554143/109828417-948aaa00-7c77-11eb-876f-d2cd863b74ac.gif)
