@@ -296,6 +296,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 82、[SVG 滤镜从入门到放弃](https://github.com/chokcoco/iCSS/issues/104)
 
+#### 89、使用混合模式实现复杂动效
+
 ## Contact Me
 
 如果有任何问题或者疑问，可以加 QQ 群：418766876 一起讨论，[一键加群](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
