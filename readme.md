@@ -294,8 +294,6 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 81、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
-#### 82、[SVG 滤镜从入门到放弃](https://github.com/chokcoco/iCSS/issues/104)
-
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
 ## Contact Me
