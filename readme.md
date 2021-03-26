@@ -296,7 +296,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
-#### 90、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/105) 
+#### 90、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
 
 ## Contact Me
 
