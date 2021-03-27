@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 81、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
+
 #### 80、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
 ![](https://user-images.githubusercontent.com/8554143/110193533-5fe14300-7e6f-11eb-817b-076dae1b174f.png)
@@ -295,8 +297,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 81、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
-
-#### 90、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
 
 #### 91、巧用 SVG 滤镜制作有意思动效
 
