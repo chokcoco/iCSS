@@ -298,7 +298,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
-#### 91、巧用 SVG 滤镜制作有意思动效
+#### 91、[巧用 SVG 滤镜制作有意思动效](https://github.com/chokcoco/iCSS/issues/105)
 
 ## Contact Me
 
