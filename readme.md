@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 82、[巧用 SVG 滤镜制作有意思动效](https://github.com/chokcoco/iCSS/issues/105)
+
 #### 81、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
 
 #### 80、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
