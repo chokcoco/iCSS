@@ -19,6 +19,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 81、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
 
+![](https://user-images.githubusercontent.com/8554143/112712156-922f0f00-8f08-11eb-9f39-068799539d83.png)
+
 #### 80、[小技巧！CSS 整块文本溢出省略特性探究](https://github.com/chokcoco/iCSS/issues/102)
 
 ![](https://user-images.githubusercontent.com/8554143/110193533-5fe14300-7e6f-11eb-817b-076dae1b174f.png)
