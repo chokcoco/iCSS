@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 82、[巧用 SVG 滤镜制作有意思动效](https://github.com/chokcoco/iCSS/issues/107)
 
+![](https://user-images.githubusercontent.com/8554143/112725701-8c5f1b00-8f54-11eb-96e7-ad5a5b83b9f3.gif)
+
 #### 81、[有意思！不规则边框的生成方案](https://github.com/chokcoco/iCSS/issues/106) 
 
 ![](https://user-images.githubusercontent.com/8554143/112712156-922f0f00-8f08-11eb-9f39-068799539d83.png)
