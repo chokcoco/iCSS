@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 84、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
+
 #### 83、[老生常谈之 CSS 实现三角形](https://github.com/chokcoco/iCSS/issues/108)
 
 #### 82、[巧用 SVG 滤镜制作有意思动效](https://github.com/chokcoco/iCSS/issues/107)
@@ -301,8 +303,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 82、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 84、玩转显示与隐藏
-
-#### 86、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
