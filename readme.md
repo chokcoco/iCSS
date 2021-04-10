@@ -21,6 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 83、[老生常谈之 CSS 实现三角形](https://github.com/chokcoco/iCSS/issues/108)
 
+![](https://user-images.githubusercontent.com/8554143/113475759-143faa80-94aa-11eb-8a20-bcd1d50691cb.png)
+
 #### 82、[巧用 SVG 滤镜制作有意思动效](https://github.com/chokcoco/iCSS/issues/107)
 
 ![](https://user-images.githubusercontent.com/8554143/112725701-8c5f1b00-8f54-11eb-96e7-ad5a5b83b9f3.gif)
