@@ -310,7 +310,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
-#### 90、有意思的 CSS @property 
+#### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
 
 #### 94、各种毛玻璃效果
 
