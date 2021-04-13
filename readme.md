@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
+
 #### 84、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
 ![](https://user-images.githubusercontent.com/8554143/113866131-846a6b00-97df-11eb-90ae-32d29671dfaa.png)
@@ -309,8 +311,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 84、玩转显示与隐藏
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
-
-#### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
 
 #### 94、各种毛玻璃效果
 
