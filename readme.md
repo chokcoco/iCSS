@@ -17,7 +17,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
 
-[CodePen Demo -- CSS @property PureCSS Wrapper](https://codepen.io/Chokcoco/pen/VwPxMBP)
+![](https://user-images.githubusercontent.com/8554143/114727332-b5631680-9d70-11eb-9515-3e509688ef07.gif)
 
 #### 84、[CSS 文字装饰 text-decoration & text-emphasis](https://github.com/chokcoco/iCSS/issues/103)
 
