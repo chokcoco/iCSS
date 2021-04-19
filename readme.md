@@ -310,7 +310,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 84、玩转显示与隐藏
+#### 86、[新时代布局中一些有意思的特性](https://github.com/chokcoco/iCSS/issues/111)
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
