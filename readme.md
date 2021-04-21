@@ -318,6 +318,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 96、[一行背景的艺术](https://github.com/chokcoco/iCSS/issues/110)
 
+#### 97、一种全新的使用 CSS 制作波浪效果的思路
+
 
 
 ## Contact Me
