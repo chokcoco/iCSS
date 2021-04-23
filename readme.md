@@ -15,6 +15,9 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+
+#### 86、[一行背景的艺术](https://github.com/chokcoco/iCSS/issues/110)
+
 #### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
 
 ![](https://user-images.githubusercontent.com/8554143/114727332-b5631680-9d70-11eb-9515-3e509688ef07.gif)
@@ -315,8 +318,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
 #### 94、各种毛玻璃效果
-
-#### 96、[一行背景的艺术](https://github.com/chokcoco/iCSS/issues/110)
 
 #### 97、一种全新的使用 CSS 制作波浪效果的思路
 
