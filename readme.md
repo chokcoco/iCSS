@@ -312,7 +312,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 87、噪声在CSS中的应用
 
-#### 95、形变动画的细节
+#### 95、探秘神奇的曲线动画 `motion-path`
 
 #### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
