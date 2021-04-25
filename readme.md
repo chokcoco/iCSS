@@ -15,6 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 87、[新时代布局中一些有意思的特性](https://github.com/chokcoco/iCSS/issues/111)
 
 #### 86、[一行背景的艺术](https://github.com/chokcoco/iCSS/issues/110)
 
@@ -314,8 +315,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 95、形变动画的细节
 
 #### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
-
-#### 86、[新时代布局中一些有意思的特性](https://github.com/chokcoco/iCSS/issues/111)
 
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
