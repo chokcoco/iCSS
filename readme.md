@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 88、[探秘神奇的曲线动画 `motion-path`](https://github.com/chokcoco/iCSS/issues/113)
+
 #### 87、[新时代布局中一些有意思的特性](https://github.com/chokcoco/iCSS/issues/111)
 
 ![](https://user-images.githubusercontent.com/8554143/115135561-019da780-a04c-11eb-8ca3-77411aa77d75.png)
@@ -313,8 +315,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 92、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
 #### 87、噪声在CSS中的应用
-
-#### 95、探秘神奇的曲线动画 `motion-path`
 
 #### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
