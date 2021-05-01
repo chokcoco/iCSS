@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 88、[探秘神奇的曲线动画 `motion-path`](https://github.com/chokcoco/iCSS/issues/113)
 
+![](https://user-images.githubusercontent.com/8554143/116109914-d10edb00-a6e7-11eb-80e7-b261458fd4e8.gif)
+
 #### 87、[新时代布局中一些有意思的特性](https://github.com/chokcoco/iCSS/issues/111)
 
 ![](https://user-images.githubusercontent.com/8554143/115135561-019da780-a04c-11eb-8ca3-77411aa77d75.png)
