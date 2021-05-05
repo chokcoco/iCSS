@@ -326,7 +326,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 97、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
 
-
+#### 98、[CSS Ellipsis Beginning of String]()
 
 ## Contact Me
 
