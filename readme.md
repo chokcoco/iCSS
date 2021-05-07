@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 89、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
+
 #### 88、[探秘神奇的曲线动画 `motion-path`](https://github.com/chokcoco/iCSS/issues/113)
 
 ![](https://user-images.githubusercontent.com/8554143/116109914-d10edb00-a6e7-11eb-80e7-b261458fd4e8.gif)
@@ -323,8 +325,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
 
 #### 94、各种毛玻璃效果
-
-#### 97、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
 
 #### 98、[CSS Ellipsis Beginning of String]()
 
