@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 89、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
 
+![](https://user-images.githubusercontent.com/8554143/115584753-9da20a00-a2fd-11eb-8844-fa3488c6b9c6.gif)
+
 #### 88、[探秘神奇的曲线动画 `motion-path`](https://github.com/chokcoco/iCSS/issues/113)
 
 ![](https://user-images.githubusercontent.com/8554143/116109914-d10edb00-a6e7-11eb-80e7-b261458fd4e8.gif)
