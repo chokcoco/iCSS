@@ -330,7 +330,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 98、[CSS Ellipsis Beginning of String]()
 
-#### 99、使用 CSS perfer-* 规范，提升网站的健壮性与可访问性
+#### 99、[使用 CSS perfer-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
 
 ## Contact Me
 
