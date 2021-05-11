@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 90、[小技巧！CSS 提取图片主题色功能探索](https://github.com/chokcoco/iCSS/issues/114)
+
 #### 89、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
 
 ![](https://user-images.githubusercontent.com/8554143/115584753-9da20a00-a2fd-11eb-8844-fa3488c6b9c6.gif)
