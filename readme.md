@@ -19,7 +19,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/116404188-fb37d880-a860-11eb-8ca4-c1ad469b8b34.png)
 
-#### 89、[一种全新的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
+#### 89、[一种巧妙的使用 CSS 制作波浪效果的思路](https://github.com/chokcoco/iCSS/issues/112)
 
 ![](https://user-images.githubusercontent.com/8554143/115584753-9da20a00-a2fd-11eb-8844-fa3488c6b9c6.gif)
 
