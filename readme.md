@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 91、[使用 CSS perfer-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
+
 #### 90、[小技巧！CSS 提取图片主题色功能探索](https://github.com/chokcoco/iCSS/issues/114)
 
 ![](https://user-images.githubusercontent.com/8554143/116404188-fb37d880-a860-11eb-8ca4-c1ad469b8b34.png)
@@ -333,8 +335,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 94、各种毛玻璃效果
 
 #### 98、[CSS Ellipsis Beginning of String]()
-
-#### 99、[使用 CSS perfer-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
 
 #### 100、有意思的 ::maker 伪元素
 
