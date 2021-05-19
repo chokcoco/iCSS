@@ -326,17 +326,17 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 92、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 87、噪声在CSS中的应用
+#### 97、噪声在CSS中的应用
 
 #### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 89、巧用图片，搭配 CSS 实现各类酷炫的动画
+#### 95、巧用图片，搭配 CSS 实现各类酷炫的动画
 
 #### 94、各种毛玻璃效果
 
 #### 98、[CSS Ellipsis Beginning of String]()
 
-#### 100、有意思的 ::maker 伪元素
+#### 92、有意思的 ::maker 伪元素
 
 ## Contact Me
 
