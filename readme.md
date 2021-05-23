@@ -330,7 +330,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 97、噪声在CSS中的应用
 
-#### 91、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
+#### 91、[新时代布局不完全指南](https://github.com/chokcoco/iCSS/issues/70)
 
 #### 95、巧用图片，搭配 CSS 实现各类酷炫的动画
 
