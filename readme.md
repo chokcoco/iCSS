@@ -17,7 +17,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 92、有意思的 ::maker 伪元素
 
-#### 91、[使用 CSS perfer-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
+#### 91、[使用 CSS prefers-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
 
 #### 90、[小技巧！CSS 提取图片主题色功能探索](https://github.com/chokcoco/iCSS/issues/114)
 
