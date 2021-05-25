@@ -15,7 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 92、有意思的 ::maker 伪元素
+#### 92、[有意思的 ::maker 伪元素](https://github.com/chokcoco/iCSS/issues/119)
 
 #### 91、[使用 CSS prefers-* 规范，提升网站的可访问性与健壮性](https://github.com/chokcoco/iCSS/issues/118)
 
