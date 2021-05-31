@@ -328,19 +328,19 @@ CSS 奇技淫巧，在这里，都有。
 
 > （正在写但未完成的）
 
-#### 93、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
+#### 100、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
 
-#### 92、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 99、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 97、噪声在CSS中的应用
+#### 98、噪声在CSS中的应用
 
-#### 95、巧用图片，搭配 CSS 实现各类酷炫的动画
+#### 97、巧用图片，搭配 CSS 实现各类酷炫的动画
 
-#### 94、各种毛玻璃效果
+#### 96、各种毛玻璃效果
 
-#### 98、[CSS Ellipsis Beginning of String]()
+#### 95、[CSS Ellipsis Beginning of String]()
 
-#### 99、Single Div 绘图技巧
+#### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
 
 ## Contact Me
 
