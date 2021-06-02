@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
+
 #### 93、[新时代创意布局不完全指南](https://github.com/chokcoco/iCSS/issues/70)
 
 ![](https://user-images.githubusercontent.com/8554143/111740149-34267a00-88bf-11eb-8275-efc28a9b958b.png)
@@ -339,8 +341,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 96、各种毛玻璃效果
 
 #### 95、[CSS Ellipsis Beginning of String]()
-
-#### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
 
 ## Contact Me
 
