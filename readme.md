@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
 
+![](https://user-images.githubusercontent.com/8554143/120091257-091c9a00-c13c-11eb-93e1-d15301eae96e.png)
+
 #### 93、[新时代创意布局不完全指南](https://github.com/chokcoco/iCSS/issues/70)
 
 ![](https://user-images.githubusercontent.com/8554143/111740149-34267a00-88bf-11eb-8275-efc28a9b958b.png)
