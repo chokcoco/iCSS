@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 96、Web 动画原则及技巧浅析
+
 #### 95、[CSS ::marker 让文字序号更有意思](https://github.com/chokcoco/iCSS/issues/119)
 
 #### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
