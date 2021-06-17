@@ -51,7 +51,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ![](https://user-images.githubusercontent.com/8554143/115102289-88834f00-9f7c-11eb-9555-045376314b59.gif)
 
-#### 85、[有意思的 CSS @property](https://github.com/chokcoco/iCSS/issues/109) 
+#### 85、[CSS @property，让不可能变可能](https://github.com/chokcoco/iCSS/issues/109) 
 
 ![](https://user-images.githubusercontent.com/8554143/114727332-b5631680-9d70-11eb-9515-3e509688ef07.gif)
 
