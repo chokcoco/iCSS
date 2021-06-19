@@ -21,6 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 95、[CSS ::marker 让文字序号更有意思](https://github.com/chokcoco/iCSS/issues/119)
 
+![](https://user-images.githubusercontent.com/8554143/118149756-70500400-b444-11eb-9dd8-4a0c113ea2f9.gif)
+
 #### 94、[Single Div 绘图技巧](https://github.com/chokcoco/iCSS/issues/120)
 
 ![](https://user-images.githubusercontent.com/8554143/120091257-091c9a00-c13c-11eb-93e1-d15301eae96e.png)
