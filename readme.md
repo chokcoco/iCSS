@@ -19,6 +19,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 96、[Web 动画原则及技巧浅析](https://github.com/chokcoco/iCSS/issues/121)
 
+![](https://user-images.githubusercontent.com/8554143/121014822-fdc90e80-c7cc-11eb-93c1-e9940d6f8a4e.gif)
+
 #### 95、[CSS ::marker 让文字序号更有意思](https://github.com/chokcoco/iCSS/issues/119)
 
 ![](https://user-images.githubusercontent.com/8554143/118149756-70500400-b444-11eb-9dd8-4a0c113ea2f9.gif)
