@@ -354,7 +354,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 95、[CSS Ellipsis Beginning of String]()
 
-#### 101、Web 动画原则及技巧浅析
+#### 102、CSS 逻辑属性的前世今生
 
 ## Contact Me
 
