@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 98、[全兼容的毛玻璃效果](https://github.com/chokcoco/iCSS/issues/122)
+
 #### 97、[试试酷炫的 3D 视角](https://github.com/chokcoco/iCSS/issues/122)
 
 #### 96、[Web 动画原则及技巧浅析](https://github.com/chokcoco/iCSS/issues/121)
@@ -356,7 +358,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 102、CSS 逻辑属性的前世今生
 
-#### 103、全兼容的毛玻璃效果
+
 
 ## Contact Me
 
