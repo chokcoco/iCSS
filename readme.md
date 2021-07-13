@@ -15,7 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 99、[巧妙的实现带圆角的三角形](https://github.com/chokcoco/iCSS/issues/125)
+#### 99、[巧妙的实现带圆角的三角形](https://github.com/chokcoco/iCSS/issues/126)
 
 #### 98、[CSS 奇思妙想 | 全兼容的毛玻璃效果](https://github.com/chokcoco/iCSS/issues/124)
 
