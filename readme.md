@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 99、[巧妙的实现带圆角的三角形](https://github.com/chokcoco/iCSS/issues/125)
+
 #### 98、[CSS 奇思妙想 | 全兼容的毛玻璃效果](https://github.com/chokcoco/iCSS/issues/124)
 
 #### 97、[试试酷炫的 3D 视角](https://github.com/chokcoco/iCSS/issues/122)
@@ -361,8 +363,6 @@ CSS 奇技淫巧，在这里，都有。
 #### 102、CSS 逻辑属性的前世今生
 
 #### 103、神奇的 CSS Resize
-
-#### 104、巧妙的实现带圆角的三角形
 
 #### 105、CSS 世界中的方位
 
