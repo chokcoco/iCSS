@@ -366,6 +366,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 105、CSS 世界中的方位
 
+#### 106、浅谈 HTML 与 CSS 的图片处理（Picture 与 image-set）
+
 ## Contact Me
 
 如果有任何问题或者疑问，可以加 QQ 群：418766876 一起讨论，[一键加群](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
