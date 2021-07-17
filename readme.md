@@ -19,6 +19,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 98、[CSS 奇思妙想 | 全兼容的毛玻璃效果](https://github.com/chokcoco/iCSS/issues/124)
 
+![](https://user-images.githubusercontent.com/8554143/123645631-14f19e00-d859-11eb-9aaa-3b0032da89e0.gif)
+
 #### 97、[试试酷炫的 3D 视角](https://github.com/chokcoco/iCSS/issues/122)
 
 ![](https://user-images.githubusercontent.com/8554143/122393058-0f699d80-cfa7-11eb-98f8-53529b826e8b.gif)
