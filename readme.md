@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 101、[【Web动画】科技感十足的暗黑字符雨动画](https://github.com/chokcoco/iCSS/issues/129)
+
 #### 100、[CSS 世界中的方位与顺序](https://github.com/chokcoco/iCSS/issues/127)
 
 #### 99、[巧妙的实现带圆角的三角形](https://github.com/chokcoco/iCSS/issues/126)
