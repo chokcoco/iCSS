@@ -17,9 +17,15 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 101、[【Web动画】科技感十足的暗黑字符雨动画](https://github.com/chokcoco/iCSS/issues/129)
 
+![](https://user-images.githubusercontent.com/8554143/127498604-2dc65906-b730-4e8f-b5f5-e10160007024.gif)
+
 #### 100、[CSS 世界中的方位与顺序](https://github.com/chokcoco/iCSS/issues/127)
 
+![](https://user-images.githubusercontent.com/8554143/126026009-5d8c6c3f-d8dc-48c6-9943-9158ab0edf80.png)
+
 #### 99、[巧妙的实现带圆角的三角形](https://github.com/chokcoco/iCSS/issues/126)
+
+![](https://user-images.githubusercontent.com/8554143/124783460-ab1f7580-df77-11eb-920d-3b9707130c90.png)
 
 #### 98、[CSS 奇思妙想 | 全兼容的毛玻璃效果](https://github.com/chokcoco/iCSS/issues/124)
 
