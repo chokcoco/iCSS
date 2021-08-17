@@ -15,7 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 103、[CSS 奇思妙想 | 使用 resize 实现强大的图片拖拽切换预览功能](https://github.com/chokcoco/iCSS/issues/132)
+#### 103、[CSS 奇思妙想 | 使用 resize 实现强大的图片拖拽切换预览功能](https://github.com/chokcoco/iCSS/issues/133)
 
 #### 102、[CSS 即将支持嵌套，SASS/LESS 等预处理器已无用武之地？](https://github.com/chokcoco/iCSS/issues/130)
 
