@@ -386,7 +386,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 108、CSS 奇思妙想 | 仅使用 CSS 实现斐波那契螺旋线
 
-#### 109、奇思妙想 3D 动画
+#### 109、[奇思妙想 CSS 3D 动画 | 仅使用 CSS 能制作出多惊艳的动画？](https://github.com/chokcoco/iCSS/issues/132)
 
 ## Contact Me
 
