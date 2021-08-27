@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 104、[奇思妙想 CSS 3D 动画 | 仅使用 CSS 能制作出多惊艳的动画？](https://github.com/chokcoco/iCSS/issues/132)
 
+![](https://user-images.githubusercontent.com/8554143/130325052-c98c7552-c4eb-496d-84bc-6dd1c6f887e0.gif)
+
 #### 103、[CSS 奇思妙想 | 使用 resize 实现强大的图片拖拽切换预览功能](https://github.com/chokcoco/iCSS/issues/133)
 
 ![](https://user-images.githubusercontent.com/8554143/129591093-4d5255a1-f0b5-4983-8c7a-8ec919df6e66.gif)
