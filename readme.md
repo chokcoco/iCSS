@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 106、[实现一个会动的鸿蒙 LOGO](https://github.com/chokcoco/iCSS/issues/137)
+
+![](https://user-images.githubusercontent.com/8554143/132118280-7119c524-4b5c-4b9d-b851-aec507dd2ab4.gif)
+
 #### 105、[巧用模糊实现文字的 3D 效果](https://github.com/chokcoco/iCSS/issues/135)
 
 ![](https://user-images.githubusercontent.com/8554143/131250682-eba2d0eb-897b-4536-b728-7b5828828761.gif)
