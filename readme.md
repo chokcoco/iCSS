@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 107、[妙用 background 实现花式文字效果](https://github.com/chokcoco/iCSS/issues/138)
+
+![](https://user-images.githubusercontent.com/8554143/132971163-84763256-220a-403c-bdfe-9b308996b950.gif)
+
 #### 106、[实现一个会动的鸿蒙 LOGO](https://github.com/chokcoco/iCSS/issues/137)
 
 ![](https://user-images.githubusercontent.com/8554143/132118280-7119c524-4b5c-4b9d-b851-aec507dd2ab4.gif)
