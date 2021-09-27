@@ -15,7 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 108、[CSS 奇技淫巧 | 妙用混合模式实现文字镂空波浪效果](https://github.com/chokcoco/iCSS/issues/139)
+#### 108、[CSS 奇技淫巧 | 妙用混合模式实现文字镂空波浪效果](https://github.com/chokcoco/iCSS/issues/140)
 
 #### 107、[妙用 background 实现花式文字效果](https://github.com/chokcoco/iCSS/issues/138)
 
