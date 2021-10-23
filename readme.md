@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 112、[CSS 奇技淫巧 | 巧妙实现文字二次加粗再加边框](https://github.com/chokcoco/iCSS/issues/145)
+
 #### 111、[利用 CSS Overview 面板重构优化你的网站](https://github.com/chokcoco/iCSS/issues/144)
 
 #### 110、[小技巧 | 一行代码实现头像与国旗的融合](https://github.com/chokcoco/iCSS/issues/143)
