@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 113、[仅仅使用 HTML/CSS 实现进度条的 N 种方式](https://github.com/chokcoco/iCSS/issues/146)
 
+![](https://user-images.githubusercontent.com/8554143/130446725-8dc02d0e-8fc7-43b1-995c-a26f25392c0c.gif)
+
 #### 112、[CSS 奇技淫巧 | 巧妙实现文字二次加粗再加边框](https://github.com/chokcoco/iCSS/issues/145)
 
 #### 111、[利用 CSS Overview 面板重构优化你的网站](https://github.com/chokcoco/iCSS/issues/144)
