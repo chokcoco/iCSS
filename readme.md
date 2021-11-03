@@ -15,7 +15,6 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 115、The CSS Paint API
 
 #### 113、[仅仅使用 HTML/CSS 实现进度条的 N 种方式](https://github.com/chokcoco/iCSS/issues/146)
 
@@ -410,15 +409,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 101、噪声在CSS中的应用
 
-#### 97、巧用图片，搭配 CSS 实现各类酷炫的动画
-
-#### 96、各种毛玻璃效果
-
 #### 95、[CSS Ellipsis Beginning of String]()
-
-#### 102、CSS 逻辑属性的前世今生
-
-#### 103、神奇的 CSS Resize
 
 #### 106、浅谈 HTML 与 CSS 的图片处理（Picture 与 image-set）
 
@@ -426,11 +417,11 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 108、CSS 奇思妙想 | 仅使用 CSS 实现斐波那契螺旋线
 
-#### 109、如何写出让别人看不懂的选择器？
-
 #### 110、学会内联使用 CSS 变量，减少代码提升效率
 
 #### 112、CSS at-rules(@) 规则扫盲
+
+#### 115、The CSS Paint API
 
 ## Contact Me
 
