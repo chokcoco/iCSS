@@ -431,3 +431,8 @@ CSS 奇技淫巧，在这里，都有。
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
 ![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
+
