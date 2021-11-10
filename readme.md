@@ -435,4 +435,5 @@ CSS 奇技淫巧，在这里，都有。
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
+[Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)
 
