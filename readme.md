@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 114、[3D 穿梭效果？使用 CSS 轻松搞定](https://github.com/chokcoco/iCSS/issues/148)
 
+![](https://user-images.githubusercontent.com/8554143/141036836-b82282d9-a869-4d33-b031-567a38aed965.gif)
+
 #### 113、[仅仅使用 HTML/CSS 实现进度条的 N 种方式](https://github.com/chokcoco/iCSS/issues/146)
 
 ![](https://user-images.githubusercontent.com/8554143/130446725-8dc02d0e-8fc7-43b1-995c-a26f25392c0c.gif)
