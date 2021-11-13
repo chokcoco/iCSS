@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 115、[巧用滤镜实现高级感拉满的文字快闪切换效果](https://github.com/chokcoco/iCSS/issues/149)
+
 #### 114、[3D 穿梭效果？使用 CSS 轻松搞定](https://github.com/chokcoco/iCSS/issues/148)
 
 ![](https://user-images.githubusercontent.com/8554143/141036836-b82282d9-a869-4d33-b031-567a38aed965.gif)
