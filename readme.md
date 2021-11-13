@@ -11,11 +11,13 @@ CSS 奇技淫巧，在这里，都有。
 
 所有文章也都会同步更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
 
-<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
+<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
 ## 文章列表
 
 #### 115、[巧用滤镜实现高级感拉满的文字快闪切换效果](https://github.com/chokcoco/iCSS/issues/149)
+
+<img width=400 src="https://user-images.githubusercontent.com/8554143/140746534-93b02f03-7624-4d1a-b832-9269f7c4f848.gif" />
 
 #### 114、[3D 穿梭效果？使用 CSS 轻松搞定](https://github.com/chokcoco/iCSS/issues/148)
 
