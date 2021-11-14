@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 116、[巧用渐变实现高级感拉满的背景光动画](https://github.com/chokcoco/iCSS/issues/150)
+
 #### 115、[巧用滤镜实现高级感拉满的文字快闪切换效果](https://github.com/chokcoco/iCSS/issues/149)
 
 <img width=400 src="https://user-images.githubusercontent.com/8554143/140746534-93b02f03-7624-4d1a-b832-9269f7c4f848.gif" />
