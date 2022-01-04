@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 121、[Amazing！！CSS 也能实现烟雾效果？](https://github.com/chokcoco/iCSS/issues/156)
 
+![](https://user-images.githubusercontent.com/8554143/147098212-8f74ce74-2069-4d28-98ad-6cea0990bdfe.gif)
+
 #### 120、[Amazing！！CSS 也能实现极光？](https://github.com/chokcoco/iCSS/issues/155)
 
 ![](https://user-images.githubusercontent.com/8554143/146188628-c878bc0c-e48e-48fc-99fb-1fc593580df8.gif)
