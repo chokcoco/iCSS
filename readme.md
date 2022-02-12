@@ -21,6 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 123、[妙用滤镜构建高级感拉满的磨砂玻璃渐变背景](https://github.com/chokcoco/iCSS/issues/157)
 
+![](https://user-images.githubusercontent.com/8554143/148382115-b8092fb6-1e17-46e7-a61d-6fa3cc838e7c.png)
+
 #### 122、[深入探讨 filter 与 backdrop-filter 的异同](https://github.com/chokcoco/iCSS/issues/147)
 
 #### 121、[Amazing！！CSS 也能实现烟雾效果？](https://github.com/chokcoco/iCSS/issues/156)
