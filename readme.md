@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 125、[巧用 CSS 实现动态线条 Loading 动画](https://github.com/chokcoco/iCSS/issues/158)
 
+![](https://user-images.githubusercontent.com/8554143/149146680-b1d7f89b-2e6a-4787-85bd-c7d871564816.gif)
+
 #### 124、[深入浅出 CSS 动画](https://github.com/chokcoco/iCSS/issues/141)
 
 #### 123、[妙用滤镜构建高级感拉满的磨砂玻璃渐变背景](https://github.com/chokcoco/iCSS/issues/157)
