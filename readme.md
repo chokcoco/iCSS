@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 126、[LPL Ban/Pick 选人阶段的遮罩效果是如何实现的？](https://github.com/chokcoco/iCSS/issues/159)
+
+![](https://user-images.githubusercontent.com/8554143/150136348-ea717988-9e1c-4503-b040-719dde193521.gif)
+
 #### 125、[巧用 CSS 实现动态线条 Loading 动画](https://github.com/chokcoco/iCSS/issues/158)
 
 ![](https://user-images.githubusercontent.com/8554143/149146680-b1d7f89b-2e6a-4787-85bd-c7d871564816.gif)
