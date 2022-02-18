@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 127、[扫盲贴：2021 CSS 最冷门特性都是些啥？](https://github.com/chokcoco/iCSS/issues/161)
+
+![](https://user-images.githubusercontent.com/8554143/153198755-aac1ca13-80c3-4459-9746-3a418a939dd6.png)
+
 #### 127、[疑难杂症：运用 transform 导致文本模糊的现象探究](https://github.com/chokcoco/iCSS/issues/160)
 
 #### 126、[LPL Ban/Pick 选人阶段的遮罩效果是如何实现的？](https://github.com/chokcoco/iCSS/issues/159)
