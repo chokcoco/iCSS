@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 129、[小技巧 | 渐变消失遮罩的多种实现方式](https://github.com/chokcoco/iCSS/issues/163)
+
 #### 128、[巧用 CSS 实现炫彩三角边框动画](https://github.com/chokcoco/iCSS/issues/162)
 
 ![](https://user-images.githubusercontent.com/8554143/153760987-305539d2-1896-4717-9551-f054fd9ba6f1.gif)
