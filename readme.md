@@ -15,13 +15,13 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 129、[小技巧 | 渐变消失遮罩的多种实现方式](https://github.com/chokcoco/iCSS/issues/163)
+#### 130、[小技巧 | 渐变消失遮罩的多种实现方式](https://github.com/chokcoco/iCSS/issues/163)
 
-#### 128、[巧用 CSS 实现炫彩三角边框动画](https://github.com/chokcoco/iCSS/issues/162)
+#### 129、[巧用 CSS 实现炫彩三角边框动画](https://github.com/chokcoco/iCSS/issues/162)
 
 ![](https://user-images.githubusercontent.com/8554143/153760987-305539d2-1896-4717-9551-f054fd9ba6f1.gif)
 
-#### 127、[扫盲贴：2021 CSS 最冷门特性都是些啥？](https://github.com/chokcoco/iCSS/issues/161)
+#### 128、[扫盲贴：2021 CSS 最冷门特性都是些啥？](https://github.com/chokcoco/iCSS/issues/161)
 
 ![](https://user-images.githubusercontent.com/8554143/153198755-aac1ca13-80c3-4459-9746-3a418a939dd6.png)
 
