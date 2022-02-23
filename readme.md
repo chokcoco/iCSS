@@ -9,7 +9,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## iCSS 前端趣闻
 
-所有文章也都会同步更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
+所有文章会首发更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
 
 <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
