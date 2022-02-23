@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 131、[突破限制，CSS font-variation 可变字体的魅力](https://github.com/chokcoco/iCSS/issues/164)
 
+![](https://user-images.githubusercontent.com/8554143/154795501-7ae58f37-df35-43ae-803c-16af9bad9d31.gif)
+
 #### 130、[小技巧 | 渐变消失遮罩的多种实现方式](https://github.com/chokcoco/iCSS/issues/163)
 
 ![](https://user-images.githubusercontent.com/8554143/154455188-ca43054a-c34d-4eb0-89ca-ee2a3881e796.png)
