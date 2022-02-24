@@ -43,6 +43,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 124、[深入浅出 CSS 动画](https://github.com/chokcoco/iCSS/issues/141)
 
+![](https://user-images.githubusercontent.com/8554143/148633639-66ceea90-94ea-4e1e-9bfe-38d4917a2a51.gif)
+
 #### 123、[妙用滤镜构建高级感拉满的磨砂玻璃渐变背景](https://github.com/chokcoco/iCSS/issues/157)
 
 ![](https://user-images.githubusercontent.com/8554143/148382115-b8092fb6-1e17-46e7-a61d-6fa3cc838e7c.png)
