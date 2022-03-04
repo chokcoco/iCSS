@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 133、[巧用 CSS 构建渐变彩色二维码](https://github.com/chokcoco/iCSS/issues/167)
 
+![](https://user-images.githubusercontent.com/8554143/155879216-ad6fc4e2-979a-4e52-8308-7f99ad8311de.png)
+
 #### 132、[来了来了，它终于来了，动画杀手锏 @scroll-timeline](https://github.com/chokcoco/iCSS/issues/166)
 
 ![](https://user-images.githubusercontent.com/8554143/155667488-a139c576-6abb-4001-bbf9-a6900cf09c75.gif)
