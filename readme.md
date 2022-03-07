@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 135、[利用混合模式，让文字智能适配背景颜色](https://github.com/chokcoco/iCSS/issues/169)
+
 #### 134、[系统性学习 CSS 指南及全 DEMO 练习](https://github.com/chokcoco/iCSS/issues/168)
 
 #### 133、[巧用 CSS 构建渐变彩色二维码](https://github.com/chokcoco/iCSS/issues/167)
