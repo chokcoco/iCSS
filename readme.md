@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 139、[巧用 background-clip 实现超强的文字动效 ](https://github.com/chokcoco/iCSS/issues/175)
+
+![](https://user-images.githubusercontent.com/8554143/160836908-aa36f16a-4895-41b0-91fd-5782b370579d.gif)
+
 #### 138、[一道有意思的 CSS 面试题，FizzBu​​zz ~](https://github.com/chokcoco/iCSS/issues/174)
 
 #### 137、[2022 年最受瞩目的新特性 CSS @layer 到底是个啥？](https://github.com/chokcoco/iCSS/issues/171)
