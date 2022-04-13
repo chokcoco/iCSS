@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 141、[Amazing！巧用 CSS 视差实现酷炫交互动效](https://github.com/chokcoco/iCSS/issues/178)
+
+![](https://user-images.githubusercontent.com/8554143/162746366-7d7bade9-a78d-4b18-b9af-aa79ec9f9e7e.gif)
+
 #### 140、[现代 CSS 解决方案：Modern CSS Reset](https://github.com/chokcoco/iCSS/issues/176)
 
 #### 139、[巧用 background-clip 实现超强的文字动效 ](https://github.com/chokcoco/iCSS/issues/175)
