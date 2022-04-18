@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 142、[让交互更加生动！有意思的鼠标跟随 3D 旋转动效](https://github.com/chokcoco/iCSS/issues/178)
+
 #### 141、[Amazing！巧用 CSS 视差实现酷炫交互动效](https://github.com/chokcoco/iCSS/issues/178)
 
 ![](https://user-images.githubusercontent.com/8554143/162746366-7d7bade9-a78d-4b18-b9af-aa79ec9f9e7e.gif)
