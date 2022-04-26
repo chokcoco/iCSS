@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 143、[离谱的 CSS！从表盘刻度到艺术剪纸](https://github.com/chokcoco/iCSS/issues/180)
+
+![](https://user-images.githubusercontent.com/8554143/164239137-ee2d9e90-66ac-42b3-8e66-1ce81a0b1a38.gif)
+
 #### 142、[让交互更加生动！有意思的鼠标跟随 3D 旋转动效](https://github.com/chokcoco/iCSS/issues/179)
 
 ![](https://user-images.githubusercontent.com/8554143/163177359-9b1941cd-93ec-478a-bba7-32ed34ca5945.gif)
