@@ -15,6 +15,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 145、[浅谈逻辑选择器 is、where、not、has](https://github.com/chokcoco/iCSS/issues/181)
 
 #### 144、[现代 CSS 解决方案：CSS 数学函数](https://github.com/chokcoco/iCSS/issues/177)
 
