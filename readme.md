@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 146、[动画小技巧，通过 hover 让动画只运行一次且停留在最后一帧](https://github.com/chokcoco/iCSS/issues/182)
 
+![](https://user-images.githubusercontent.com/8554143/167853146-3f842313-0cac-4f26-968f-1746fbda214f.gif)
+
 #### 145、[浅谈逻辑选择器 is、where、not、has](https://github.com/chokcoco/iCSS/issues/181)
 
 #### 144、[现代 CSS 解决方案：CSS 数学函数](https://github.com/chokcoco/iCSS/issues/177)
