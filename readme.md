@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 147、[文字轮播与图片轮播？CSS 不在话下](https://github.com/chokcoco/iCSS/issues/183)
+
 #### 146、[动画小技巧，通过 hover 让动画只运行一次且停留在最后一帧](https://github.com/chokcoco/iCSS/issues/182)
 
 ![](https://user-images.githubusercontent.com/8554143/167853146-3f842313-0cac-4f26-968f-1746fbda214f.gif)
