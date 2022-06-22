@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 149、[有意思的鼠标指针交互探究](https://github.com/chokcoco/iCSS/issues/186)
 
+![](https://user-images.githubusercontent.com/8554143/173178051-22618d6a-cdb9-4d8f-ac65-f895ae4e0c0b.gif)
+
 #### 148、[使用 content-visibility 优化渲染性能](https://github.com/chokcoco/iCSS/issues/185)
 
 #### 147、[文字轮播与图片轮播？CSS 不在话下](https://github.com/chokcoco/iCSS/issues/184)
