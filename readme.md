@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 150、[超 Nice 的表格响应式布局小技巧](https://github.com/chokcoco/iCSS/issues/187)
 
+![](https://user-images.githubusercontent.com/8554143/174429173-b2b8352c-1b9a-40d0-a69e-15ceb7b1636f.gif)
+
 #### 149、[有意思的鼠标指针交互探究](https://github.com/chokcoco/iCSS/issues/186)
 
 ![](https://user-images.githubusercontent.com/8554143/173178051-22618d6a-cdb9-4d8f-ac65-f895ae4e0c0b.gif)
