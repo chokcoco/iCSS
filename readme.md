@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 151、[使用纯 CSS 实现超酷炫的粘性气泡效果](https://github.com/chokcoco/iCSS/issues/188)
+
 #### 150、[超 Nice 的表格响应式布局小技巧](https://github.com/chokcoco/iCSS/issues/187)
 
 ![](https://user-images.githubusercontent.com/8554143/174429173-b2b8352c-1b9a-40d0-a69e-15ceb7b1636f.gif)
