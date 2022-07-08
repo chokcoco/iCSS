@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 152、[高阶切图技巧！基于单张图片的任意颜色转换](https://github.com/chokcoco/iCSS/issues/189)
+
 #### 151、[使用纯 CSS 实现超酷炫的粘性气泡效果](https://github.com/chokcoco/iCSS/issues/188)
 
 ![](https://user-images.githubusercontent.com/8554143/175025476-d27fca48-62af-462f-b030-af6c818e6055.gif)
