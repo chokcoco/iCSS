@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 153、[利用噪声构建美妙的 CSS 图形](https://github.com/chokcoco/iCSS/issues/190)
+
 #### 152、[高阶切图技巧！基于单张图片的任意颜色转换](https://github.com/chokcoco/iCSS/issues/189)
 
 ![](https://user-images.githubusercontent.com/8554143/175951163-e8175533-b6e7-4a26-b28d-b1a3bb195fb5.png)
