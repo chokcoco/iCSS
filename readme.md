@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 157、[使用 CSS 构建强大且酷炫的粒子动画](https://github.com/chokcoco/iCSS/issues/195)
+
+![](https://user-images.githubusercontent.com/8554143/179990358-5d13aa58-486c-4461-9e16-f04295110d35.gif)
+
 #### 156、[妙用 CSS 构建花式透视背景效果](https://github.com/chokcoco/iCSS/issues/194)
 
 ![](https://user-images.githubusercontent.com/8554143/179509709-e60ac03f-5db6-41e7-ace7-2ac07f031777.gif)
