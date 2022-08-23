@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 159、[妙啊！纯 CSS 实现拼图游戏](https://github.com/chokcoco/iCSS/issues/197)
 
+![](https://user-images.githubusercontent.com/8554143/182617117-4512bb74-d7eb-4a39-8e85-0a02cd52b9f5.gif)
+
 #### 158、[多行文本下的文字渐隐消失术](https://github.com/chokcoco/iCSS/issues/196)
 
 ![](https://user-images.githubusercontent.com/8554143/182107902-b8e414f1-4d30-442e-b1d2-29234b2b5323.gif)
