@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 160、[巧用 transition 实现短视频 APP 点赞动画](https://github.com/chokcoco/iCSS/issues/198)
+
+![](https://user-images.githubusercontent.com/8554143/183909772-acf0837c-1145-4078-8702-6b7f994328d7.gif)
+
 #### 159、[妙啊！纯 CSS 实现拼图游戏](https://github.com/chokcoco/iCSS/issues/197)
 
 ![](https://user-images.githubusercontent.com/8554143/182617117-4512bb74-d7eb-4a39-8e85-0a02cd52b9f5.gif)
