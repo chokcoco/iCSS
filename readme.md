@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 161、[有意思的方向裁切 overflow: clip](https://github.com/chokcoco/iCSS/issues/199)
+
+![](https://user-images.githubusercontent.com/8554143/184640231-ace474c7-2699-4b1e-b99f-b38cba26a2df.gif)
+
 #### 160、[巧用 transition 实现短视频 APP 点赞动画](https://github.com/chokcoco/iCSS/issues/198)
 
 ![](https://user-images.githubusercontent.com/8554143/183909772-acf0837c-1145-4078-8702-6b7f994328d7.gif)
