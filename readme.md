@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 162、[高阶 CSS 技巧在复杂动效中的应用](https://github.com/chokcoco/iCSS/issues/200)
+
+<img src="https://user-images.githubusercontent.com/8554143/187671481-5e075209-44d3-44a6-b540-4f457999ed74.gif" width="600px"/>
+
 #### 161、[有意思的方向裁切 overflow: clip](https://github.com/chokcoco/iCSS/issues/199)
 
 ![](https://user-images.githubusercontent.com/8554143/184640231-ace474c7-2699-4b1e-b99f-b38cba26a2df.gif)
