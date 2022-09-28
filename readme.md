@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 165、[单标签实现复杂的棋盘布局](https://github.com/chokcoco/iCSS/issues/203)
 
+![](https://user-images.githubusercontent.com/8554143/188442119-a443a5d4-e268-4e5b-8341-62ca614cda8d.png)
+
 #### 164、[新时代布局新特性 -- 容器查询](https://github.com/chokcoco/iCSS/issues/201)
 
 ![](https://user-images.githubusercontent.com/8554143/186677287-a1076390-f74c-4a2b-a8be-a385d4326057.gif)
