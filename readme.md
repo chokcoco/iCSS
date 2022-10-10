@@ -15,9 +15,11 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 166、[超强的纯 CSS 鼠标点击拖拽效果](https://github.com/chokcoco/iCSS/issues/207)
+#### 167、[超强的纯 CSS 鼠标点击拖拽效果](https://github.com/chokcoco/iCSS/issues/207)
 
 ![](https://user-images.githubusercontent.com/8554143/190998870-cca39d69-be96-4ae6-a245-52ee62cbd429.gif)
+
+#### 166、[两道超有意思的 CSS 面试题，试试你的基础](https://github.com/chokcoco/iCSS/issues/206)
 
 #### 165、[单标签实现复杂的棋盘布局](https://github.com/chokcoco/iCSS/issues/203)
 
