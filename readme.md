@@ -618,11 +618,13 @@ CSS 奇技淫巧，在这里，都有。
 
 ## Contact Me
 
-如果有任何问题或者疑问，可以加 QQ 群：418766876 一起讨论，[一键加群](//shang.qq.com/wpa/qunwpa?idkey=318940c0ae56f4556447291fb2fc6147a7b1760487c49c1e3410c377d946fc5a) 。
+如果有任何问题或者疑问，可以加 QQ 群：277148014 一起讨论。
 
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
-![qun](https://github.com/chokcoco/iCSS/blob/master/qqqun.png)
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png">
+
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=XlrxSbkM18kjD1Ei92htflAg52KyM1XV&jump_from=webapi&authKey=9aL9JRsJWV0qTicBmGoy6QhraObHmmEaF8SdsMP1My1Vo2sfngeEXHYCD2XW6d5Y"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="iCSS 前端交流 V2.0" title="iCSS 前端交流 V2.0"></a>
 
 ## Stargazers over time
 
