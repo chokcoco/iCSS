@@ -624,8 +624,6 @@ CSS 奇技淫巧，在这里，都有。
 
 <img width="442" alt="image" src="https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png">
 
-<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=XlrxSbkM18kjD1Ei92htflAg52KyM1XV&jump_from=webapi&authKey=9aL9JRsJWV0qTicBmGoy6QhraObHmmEaF8SdsMP1My1Vo2sfngeEXHYCD2XW6d5Y"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="iCSS 前端交流 V2.0" title="iCSS 前端交流 V2.0"></a>
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
