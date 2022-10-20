@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 168、[超强的苹果官网滚动文字特效实现](https://github.com/chokcoco/iCSS/issues/208)
+
+![](https://user-images.githubusercontent.com/8554143/195977878-9833a3bf-4537-4ccf-9111-7d2be26c7b33.gif)
+
 #### 167、[超强的纯 CSS 鼠标点击拖拽效果](https://github.com/chokcoco/iCSS/issues/207)
 
 ![](https://user-images.githubusercontent.com/8554143/190998870-cca39d69-be96-4ae6-a245-52ee62cbd429.gif)
