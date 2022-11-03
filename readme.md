@@ -19,7 +19,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 169、[CSS 渐变锯齿消失术](https://github.com/chokcoco/iCSS/issues/209)
 
-![](https://user-images.githubusercontent.com/8554143/199421848-ca53828c-5244-4b80-b34d-74215d232a0d.png)
+![](https://user-images.githubusercontent.com/8554143/198038342-79e90db9-3347-43d7-a5e5-c8bfb4fb63af.gif)
 
 #### 168、[超强的苹果官网滚动文字特效实现](https://github.com/chokcoco/iCSS/issues/208)
 
