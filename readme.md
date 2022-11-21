@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 171、[快速构建 3D Visualization of DOM](https://github.com/chokcoco/iCSS/issues/210)
 
+![](https://user-images.githubusercontent.com/8554143/197375744-c35038f6-f498-492e-a065-02376471a78b.gif)
+
 #### 170、[CSS at-rules(@) 规则扫盲](https://github.com/chokcoco/iCSS/issues/204)
 
 #### 169、[CSS 渐变锯齿消失术](https://github.com/chokcoco/iCSS/issues/209)
