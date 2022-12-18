@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 175、[现代 CSS 高阶技巧，完美的波浪进度条效果！](https://github.com/chokcoco/iCSS/issues/220)
+
+![](https://user-images.githubusercontent.com/8554143/204078431-ee7cf2d3-3340-4713-a26e-51a6adbea76c.gif)
+
 #### 174、[现代 CSS 高阶技巧，像 Canvas 一样自由绘图构建样式！](https://github.com/chokcoco/iCSS/issues/217)
 
 ![](https://user-images.githubusercontent.com/8554143/203250544-89dcff90-8c3c-4bda-9e70-33a2e7d828a5.png)
