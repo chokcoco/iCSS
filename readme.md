@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 176、[现代 CSS 高阶技巧，不规则边框解决方案](https://github.com/chokcoco/iCSS/issues/221)
+
+![](https://user-images.githubusercontent.com/8554143/204084009-611b9415-dd6f-467e-96a4-c2c5373fab08.gif)
+
 #### 175、[现代 CSS 高阶技巧，完美的波浪进度条效果！](https://github.com/chokcoco/iCSS/issues/220)
 
 ![](https://user-images.githubusercontent.com/8554143/204078431-ee7cf2d3-3340-4713-a26e-51a6adbea76c.gif)
