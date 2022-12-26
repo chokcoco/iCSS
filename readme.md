@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 177、[不规则图形背景排版高阶技巧 -- 酷炫的六边形网格背景图](https://github.com/chokcoco/iCSS/issues/215)
 
+![](https://user-images.githubusercontent.com/8554143/206407140-0a7fc0da-c8bf-4f26-b15e-0cb07c29b963.gif)
+
 #### 176、[现代 CSS 高阶技巧，不规则边框解决方案](https://github.com/chokcoco/iCSS/issues/221)
 
 ![](https://user-images.githubusercontent.com/8554143/204084009-611b9415-dd6f-467e-96a4-c2c5373fab08.gif)
