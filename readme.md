@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 178、[巧用视觉障眼法，还原 3D 文字特效](https://github.com/chokcoco/iCSS/issues/219)
+
 #### 177、[不规则图形背景排版高阶技巧 -- 酷炫的六边形网格背景图](https://github.com/chokcoco/iCSS/issues/215)
 
 ![](https://user-images.githubusercontent.com/8554143/206407140-0a7fc0da-c8bf-4f26-b15e-0cb07c29b963.gif)
