@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 182、[CSS 高阶技巧 -- 不定宽文本溢出跑马灯效果完美解决方案](https://github.com/chokcoco/iCSS/issues/225)
+
+![](https://user-images.githubusercontent.com/8554143/219847245-baf51088-c7e5-450d-b277-06b8f2989443.gif)
+
 #### 181、[由小见大！不规则造型按钮解决方案](https://github.com/chokcoco/iCSS/issues/224)
 
 ![](https://user-images.githubusercontent.com/8554143/218682392-bbf4bace-e73d-4afa-9727-74ee3a79ac3a.png)
