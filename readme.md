@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 183、[巧用 CSS 变量，实现动画函数复用，制作高级感拉满的网格动画](https://github.com/chokcoco/iCSS/issues/226)
+
+![](https://user-images.githubusercontent.com/8554143/222392984-ee7caa2a-d8d9-43c2-ae4c-4bd2e8d50db1.gif)
+
 #### 182、[CSS 高阶技巧 -- 不定宽文本溢出跑马灯效果完美解决方案](https://github.com/chokcoco/iCSS/issues/225)
 
 ![](https://user-images.githubusercontent.com/8554143/219847245-baf51088-c7e5-450d-b277-06b8f2989443.gif)
