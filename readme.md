@@ -15,6 +15,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 185、[有趣的六芒星能力图动画](https://github.com/chokcoco/iCSS/issues/228)
+
+![](https://user-images.githubusercontent.com/8554143/226392554-8f59f5ee-5cd2-4fc4-bdb8-71dab454cd07.gif)
+
 #### 184、[CSS 高阶小技巧 - 角向渐变的妙用！](https://github.com/chokcoco/iCSS/issues/227)
 
 ![](https://user-images.githubusercontent.com/8554143/225660319-9dc4c4f8-a624-4219-820d-44918fb75fe6.png)
