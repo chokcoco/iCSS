@@ -15,6 +15,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
+#### 186、[有意思的气泡 Loading 效果](https://github.com/chokcoco/iCSS/issues/231)
+
 #### 185、[有趣的六芒星能力图动画](https://github.com/chokcoco/iCSS/issues/228)
 
 ![](https://user-images.githubusercontent.com/8554143/226392554-8f59f5ee-5cd2-4fc4-bdb8-71dab454cd07.gif)
