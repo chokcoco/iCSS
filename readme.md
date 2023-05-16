@@ -695,7 +695,7 @@ CSS 奇技淫巧，在这里，都有。
 
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
-<img width="442" alt="image" src="https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png">
+<img width="300" alt="image" src="[https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png](https://github.com/chokcoco/iCSS/assets/8554143/6ea401c4-4794-410f-ab5d-2e98f252b12b)">
 
 ## Stargazers over time
 
