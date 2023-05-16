@@ -697,6 +697,9 @@ CSS 奇技淫巧，在这里，都有。
 
 <img width="300" alt="image" src="[https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png](https://github.com/chokcoco/iCSS/assets/8554143/6ea401c4-4794-410f-ab5d-2e98f252b12b)">
 
+![WechatIMG1055](https://github.com/chokcoco/iCSS/assets/8554143/86263d61-291c-4dbf-9894-75480beba14d)
+
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
