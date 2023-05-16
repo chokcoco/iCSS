@@ -7,6 +7,8 @@ CSS 奇技淫巧，在这里，都有。
 
 所有文章都在 [Issues](https://github.com/chokcoco/iCSS/issues) 中，同步更新到我的[个人博客](http://www.cnblogs.com/coco1s/)，觉得不错的可以点个 `star` 收藏支持。
 
+如果有任何问题或者疑问，可以加 QQ 群：537345029 一起讨论。
+
 ## iCSS 前端趣闻
 
 所有文章会首发更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
@@ -695,10 +697,7 @@ CSS 奇技淫巧，在这里，都有。
 
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
-<img width="300" alt="image" src="[https://user-images.githubusercontent.com/8554143/196079426-7154fdde-a19b-4734-94f7-bcbe32d539c4.png](https://github.com/chokcoco/iCSS/assets/8554143/6ea401c4-4794-410f-ab5d-2e98f252b12b)">
-
-![WechatIMG1055](https://github.com/chokcoco/iCSS/assets/8554143/86263d61-291c-4dbf-9894-75480beba14d)
-
+<img width="300" alt="image" src="https://github.com/chokcoco/iCSS/assets/8554143/86263d61-291c-4dbf-9894-75480beba14d">
 
 ## Stargazers over time
 
