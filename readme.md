@@ -17,7 +17,9 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 文章列表
 
-#### 187、[现代 CSS 解决方案：CSS 原生支持的三角函数](https://github.com/chokcoco/iCSS/issues/232)
+#### 187、[现代 CSS 解决方案：CSS 原生支持的三角函数](https://github.com/chokcoco/iCSS/issues/233)
+
+![](https://user-images.githubusercontent.com/8554143/240595711-ebfe3bb2-ac54-4c17-8604-5117b8562d6e.png)
 
 #### 186、[有意思的气泡 Loading 效果](https://github.com/chokcoco/iCSS/issues/231)
 
