@@ -25,7 +25,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 191、[【动画进阶】有意思的 Emoji 3D 表情切换效果](https://github.com/chokcoco/iCSS/issues/237)
 
-![](https://private-user-images.githubusercontent.com/8554143/257174093-20b015d2-258b-43df-bd78-8ab548af6cf2.gif)
+![](![](https://github.com/chokcoco/iCSS/assets/8554143/2f10097a-8049-40f7-941d-0332c82baefc))
 
 #### 190、[【动画进阶】有意思的网格下落渐次加载效果](https://github.com/chokcoco/iCSS/issues/235)
 
