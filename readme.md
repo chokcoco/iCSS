@@ -21,6 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 193、[抢先体验！超强的 Anchor Positioning 锚点定位](https://github.com/chokcoco/iCSS/issues/239)
 
+![](https://img2023.cnblogs.com/blog/608782/202308/608782-20230814230910889-551932555.gif)
+
 #### 192、[神奇的 3D 磨砂玻璃透视效果](https://github.com/chokcoco/iCSS/issues/238)
 
 ![258775149-4247cd7b-7b36-43d7-9231-f1490e0c442b](https://github.com/chokcoco/iCSS/assets/8554143/fe1faa52-00b5-4514-991d-7259662251a8)
