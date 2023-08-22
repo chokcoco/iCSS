@@ -27,6 +27,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 190、[【动画进阶】有意思的网格下落渐次加载效果](https://github.com/chokcoco/iCSS/issues/235)
 
+![](https://user-images.githubusercontent.com/8554143/252986059-7a3d5897-614b-4dde-95f1-eb666309fab9.gif)
+
 #### 189、[解放生产力！transform 支持单独赋值改变](https://github.com/chokcoco/iCSS/issues/236)
 
 #### 188、[单标签下的日间/黑夜模式切换按钮效果](https://github.com/chokcoco/iCSS/issues/234)
