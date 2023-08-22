@@ -23,6 +23,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 192、[神奇的 3D 磨砂玻璃透视效果](https://github.com/chokcoco/iCSS/issues/238)
 
+![258775149-4247cd7b-7b36-43d7-9231-f1490e0c442b](https://github.com/chokcoco/iCSS/assets/8554143/fe1faa52-00b5-4514-991d-7259662251a8)
+
 #### 191、[【动画进阶】有意思的 Emoji 3D 表情切换效果](https://github.com/chokcoco/iCSS/issues/237)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/2f10097a-8049-40f7-941d-0332c82baefc)
