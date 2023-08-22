@@ -19,6 +19,8 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 194、[震惊！CSS 也能实现碰撞检测？](https://github.com/chokcoco/iCSS/issues/241)
 
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f46ba2d04d7c4a9d8ec5ad28a2d997e2~tplv-k3u1fbpfcp-watermark.image?)
+
 #### 193、[抢先体验！超强的 Anchor Positioning 锚点定位](https://github.com/chokcoco/iCSS/issues/239)
 
 ![](https://img2023.cnblogs.com/blog/608782/202308/608782-20230814230910889-551932555.gif)
