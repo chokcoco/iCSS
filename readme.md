@@ -723,11 +723,11 @@ CSS 奇技淫巧，在这里，都有。
 
 ## Contact Me
 
-如果有任何问题或者疑问，可以加 QQ 群：537345029 一起讨论。
+如果有任何问题或者疑问，可以加 QQ 群：631646691 一起讨论。
 
 也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
 
-<img width="300" alt="image" src="https://github.com/chokcoco/iCSS/assets/8554143/86263d61-291c-4dbf-9894-75480beba14d">
+![WechatIMG175832](https://github.com/chokcoco/iCSS/assets/8554143/9fc5b3b9-0119-464d-bfe7-9bab68f02dda)
 
 ## Stargazers over time
 
