@@ -17,6 +17,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 195、[现代 CSS 解决方案：数学函数 Round](https://github.com/chokcoco/iCSS/issues/242)
+
+![](https://user-images.githubusercontent.com/8554143/264971324-c10e3935-2a30-4aed-81dd-0102ad6dc422.gif)
+
 #### 194、[震惊！CSS 也能实现碰撞检测？](https://github.com/chokcoco/iCSS/issues/241)
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f46ba2d04d7c4a9d8ec5ad28a2d997e2~tplv-k3u1fbpfcp-watermark.image?)
