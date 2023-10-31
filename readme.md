@@ -17,6 +17,14 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 198、[【动画进阶】神奇的背景，生化危机4日食 Loading 动画还原 ](https://github.com/chokcoco/iCSS/issues/245)
+
+![](https://user-images.githubusercontent.com/8554143/273544952-d8b83606-4925-4721-a1d4-81c9fed7382f.gif)
+
+#### 197、[【动画进阶】当路径动画遇到滚动驱动！](https://github.com/chokcoco/iCSS/issues/244)
+
+![](https://user-images.githubusercontent.com/8554143/266767709-654010fc-84bf-4684-95c7-046ef9c5a60a.gif)
+
 #### 196、[现代 CSS 解决方案：原生嵌套（Nesting）](https://github.com/chokcoco/iCSS/issues/243)
 
 #### 195、[现代 CSS 解决方案：数学函数 Round](https://github.com/chokcoco/iCSS/issues/242)
