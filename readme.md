@@ -17,6 +17,14 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 200、[【动画进阶】单标签下多色块随机文字随机颜色动画](https://github.com/chokcoco/iCSS/issues/247)
+
+![](https://camo.githubusercontent.com/c90ebae817a81c7dfe1c6a892ca3abd0df8b739d574c27a46131979b74c3f6af/68747470733a2f2f70332d6a75656a696e2e62797465696d672e636f6d2f746f732d636e2d692d6b3375316662706663702f35383330313539306665316534323665613137373565383263643638323266397e74706c762d6b3375316662706663702d6a6a2d6d61726b3a303a303a303a303a7137352e696d616765233f773d36303026683d32353026733d3135363634333526653d67696626663d31303626623d303030303030)
+
+#### 199、[CSS 还原拉斯维加斯球数字动画](https://github.com/chokcoco/iCSS/issues/246)
+
+![](https://user-images.githubusercontent.com/8554143/274851330-29a8ffd1-e412-49a5-99f4-297eccf907ed.gif)
+
 #### 198、[【动画进阶】神奇的背景，生化危机4日食 Loading 动画还原 ](https://github.com/chokcoco/iCSS/issues/245)
 
 ![](https://user-images.githubusercontent.com/8554143/273544952-d8b83606-4925-4721-a1d4-81c9fed7382f.gif)
