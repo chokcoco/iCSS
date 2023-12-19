@@ -19,7 +19,7 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 201、[CSS 也能实现 if 判断？实现动态高度下的不同样式展现](https://github.com/chokcoco/iCSS/issues/248)
 
-![](https://private-user-images.githubusercontent.com/8554143/281737535-9ef933f9-6f2f-4333-a11a-a979d349e53f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTcyODQsIm5iZiI6MTcwMjI5Njk4NCwicGF0aCI6Ii84NTU0MTQzLzI4MTczNzUzNS05ZWY5MzNmOS02ZjJmLTQzMzMtYTExYS1hOTc5ZDM0OWU1M2YuZ2lmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIxMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMTFUMTIxNjI0WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjVmYTM2NDBmZmQyM2FmMjgzZjZmYmVlMjU1NzgyY2Y3YWZkN2E4YTJhZGQwYmUzYjJiYjM2YWZmM2FmMjFkNyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.SuNV0PUjThWlJUBtWfLK-t3CPd-ygDi9LE2-MlnBB6c)
+![](https://github.com/chokcoco/iCSS/assets/8554143/9ef933f9-6f2f-4333-a11a-a979d349e53f)
 
 #### 200、[【动画进阶】单标签下多色块随机文字随机颜色动画](https://github.com/chokcoco/iCSS/issues/247)
 
