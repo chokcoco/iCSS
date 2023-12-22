@@ -17,6 +17,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 202、[【布局技巧】Flex 布局下居中溢出滚动截断问题](https://github.com/chokcoco/iCSS/issues/249)
+
+![288605244-2228ef21-e75c-4d5c-ae31-c472bf20e947](https://github.com/chokcoco/iCSS/assets/8554143/eabca028-5225-4b58-8e57-1e3a2dc32710)
+
 #### 201、[CSS 也能实现 if 判断？实现动态高度下的不同样式展现](https://github.com/chokcoco/iCSS/issues/248)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/9ef933f9-6f2f-4333-a11a-a979d349e53f)
