@@ -17,6 +17,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 203、[带圆角的虚线边框？CSS 不在话下](https://github.com/chokcoco/iCSS/issues/250)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/94750b76-b565-42cb-b261-bc3ed0447f09)
+
 #### 202、[【布局技巧】Flex 布局下居中溢出滚动截断问题](https://github.com/chokcoco/iCSS/issues/249)
 
 ![288605244-2228ef21-e75c-4d5c-ae31-c472bf20e947](https://github.com/chokcoco/iCSS/assets/8554143/eabca028-5225-4b58-8e57-1e3a2dc32710)
