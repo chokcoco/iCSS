@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 204、[现代 CSS 解决方案：文字颜色自动适配背景色！](https://github.com/chokcoco/iCSS/issues/253)
+
 #### 203、[带圆角的虚线边框？CSS 不在话下](https://github.com/chokcoco/iCSS/issues/250)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/94750b76-b565-42cb-b261-bc3ed0447f09)
