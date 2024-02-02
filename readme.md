@@ -17,6 +17,8 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 205、[【动画进阶】神奇的 3D 卡片反光闪烁动效](https://github.com/chokcoco/iCSS/issues/254)
+
 #### 204、[现代 CSS 解决方案：文字颜色自动适配背景色！](https://github.com/chokcoco/iCSS/issues/253)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/72b9f222-8a73-4d49-966f-db61bd59eed8)
