@@ -17,6 +17,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 206、[现代 CSS 解决方案：accent-color 强调色](https://github.com/chokcoco/iCSS/issues/255)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/605cd0e3-f9a3-4f47-b416-1a1cc2683a06)
+
 #### 205、[【动画进阶】神奇的 3D 卡片反光闪烁动效](https://github.com/chokcoco/iCSS/issues/254)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/d4a79fd3-c5a0-4757-9c1f-d801bedf9a66)
