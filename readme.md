@@ -17,6 +17,14 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 208、[【动画进阶】巧用 CSS/SVG 实现复杂线条光效动画](https://github.com/chokcoco/iCSS/issues/257)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/b3d46456-7c07-4e17-9b23-97c428aca10c)
+
+#### 207、[【布局进阶】巧用 :has & drop-shadow 实现复杂布局效果](https://github.com/chokcoco/iCSS/issues/256)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/480a0e78-9a19-4587-a46e-0d3fcf84b0d4)
+
 #### 206、[现代 CSS 解决方案：accent-color 强调色](https://github.com/chokcoco/iCSS/issues/255)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/605cd0e3-f9a3-4f47-b416-1a1cc2683a06)
