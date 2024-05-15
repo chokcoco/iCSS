@@ -17,6 +17,14 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 211、[【动画进阶】类 ChatGpt 多行文本打字效果](https://github.com/chokcoco/iCSS/issues/262)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/2a2f26ae-a4bc-4139-a108-3067f31c1c52)
+
+#### 210、[【现代 CSS】标准滚动条控制规范 scrollbar-color 和 scrollbar-width](https://github.com/chokcoco/iCSS/issues/259)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/442f06e2-b525-42a0-b92a-74d3543ba5b9)
+
 #### 209、[【动画进阶】极具创意的鼠标交互动画](https://github.com/chokcoco/iCSS/issues/258)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/438e0d44-1f4b-44c0-96cc-4724eb632135)
