@@ -9,7 +9,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 按分类进行阅读
 
-<a style="border-radius: 20px;background: #03A9F4;padding: 4px 20px;color: #fff;" href="https://github.com/chokcoco/iCSS/labels/3D" target="_blank"><span>3D</span></a>
+<a style="border-radius: 20px;background: #03A9F4;padding: 4px 20px;color: #fff;" href="https://github.com/chokcoco/iCSS/labels/3D" target="_blank"><span style="border-radius: 20px;background: #03A9F4;padding: 4px 20px;color: #fff;">3D</span></a>
+
+[3D](https://github.com/chokcoco/iCSS/labels/3D) [Background](https://github.com/chokcoco/iCSS/labels/Background)
+
 
 ## iCSS 前端趣闻
 
