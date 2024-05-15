@@ -9,7 +9,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## 按分类进行阅读
 
-<a href="/chokcoco/iCSS/labels/3D"><span>3D</span></a>
+<a href="/chokcoco/iCSS/labels/3D" target="_blank"><span>3D</span></a>
 
 ## iCSS 前端趣闻
 
