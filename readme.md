@@ -19,9 +19,12 @@ CSS 奇技淫巧，在这里，都有。
 
 ## iCSS 前端趣闻
 
-所有内容会首发更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
+所有内容首发更新到我的**公众号**，超高质量**前端微信群聊**，获取最有意思的前端（不止于 CSS）技巧，千万不要错过：
 
-<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
+<!-- <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" /> -->
+
+<img width="755" alt="image" src="https://github.com/chokcoco/iCSS/assets/8554143/2fdf9450-5fc1-41d0-aec0-614d15c45896">
+
 
 ## LIST
 
