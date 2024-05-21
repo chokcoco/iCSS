@@ -19,7 +19,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## iCSS 前端趣闻
 
-所有内容首发更新到我的**公众号**，超高质量**微信群聊**，获取最有意思的前端（不止于 CSS）技巧，不要错过：
+所有内容首发更新到我的**公众号**，以及 iCSS 有高质量**微信群聊**，感兴趣不要错过：
 
 <!-- <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" /> -->
 
