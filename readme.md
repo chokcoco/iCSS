@@ -774,38 +774,6 @@ CSS 奇技淫巧，在这里，都有。
 
 ![image](https://user-images.githubusercontent.com/8554143/87442343-c686c780-c626-11ea-871a-d95f3176f6a4.png)
 
--------
-
-> （正在写但未完成的）
-
-#### 100、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
-
-#### 99、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
-
-#### 101、噪声在CSS中的应用
-
-#### 95、[CSS Ellipsis Beginning of String]()
-
-#### 106、浅谈 HTML 与 CSS 的图片处理（Picture 与 image-set）
-
-#### 107、CSS 中的障眼法
-
-#### 108、CSS 奇思妙想 | 仅使用 CSS 实现斐波那契螺旋线
-
-#### 110、学会内联使用 CSS 变量，减少代码提升效率
-
-#### 112、CSS at-rules(@) 规则扫盲
-
-#### 115、The CSS Paint API
-
-## Contact Me
-
-如果有任何问题或者疑问，可以加 QQ 群：631646691 一起讨论。
-
-也欢迎想讨论各种天马行空的 CSS 相关问题的小伙伴们加入。
-
-![WechatIMG175832](https://github.com/chokcoco/iCSS/assets/8554143/9fc5b3b9-0119-464d-bfe7-9bab68f02dda)
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
