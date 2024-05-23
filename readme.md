@@ -21,9 +21,8 @@ CSS 奇技淫巧，在这里，都有。
 
 所有内容首发更新到我的**公众号**，以及 iCSS 有高质量**微信群聊**，感兴趣不要错过：
 
-<!-- <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" /> -->
+<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
-<img width="500" alt="image" src="https://github.com/chokcoco/iCSS/assets/8554143/2fdf9450-5fc1-41d0-aec0-614d15c45896">
 
 
 ## LIST
