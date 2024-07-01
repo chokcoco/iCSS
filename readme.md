@@ -27,6 +27,10 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 212、[【动画进阶】神奇的卡片 Hover 效果与 Blur 的特性探究](https://github.com/chokcoco/iCSS/issues/263)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/92d47216-b270-4f27-babb-fb37d6e7e905)
+
 #### 211、[【动画进阶】类 ChatGpt 多行文本打字效果](https://github.com/chokcoco/iCSS/issues/262)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/2a2f26ae-a4bc-4139-a108-3067f31c1c52)
