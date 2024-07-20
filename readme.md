@@ -23,9 +23,11 @@ CSS 奇技淫巧，在这里，都有。
 
 <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
-
-
 ## LIST
+
+#### 213、[渐变边框文字效果？CSS 轻松拿捏！](https://github.com/chokcoco/iCSS/issues/264)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/a5dd4c71-cd33-4283-8df8-906f0aba2a5e)
 
 #### 212、[【动画进阶】神奇的卡片 Hover 效果与 Blur 的特性探究](https://github.com/chokcoco/iCSS/issues/263)
 
