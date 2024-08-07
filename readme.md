@@ -25,6 +25,14 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 215、[全尺寸的带圆角的渐变边框](https://github.com/chokcoco/iCSS/issues/266)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/aa45cff6-d6b0-4c80-9289-04eac2110075)
+
+#### 214、[巧妙使用多种方式实现单侧阴影](https://github.com/chokcoco/iCSS/issues/265)
+
+![](https://github.com/chokcoco/iCSS/assets/8554143/fe6e93e4-578d-491e-83d7-883c142bbd2d)
+
 #### 213、[渐变边框文字效果？CSS 轻松拿捏！](https://github.com/chokcoco/iCSS/issues/264)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/fc584688-1848-4f91-ba16-c40db24c5598)
