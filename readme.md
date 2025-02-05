@@ -25,6 +25,12 @@ CSS 奇技淫巧，在这里，都有。
 
 ## LIST
 
+#### 217、[【动画进阶】单标签实现多行文本随滚动颜色变换](https://github.com/chokcoco/iCSS/issues/269)
+
+![](https://github.com/user-attachments/assets/784fbce5-0e77-4365-acb2-3e008a7c4e96)
+
+#### 216、[【现代 CSS】更强大的 :nth-child 选择器](https://github.com/chokcoco/iCSS/issues/267)
+
 #### 215、[全尺寸的带圆角的渐变边框](https://github.com/chokcoco/iCSS/issues/266)
 
 ![](https://github.com/chokcoco/iCSS/assets/8554143/aa45cff6-d6b0-4c80-9289-04eac2110075)
