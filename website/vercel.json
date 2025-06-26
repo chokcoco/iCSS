@@ -3,8 +3,7 @@
     "devCommand": "pnpm dev",
     "installCommand": "pnpm install",
     "regions": [
-        "hkg1",
-        "hnd1"
+        "hkg1"
     ],
     "functions": {
         "app/api/**/*.ts": {
