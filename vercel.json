@@ -1,8 +1,0 @@
-{
-    "buildCommand": "cd website && pnpm build",
-    "devCommand": "cd website && pnpm dev",
-    "installCommand": "cd website && pnpm install",
-    "outputDirectory": "website/.next",
-    "framework": "nextjs",
-    "nodejs": "18.x"
-}
