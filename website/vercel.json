@@ -4,7 +4,7 @@
     "installCommand": "pnpm install",
     "regions": [
         "hkg1",
-        "nrt1"
+        "hnd1"
     ],
     "functions": {
         "app/api/**/*.ts": {
