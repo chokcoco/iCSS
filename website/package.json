@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "iCSS 文章展示网站",
   "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
