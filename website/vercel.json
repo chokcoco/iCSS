@@ -1,0 +1,16 @@
+{
+    "framework": "nextjs",
+    "buildCommand": "pnpm build",
+    "devCommand": "pnpm dev",
+    "installCommand": "pnpm install",
+    "nodejs": "18.x",
+    "regions": [
+        "hkg1",
+        "nrt1"
+    ],
+    "functions": {
+        "app/api/**/*.ts": {
+            "maxDuration": 30
+        }
+    }
+}
