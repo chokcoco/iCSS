@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/30381bfa-82e4-43cd-b7fa-03870b05c289)
 ## ![logo](https://github.com/chokcoco/iCSS/blob/master/logo.jpg?raw=true)
 
 CSS 奇技淫巧，在这里，都有。
