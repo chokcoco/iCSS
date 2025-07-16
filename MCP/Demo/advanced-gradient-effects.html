@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高级渐变效果 - 基于iCSS技术</title>
+    <link rel="stylesheet" href="advanced-gradient-effects.css">
+</head>
+<body>
+    <div class="gradient-container">
+        <!-- 动态背景层 -->
+        <div class="bg-layer bg-animated-gradient"></div>
+        <div class="bg-layer bg-pattern-overlay"></div>
+        <div class="bg-layer bg-noise-texture"></div>
+        
+        <!-- 主要内容区域 -->
+        <div class="content-wrapper">
+            <header class="hero-section">
+                <h1 class="gradient-text">高级渐变效果展示</h1>
+                <p class="subtitle">基于 iCSS 技术的现代 CSS 渐变艺术</p>
+            </header>
+            
+            <div class="effects-grid">
+                <!-- 彩虹渐变效果 -->
+                <div class="effect-card rainbow-card">
+                    <div class="effect-demo rainbow-demo"></div>
+                    <h3>彩虹渐变</h3>
+                    <p>基于 conic-gradient 的彩虹色渐变效果</p>
+                </div>
+                
+                <!-- 玻璃态渐变 -->
+                <div class="effect-card glass-card">
+                    <div class="effect-demo glass-demo"></div>
+                    <h3>玻璃态渐变</h3>
+                    <p>backdrop-filter 配合径向渐变</p>
+                </div>
+                
+                <!-- 波浪渐变 -->
+                <div class="effect-card wave-card">
+                    <div class="effect-demo wave-demo"></div>
+                    <h3>波浪渐变</h3>
+                    <p>多层线性渐变创造波浪效果</p>
+                </div>
+                
+                <!-- 粒子渐变 -->
+                <div class="effect-card particle-card">
+                    <div class="effect-demo particle-demo"></div>
+                    <h3>粒子渐变</h3>
+                    <p>径向渐变模拟粒子效果</p>
+                </div>
+                
+                <!-- 霓虹渐变 -->
+                <div class="effect-card neon-card">
+                    <div class="effect-demo neon-demo"></div>
+                    <h3>霓虹渐变</h3>
+                    <p>发光效果配合渐变边框</p>
+                </div>
+                
+                <!-- 几何渐变 -->
+                <div class="effect-card geometric-card">
+                    <div class="effect-demo geometric-demo"></div>
+                    <h3>几何渐变</h3>
+                    <p>CSS 遮罩创造几何形状</p>
+                </div>
+            </div>
+            
+            <!-- 交互控制面板 -->
+            <div class="control-panel">
+                <h4>效果控制</h4>
+                <div class="control-group">
+                    <label>动画速度</label>
+                    <input type="range" id="speedControl" min="0.1" max="3" value="1" step="0.1">
+                </div>
+                <div class="control-group">
+                    <label>颜色强度</label>
+                    <input type="range" id="intensityControl" min="0.1" max="2" value="1" step="0.1">
+                </div>
+                <div class="control-group">
+                    <label>模糊程度</label>
+                    <input type="range" id="blurControl" min="0" max="20" value="10" step="1">
+                </div>
+                <button id="toggleEffects">暂停/播放</button>
+                <button id="randomizeColors">随机颜色</button>
+            </div>
+        </div>
+        
+        <!-- 浮动装饰元素 -->
+        <div class="floating-elements">
+            <div class="floating-orb orb-1"></div>
+            <div class="floating-orb orb-2"></div>
+            <div class="floating-orb orb-3"></div>
+            <div class="floating-orb orb-4"></div>
+        </div>
+    </div>
+    
+    <script src="advanced-gradient-effects.js"></script>
+</body>
+</html> 
