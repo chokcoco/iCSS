@@ -12,11 +12,58 @@ import Database from 'sqlite3';
 import Fuse from 'fuse.js';
 import { marked } from 'marked';
 import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 dotenv.config();
 
+// 调试模式检测
+const isDebugMode = process.env.NODE_ENV === 'development' || process.env.DEBUG;
+const debugLog = (...args) => {
+  if (isDebugMode) {
+    console.error(`[DEBUG ${new Date().toISOString()}]`, ...args);
+  }
+};
+
+// 响应格式化
+function formatResponse(data, status = 'success', message = '') {
+  const response = {
+    jsonrpc: '2.0',
+    status,
+    message,
+    result: data
+  };
+  
+  if (isDebugMode) {
+    debugLog('📤 Sending response:', JSON.stringify(response, null, 2));
+  }
+  
+  return response;
+}
+
+// 错误响应格式化
+function formatError(error, code = ErrorCode.InternalError) {
+  const response = {
+    jsonrpc: '2.0',
+    status: 'error',
+    error: {
+      code,
+      message: error.message || 'Unknown error',
+      data: isDebugMode ? error.stack : undefined
+    }
+  };
+  
+  if (isDebugMode) {
+    debugLog('❌ Sending error:', JSON.stringify(response, null, 2));
+  }
+  
+  return response;
+}
+
 class IcssServer {
   constructor() {
+    debugLog('🚀 Initializing iCSS MCP Server in debug mode');
+    
     this.server = new Server(
       {
         name: 'icss-mcp-server',
@@ -32,22 +79,32 @@ class IcssServer {
     this.db = null;
     this.searchEngine = null;
     this.isReady = false;
+    this.dbInitFailed = false;
     this.setupDatabase();
     this.setupHandlers();
   }
 
   setupDatabase() {
-    this.db = new Database.Database('./data/icss.db', (err) => {
+    debugLog('📂 Setting up database connection...');
+    // 更健壮的数据库路径
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = path.dirname(__filename);
+    const dbPath = path.join(__dirname, 'data', 'icss.db');
+    debugLog(`📍 Database path: ${dbPath}`);
+    this.db = new Database.Database(dbPath, (err) => {
       if (err) {
-        console.error('Error opening database:', err);
+        console.error('❌ Error opening database:', err);
+        this.dbInitFailed = true;
       } else {
-        console.error('Connected to SQLite database');
+        debugLog('✅ Connected to SQLite database');
         this.initializeDatabase();
       }
     });
   }
 
   initializeDatabase() {
+    debugLog('🔧 Initializing database tables...');
+    
     const createTableSQL = `
       CREATE TABLE IF NOT EXISTS issues (
         id INTEGER PRIMARY KEY,
@@ -64,20 +121,26 @@ class IcssServer {
 
     this.db.run(createTableSQL, (err) => {
       if (err) {
-        console.error('Error creating table:', err);
+        console.error('❌ Error creating table:', err);
+        this.dbInitFailed = true;
       } else {
-        console.error('Database table initialized');
+        debugLog('✅ Database table initialized');
         this.loadSearchIndex();
       }
     });
   }
 
   loadSearchIndex() {
+    debugLog('🔍 Loading search index...');
+    
     this.db.all('SELECT * FROM issues', (err, rows) => {
       if (err) {
-        console.error('Error loading search index:', err);
+        console.error('❌ Error loading search index:', err);
+        this.dbInitFailed = true;
         return;
       }
+
+      debugLog(`📊 Loaded ${rows.length} articles for search index`);
 
       const fuseOptions = {
         keys: [
@@ -92,20 +155,46 @@ class IcssServer {
 
       this.searchEngine = new Fuse(rows, fuseOptions);
       this.isReady = true;
-      console.error(`Search index loaded with ${rows.length} articles - Server ready!`);
+      debugLog(`🎉 Search index loaded with ${rows.length} articles - Server ready!`);
+      console.error(`✅ iCSS MCP Server ready! (Debug mode: ${isDebugMode})`);
     });
   }
 
-  async waitForReady() {
-    while (!this.isReady) {
+  async waitForReady(timeout = 10000) {
+    debugLog(`⏳ Waiting for server to be ready (timeout: ${timeout}ms)`);
+    const startTime = Date.now();
+    
+    while (!this.isReady && !this.dbInitFailed) {
+      if (Date.now() - startTime > timeout) {
+        debugLog('⚠️ Server initialization timeout');
+        throw new McpError(
+          ErrorCode.InternalError,
+          'Server initialization timeout'
+        );
+      }
       await new Promise(resolve => setTimeout(resolve, 100));
     }
+    
+    if (this.dbInitFailed) {
+      debugLog('❌ Server initialization failed');
+      throw new McpError(
+        ErrorCode.InternalError,
+        'Server initialization failed'
+      );
+    }
+    
+    debugLog('✅ Server is ready');
   }
 
   setupHandlers() {
+    debugLog('🔗 Setting up request handlers...');
+    
     this.server.setRequestHandler(ListToolsRequestSchema, async () => {
-      return {
-        tools: [
+      try {
+        debugLog('📋 Received ListTools request');
+        await this.waitForReady();
+        
+        const tools = [
           {
             name: 'search_css_techniques',
             description: 'Search for CSS techniques and solutions from iCSS repository issues',
@@ -155,29 +244,42 @@ class IcssServer {
               properties: {}
             }
           }
-        ]
-      };
+        ];
+        
+        return formatResponse({ tools });
+      } catch (error) {
+        return formatError(error);
+      }
     });
 
     this.server.setRequestHandler(CallToolRequestSchema, async (request) => {
       const { name, arguments: args } = request.params;
+      debugLog(`🔧 Received CallTool request: ${name}`, args);
 
       try {
-        // 等待服务器准备就绪
         await this.waitForReady();
 
+        let result;
         switch (name) {
           case 'search_css_techniques':
-            return await this.searchCssTechniques(args.query, args.limit || 5);
+            debugLog(`🔍 Executing search: "${args.query}" (limit: ${args.limit || 5})`);
+            result = await this.searchCssTechniques(args.query, args.limit || 5);
+            return formatResponse(result, 'success', `Found ${result.length} results`);
           
           case 'get_css_article':
-            return await this.getCssArticle(args.issue_number);
+            debugLog(`📖 Fetching article #${args.issue_number}`);
+            result = await this.getCssArticle(args.issue_number);
+            return formatResponse(result, 'success', `Retrieved article #${args.issue_number}`);
           
           case 'list_css_categories':
-            return await this.listCssCategories();
+            debugLog('🏷️ Listing CSS categories');
+            result = await this.listCssCategories();
+            return formatResponse(result, 'success', `Found ${result.length} categories`);
           
           case 'get_random_css_tip':
-            return await this.getRandomCssTip();
+            debugLog('🎲 Getting random CSS tip');
+            result = await this.getRandomCssTip();
+            return formatResponse(result, 'success', 'Retrieved random tip');
           
           default:
             throw new McpError(
@@ -186,28 +288,27 @@ class IcssServer {
             );
         }
       } catch (error) {
-        console.error(`Error in ${name}:`, error);
-        throw new McpError(
-          ErrorCode.InternalError,
-          `Failed to execute ${name}: ${error.message}`
+        debugLog(`❌ Error in ${name}:`, error);
+        return formatError(error, 
+          error instanceof McpError ? error.code : ErrorCode.InternalError
         );
       }
     });
   }
 
   async searchCssTechniques(query, limit = 5) {
-    console.error(`[DEBUG] searchCssTechniques called with query: "${query}", limit: ${limit}`);
-    console.error(`[DEBUG] Search engine ready: ${this.isReady}`);
+    debugLog(`[DEBUG] searchCssTechniques called with query: "${query}", limit: ${limit}`);
+    debugLog(`[DEBUG] Search engine ready: ${this.isReady}`);
     
     return new Promise((resolve, reject) => {
       const startTime = Date.now();
-      console.error(`[DEBUG] Starting search at ${new Date().toISOString()}`);
+      debugLog(`[DEBUG] Starting search at ${new Date().toISOString()}`);
       
       try {
       const results = this.searchEngine.search(query).slice(0, limit);
         const endTime = Date.now();
         
-        console.error(`[DEBUG] Search completed in ${endTime - startTime}ms, found ${results.length} results`);
+        debugLog(`[DEBUG] Search completed in ${endTime - startTime}ms, found ${results.length} results`);
       
       const formattedResults = results.map(result => {
         const item = result.item;
@@ -227,7 +328,7 @@ class IcssServer {
         };
       });
 
-        console.error(`[DEBUG] Formatted ${formattedResults.length} results, returning response`);
+        debugLog(`[DEBUG] Formatted ${formattedResults.length} results, returning response`);
 
       resolve({
         content: [
@@ -245,27 +346,33 @@ class IcssServer {
         ]
       });
       } catch (error) {
-        console.error(`[DEBUG] Search failed with error:`, error);
+        debugLog(`[DEBUG] Search failed with error:`, error);
         reject(error);
       }
     });
   }
 
   async getCssArticle(issueNumber) {
+    debugLog(`📖 Getting article #${issueNumber}`);
+    
     return new Promise((resolve, reject) => {
       this.db.get(
         'SELECT * FROM issues WHERE number = ?',
         [issueNumber],
         (err, row) => {
           if (err) {
+            debugLog(`❌ Database error for article #${issueNumber}:`, err);
             reject(err);
             return;
           }
 
           if (!row) {
+            debugLog(`❌ Article #${issueNumber} not found`);
             reject(new Error(`Article with issue number ${issueNumber} not found`));
             return;
           }
+
+          debugLog(`✅ Found article #${issueNumber}: "${row.title}"`);
 
           const htmlContent = marked(row.body || '');
           const labels = row.labels ? JSON.parse(row.labels) : [];
@@ -288,11 +395,14 @@ class IcssServer {
   }
 
   async listCssCategories() {
+    debugLog('🏷️ Listing CSS categories');
+    
     return new Promise((resolve, reject) => {
       this.db.all(
         'SELECT labels, COUNT(*) as count FROM issues WHERE labels IS NOT NULL GROUP BY labels',
         (err, rows) => {
           if (err) {
+            debugLog('❌ Error getting categories:', err);
             reject(err);
             return;
           }
@@ -312,6 +422,8 @@ class IcssServer {
             .sort((a, b) => b[1] - a[1])
             .map(([label, count]) => ({ label, count }));
 
+          debugLog(`✅ Found ${categories.length} categories`);
+
           resolve({
             content: [
               {
@@ -329,11 +441,14 @@ class IcssServer {
   }
 
   async getRandomCssTip() {
+    debugLog('🎲 Getting random CSS tip');
+    
     return new Promise((resolve, reject) => {
       this.db.get(
         'SELECT * FROM issues ORDER BY RANDOM() LIMIT 1',
         (err, row) => {
           if (err) {
+            debugLog('❌ Error getting random tip:', err);
             reject(err);
             return;
           }
@@ -342,6 +457,8 @@ class IcssServer {
             reject(new Error('No articles available'));
             return;
           }
+
+          debugLog(`✅ Random tip: "${row.title}" (Issue #${row.number})`);
 
           const labels = row.labels ? JSON.parse(row.labels) : [];
           const preview = this.extractPreview(row.body);
@@ -379,11 +496,21 @@ class IcssServer {
   }
 
   async run() {
+    debugLog('🚀 Starting MCP Server transport...');
     const transport = new StdioServerTransport();
-    await this.server.connect(transport);
-    console.error('iCSS MCP Server running on stdio');
+    debugLog('🎯 iCSS MCP Server running on stdio (Debug Mode)');
+    console.error('🎯 iCSS MCP Server running on stdio (Debug Mode)');
+    
+    try {
+      await this.server.connect(transport);
+    } catch (error) {
+      debugLog('💥 Server error:', error);
+      console.error('❌ Fatal error:', error.message);
+      process.exit(1);
+    }
   }
 }
 
+// 启动服务器
 const server = new IcssServer();
-server.run().catch(console.error); 
+server.run(); 

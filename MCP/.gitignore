@@ -11,8 +11,8 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# Database
-data/
+# Database (keep for npm package)
+# data/
 *.db
 *.sqlite
 
