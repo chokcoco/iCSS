@@ -1,0 +1,79 @@
+{
+  "name": "icss-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for iCSS repository issues - provides CSS techniques and solutions",
+  "main": "server.js",
+  "bin": {
+    "icss-mcp": "./bin/icss-mcp.js",
+    "icss-mcp-install": "./bin/install.js"
+  },
+  "type": "module",
+  "files": [
+    "server.js",
+    "setup.js",
+    "bin/",
+    "scripts/",
+    "data/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "node scripts/fetch-issues.js",
+    "test": "node test-server.js",
+    "install-mcp": "node bin/install.js",
+    "postinstall": "node setup.js",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "keywords": [
+    "mcp", 
+    "css", 
+    "frontend", 
+    "cursor", 
+    "icss", 
+    "model-context-protocol",
+    "ai-tools",
+    "css-techniques",
+    "web-development"
+  ],
+  "author": {
+    "name": "iCSS MCP Server",
+    "email": "icss-mcp@example.com",
+    "url": "https://github.com/chokcoco/iCSS"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chokcoco/iCSS.git",
+    "directory": "MCP"
+  },
+  "homepage": "https://github.com/chokcoco/iCSS/tree/main/MCP",
+  "bugs": {
+    "url": "https://github.com/chokcoco/iCSS/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "sqlite3": "^5.1.6",
+    "marked": "^9.1.6",
+    "fuse.js": "^7.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "peerDependencies": {
+    "node": ">=18.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+} 
