@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "icss": {
+      "command": "node",
+      "args": ["server.js"],
+      "cwd": "./MCP",
+      "env": {},
+      "description": "iCSS repository CSS techniques and solutions"
+    }
+  },
+  "_alternatives": {
+    "comment": "Alternative configurations based on your setup:",
+    "option1_absolute_path": {
+      "args": ["/Users/qi.qiao/Documents/Git/icss/MCP/server.js"]
+    },
+    "option2_if_cursor_in_root": {
+      "args": ["./MCP/server.js"]
+    },
+    "option3_with_cwd": {
+      "args": ["server.js"],
+      "cwd": "./MCP"
+    }
+  },
+  "_instructions": {
+    "setup": "Copy the 'mcpServers' section to your Cursor settings.json",
+    "location_mac": "~/Library/Application Support/Cursor/User/settings.json",
+    "location_windows": "%APPDATA%/Cursor/User/settings.json",
+    "location_linux": "~/.config/Cursor/User/settings.json"
+  }
+} 
