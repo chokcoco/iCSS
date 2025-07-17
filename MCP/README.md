@@ -2,7 +2,7 @@
 
 > iCSS MCP Server 是一个基于 Model Context Protocol (MCP) 的服务端，提供 iCSS 技巧库的搜索、分类、文章详情、随机技巧等能力，支持 Cursor IDE 智能调用。
 
-[![npm version](https://badge.fury.io/js/icss-mcp-server.svg)](https://www.npmjs.com/package/icss-mcp-server)
+[![npm version](https://badge.fury.io/js/icss-mcp-server.svg?cacheBust=1)](https://www.npmjs.com/package/icss-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 快速开始
@@ -53,7 +53,7 @@ icss-mcp-install
   "mcpServers": {
     "icss": {
       "command": "node",
-      "args": ["/你的/绝对/路径/icss-mcp-server/server.js"],
+      "args": ["/path/to/global/node_modules/icss-mcp-server/server.js"],
       "env": {}
     }
   }

@@ -1,6 +1,6 @@
 {
   "name": "icss-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP Server for iCSS repository issues - provides CSS techniques and solutions",
   "main": "server.js",
   "bin": {
