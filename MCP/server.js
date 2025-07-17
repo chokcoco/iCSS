@@ -25,41 +25,6 @@ const debugLog = (...args) => {
   }
 };
 
-// 响应格式化
-function formatResponse(data, status = 'success', message = '') {
-  const response = {
-    jsonrpc: '2.0',
-    status,
-    message,
-    result: data
-  };
-  
-  if (isDebugMode) {
-    debugLog('📤 Sending response:', JSON.stringify(response, null, 2));
-  }
-  
-  return response;
-}
-
-// 错误响应格式化
-function formatError(error, code = ErrorCode.InternalError) {
-  const response = {
-    jsonrpc: '2.0',
-    status: 'error',
-    error: {
-      code,
-      message: error.message || 'Unknown error',
-      data: isDebugMode ? error.stack : undefined
-    }
-  };
-  
-  if (isDebugMode) {
-    debugLog('❌ Sending error:', JSON.stringify(response, null, 2));
-  }
-  
-  return response;
-}
-
 class IcssServer {
   constructor() {
     debugLog('🚀 Initializing iCSS MCP Server in debug mode');
@@ -246,9 +211,11 @@ class IcssServer {
           }
         ];
         
-        return formatResponse({ tools });
+        debugLog(`📋 Returning ${tools.length} tools`);
+        return { tools };
       } catch (error) {
-        return formatError(error);
+        debugLog('❌ Error in ListTools:', error);
+        throw error;
       }
     });
 
@@ -264,22 +231,22 @@ class IcssServer {
           case 'search_css_techniques':
             debugLog(`🔍 Executing search: "${args.query}" (limit: ${args.limit || 5})`);
             result = await this.searchCssTechniques(args.query, args.limit || 5);
-            return formatResponse(result, 'success', `Found ${result.length} results`);
+            return result;
           
           case 'get_css_article':
             debugLog(`📖 Fetching article #${args.issue_number}`);
             result = await this.getCssArticle(args.issue_number);
-            return formatResponse(result, 'success', `Retrieved article #${args.issue_number}`);
+            return result;
           
           case 'list_css_categories':
             debugLog('🏷️ Listing CSS categories');
             result = await this.listCssCategories();
-            return formatResponse(result, 'success', `Found ${result.length} categories`);
+            return result;
           
           case 'get_random_css_tip':
             debugLog('🎲 Getting random CSS tip');
             result = await this.getRandomCssTip();
-            return formatResponse(result, 'success', 'Retrieved random tip');
+            return result;
           
           default:
             throw new McpError(
@@ -289,9 +256,7 @@ class IcssServer {
         }
       } catch (error) {
         debugLog(`❌ Error in ${name}:`, error);
-        return formatError(error, 
-          error instanceof McpError ? error.code : ErrorCode.InternalError
-        );
+        throw error;
       }
     });
   }
@@ -305,46 +270,46 @@ class IcssServer {
       debugLog(`[DEBUG] Starting search at ${new Date().toISOString()}`);
       
       try {
-      const results = this.searchEngine.search(query).slice(0, limit);
+        const results = this.searchEngine.search(query).slice(0, limit);
         const endTime = Date.now();
         
         debugLog(`[DEBUG] Search completed in ${endTime - startTime}ms, found ${results.length} results`);
       
-      const formattedResults = results.map(result => {
-        const item = result.item;
-        const matches = result.matches?.map(match => ({
-          key: match.key,
-          value: match.value.substring(0, 100) + '...'
-        })) || [];
+        const formattedResults = results.map(result => {
+          const item = result.item;
+          const matches = result.matches?.map(match => ({
+            key: match.key,
+            value: match.value.substring(0, 100) + '...'
+          })) || [];
 
-        return {
-          title: item.title,
-          issue_number: item.number,
-          url: item.html_url,
-          labels: item.labels ? JSON.parse(item.labels) : [],
-          score: Math.round((1 - result.score) * 100),
-          preview: this.extractPreview(item.body),
-          matches: matches
-        };
-      });
+          return {
+            title: item.title,
+            issue_number: item.number,
+            url: item.html_url,
+            labels: item.labels ? JSON.parse(item.labels) : [],
+            score: Math.round((1 - result.score) * 100),
+            preview: this.extractPreview(item.body),
+            matches: matches
+          };
+        });
 
         debugLog(`[DEBUG] Formatted ${formattedResults.length} results, returning response`);
 
-      resolve({
-        content: [
-          {
-            type: 'text',
-            text: `Found ${formattedResults.length} CSS techniques for "${query}":\n\n` +
-                  formattedResults.map((result, index) => 
-                    `${index + 1}. **${result.title}** (Issue #${result.issue_number})\n` +
-                    `   💯 Relevance: ${result.score}%\n` +
-                    `   🏷️ Tags: ${result.labels.join(', ')}\n` +
-                    `   📝 Preview: ${result.preview}\n` +
-                    `   🔗 Link: ${result.url}\n`
-                  ).join('\n')
-          }
-        ]
-      });
+        resolve({
+          content: [
+            {
+              type: 'text',
+              text: `Found ${formattedResults.length} CSS techniques for "${query}":\n\n` +
+                    formattedResults.map((result, index) => 
+                      `${index + 1}. **${result.title}** (Issue #${result.issue_number})\n` +
+                      `   💯 Relevance: ${result.score}%\n` +
+                      `   🏷️ Tags: ${result.labels.join(', ')}\n` +
+                      `   📝 Preview: ${result.preview}\n` +
+                      `   🔗 Link: ${result.url}\n`
+                    ).join('\n')
+            }
+          ]
+        });
       } catch (error) {
         debugLog(`[DEBUG] Search failed with error:`, error);
         reject(error);
