@@ -32,7 +32,7 @@ class IcssServer {
     this.server = new Server(
       {
         name: 'icss-mcp-server',
-        version: '1.0.0',
+        version: '1.0.4',
       },
       {
         capabilities: {
@@ -113,9 +113,13 @@ class IcssServer {
           { name: 'search_content', weight: 0.4 },
           { name: 'labels', weight: 0.2 }
         ],
-        threshold: 0.3,
+        threshold: 0.6,  // 提高阈值以允许更多匹配
         includeScore: true,
-        includeMatches: true
+        includeMatches: true,
+        useExtendedSearch: true,  // 启用扩展搜索
+        ignoreLocation: true,     // 忽略位置影响
+        findAllMatches: true,     // 查找所有匹配项
+        minMatchCharLength: 1     // 最小匹配字符长度，有助于中文匹配
       };
 
       this.searchEngine = new Fuse(rows, fuseOptions);
@@ -270,9 +274,23 @@ class IcssServer {
       debugLog(`[DEBUG] Starting search at ${new Date().toISOString()}`);
       
       try {
-        const results = this.searchEngine.search(query).slice(0, limit);
-        const endTime = Date.now();
+        // 处理中文搜索词
+        const searchTerms = query.split(/\s+/).filter(Boolean);
+        let results = [];
         
+        // 对每个搜索词分别进行搜索
+        searchTerms.forEach(term => {
+          const termResults = this.searchEngine.search(term);
+          results = results.concat(termResults);
+        });
+        
+        // 去重并按相关度排序
+        results = Array.from(new Set(results.map(r => r.item.number)))
+          .map(number => results.find(r => r.item.number === number))
+          .sort((a, b) => a.score - b.score)
+          .slice(0, limit);
+
+        const endTime = Date.now();
         debugLog(`[DEBUG] Search completed in ${endTime - startTime}ms, found ${results.length} results`);
       
         const formattedResults = results.map(result => {

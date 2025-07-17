@@ -2,9 +2,11 @@
   "mcpServers": {
     "icss": {
       "command": "node",
-      "args": ["server.js"],
-      "cwd": "./MCP",
-      "env": {},
+      "args": ["/Users/qi.qiao/Documents/Git/icss/MCP/server.js"],
+      "cwd": "/Users/qi.qiao/Documents/Git/icss/MCP",
+      "env": {
+        "DEBUG": "true"
+      },
       "description": "iCSS repository CSS techniques and solutions"
     }
   },
