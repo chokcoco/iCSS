@@ -93,4 +93,4 @@ ehthumbs.db
 Thumbs.db 
 
 # Ignore Cursor IDE local config
-.cursor/ 
+.cursor/ .env

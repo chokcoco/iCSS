@@ -1,6 +1,6 @@
 {
   "name": "icss-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "MCP Server for iCSS repository issues - provides CSS techniques and solutions",
   "main": "server.js",
   "bin": {
@@ -28,11 +28,11 @@
     "prepublishOnly": "npm run build && npm test"
   },
   "keywords": [
-    "mcp", 
-    "css", 
-    "frontend", 
-    "cursor", 
-    "icss", 
+    "mcp",
+    "css",
+    "frontend",
+    "cursor",
+    "icss",
     "model-context-protocol",
     "ai-tools",
     "css-techniques",
@@ -55,12 +55,12 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.4.0",
-    "axios": "^1.6.0",
+    "axios": "^1.10.0",
     "cheerio": "^1.0.0-rc.12",
-    "sqlite3": "^5.1.6",
-    "marked": "^9.1.6",
+    "dotenv": "^16.6.1",
     "fuse.js": "^7.0.0",
-    "dotenv": "^16.3.1"
+    "marked": "^9.1.6",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
@@ -76,4 +76,4 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   }
-} 
+}
