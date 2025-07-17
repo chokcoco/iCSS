@@ -91,3 +91,6 @@ jspm_packages/
 .Trashes
 ehthumbs.db
 Thumbs.db 
+
+# Ignore Cursor IDE local config
+.cursor/ 
