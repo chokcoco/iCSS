@@ -1,6 +1,6 @@
 {
   "name": "icss-mcp-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Comprehensive MCP Server integrating iCSS techniques and CSS-Inspiration demos - provides complete CSS solutions with runnable code",
   "main": "server.js",
   "bin": {
