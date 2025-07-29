@@ -32,7 +32,7 @@ class IcssServer {
     this.server = new Server(
       {
         name: 'icss-mcp-server',
-        version: '1.0.4',
+        version: '1.1.0',
       },
       {
         capabilities: {
@@ -184,6 +184,47 @@ class IcssServer {
             }
           },
           {
+            name: 'search_css_demos',
+            description: 'Search for CSS demo examples from CSS-Inspiration repository with complete code',
+            inputSchema: {
+              type: 'object',
+              properties: {
+                query: {
+                  type: 'string',
+                  description: 'Search query for CSS demos (e.g., "animation", "3d effect", "layout")'
+                },
+                category: {
+                  type: 'string',
+                  description: 'Filter by category (e.g., "animation", "3d", "layout", "background")'
+                },
+                difficulty: {
+                  type: 'string',
+                  description: 'Filter by difficulty level (初级, 中级, 高级)'
+                },
+                limit: {
+                  type: 'number',
+                  description: 'Maximum number of results to return (default: 5)',
+                  default: 5
+                }
+              },
+              required: ['query']
+            }
+          },
+          {
+            name: 'get_css_demo',
+            description: 'Get complete demo with HTML and CSS code for a specific CSS-Inspiration example',
+            inputSchema: {
+              type: 'object',
+              properties: {
+                demo_id: {
+                  type: 'number',
+                  description: 'CSS-Inspiration demo ID'
+                }
+              },
+              required: ['demo_id']
+            }
+          },
+          {
             name: 'get_css_article',
             description: 'Get detailed content of a specific CSS article by issue number',
             inputSchema: {
@@ -199,10 +240,15 @@ class IcssServer {
           },
           {
             name: 'list_css_categories',
-            description: 'List available CSS technique categories based on issue labels',
+            description: 'List available CSS technique categories from both iCSS and CSS-Inspiration',
             inputSchema: {
               type: 'object',
-              properties: {}
+              properties: {
+                source: {
+                  type: 'string',
+                  description: 'Filter by source: "icss", "inspiration", or "all" (default: all)'
+                }
+              }
             }
           },
           {
@@ -210,7 +256,12 @@ class IcssServer {
             description: 'Get a random CSS technique or tip from the collection',
             inputSchema: {
               type: 'object',
-              properties: {}
+              properties: {
+                source: {
+                  type: 'string',
+                  description: 'Source preference: "icss", "inspiration", or "both" (default: both)'
+                }
+              }
             }
           }
         ];
@@ -237,19 +288,29 @@ class IcssServer {
             result = await this.searchCssTechniques(args.query, args.limit || 5);
             return result;
           
+          case 'search_css_demos':
+            debugLog(`🎨 Searching CSS demos: "${args.query}" (category: ${args.category || 'all'}, difficulty: ${args.difficulty || 'all'})`);
+            result = await this.searchCssDemos(args.query, args.category, args.difficulty, args.limit || 5);
+            return result;
+          
+          case 'get_css_demo':
+            debugLog(`🎯 Fetching CSS demo #${args.demo_id}`);
+            result = await this.getCssDemo(args.demo_id);
+            return result;
+          
           case 'get_css_article':
             debugLog(`📖 Fetching article #${args.issue_number}`);
             result = await this.getCssArticle(args.issue_number);
             return result;
           
           case 'list_css_categories':
-            debugLog('🏷️ Listing CSS categories');
-            result = await this.listCssCategories();
+            debugLog(`🏷️ Listing CSS categories (source: ${args.source || 'all'})`);
+            result = await this.listCssCategories(args.source);
             return result;
           
           case 'get_random_css_tip':
-            debugLog('🎲 Getting random CSS tip');
-            result = await this.getRandomCssTip();
+            debugLog(`🎲 Getting random CSS tip (source: ${args.source || 'both'})`);
+            result = await this.getRandomCssTip(args.source);
             return result;
           
           default:
@@ -377,71 +438,290 @@ class IcssServer {
     });
   }
 
-  async listCssCategories() {
-    debugLog('🏷️ Listing CSS categories');
+  async searchCssDemos(query, category, difficulty, limit = 5) {
+    debugLog(`🎨 Searching CSS demos with query: "${query}"`);
     
     return new Promise((resolve, reject) => {
-      this.db.all(
-        'SELECT labels, COUNT(*) as count FROM issues WHERE labels IS NOT NULL GROUP BY labels',
-        (err, rows) => {
-          if (err) {
-            debugLog('❌ Error getting categories:', err);
-            reject(err);
-            return;
-          }
+      let sql = `
+        SELECT * FROM css_inspiration 
+        WHERE search_content LIKE ?
+      `;
+      let params = [`%${query}%`];
 
-          const categoryMap = new Map();
-          
-          rows.forEach(row => {
-            if (row.labels) {
-              const labels = JSON.parse(row.labels);
-              labels.forEach(label => {
-                categoryMap.set(label, (categoryMap.get(label) || 0) + row.count);
-              });
-            }
-          });
+      if (category) {
+        sql += ` AND category = ?`;
+        params.push(category);
+      }
 
-          const categories = Array.from(categoryMap.entries())
-            .sort((a, b) => b[1] - a[1])
-            .map(([label, count]) => ({ label, count }));
+      if (difficulty) {
+        sql += ` AND difficulty_level = ?`;
+        params.push(difficulty);
+      }
 
-          debugLog(`✅ Found ${categories.length} categories`);
+      sql += ` ORDER BY title LIMIT ?`;
+      params.push(limit);
 
-          resolve({
-            content: [
-              {
-                type: 'text',
-                text: `Available CSS technique categories:\n\n` +
-                      categories.map(cat => 
-                        `• **${cat.label}** (${cat.count} articles)`
-                      ).join('\n')
-              }
-            ]
-          });
+      this.db.all(sql, params, (err, rows) => {
+        if (err) {
+          debugLog('❌ Error searching CSS demos:', err);
+          reject(err);
+          return;
         }
-      );
+
+        debugLog(`✅ Found ${rows.length} CSS demos`);
+
+        const formattedResults = rows.map(row => {
+          const tags = JSON.parse(row.tags || '[]');
+          const browserSupport = JSON.parse(row.browser_support || '{}');
+          
+          return {
+            id: row.id,
+            title: row.title,
+            category: row.category,
+            difficulty: row.difficulty_level,
+            description: row.description,
+            tags: tags,
+            demo_url: row.demo_url,
+            source_url: row.source_url,
+            browser_support: browserSupport
+          };
+        });
+
+        resolve({
+          content: [
+            {
+              type: 'text',
+              text: `Found ${formattedResults.length} CSS demos for "${query}":\n\n` +
+                    formattedResults.map((demo, index) => 
+                      `${index + 1}. **${demo.title}** (ID: ${demo.id})\n` +
+                      `   🏷️ Category: ${demo.category} | Difficulty: ${demo.difficulty}\n` +
+                      `   📝 ${demo.description}\n` +
+                      `   🏆 Tags: ${demo.tags.join(', ')}\n` +
+                      `   🔗 Demo: ${demo.demo_url}\n` +
+                      `   📁 Source: ${demo.source_url}\n`
+                    ).join('\n')
+            }
+          ]
+        });
+      });
     });
   }
 
-  async getRandomCssTip() {
-    debugLog('🎲 Getting random CSS tip');
+  async getCssDemo(demoId) {
+    debugLog(`🎯 Getting CSS demo #${demoId}`);
     
     return new Promise((resolve, reject) => {
+      // 获取基本信息
       this.db.get(
-        'SELECT * FROM issues ORDER BY RANDOM() LIMIT 1',
+        'SELECT * FROM css_inspiration WHERE id = ?',
+        [demoId],
         (err, row) => {
           if (err) {
-            debugLog('❌ Error getting random tip:', err);
+            debugLog(`❌ Database error for demo #${demoId}:`, err);
             reject(err);
             return;
           }
 
           if (!row) {
-            reject(new Error('No articles available'));
+            debugLog(`❌ Demo #${demoId} not found`);
+            reject(new Error(`CSS demo with ID ${demoId} not found`));
             return;
           }
 
-          debugLog(`✅ Random tip: "${row.title}" (Issue #${row.number})`);
+          // 获取完整的演示代码
+          this.db.get(
+            'SELECT * FROM demo_styles WHERE inspiration_id = ?',
+            [demoId],
+            (err, demoRow) => {
+              if (err) {
+                debugLog(`❌ Error getting demo styles for #${demoId}:`, err);
+                reject(err);
+                return;
+              }
+
+              debugLog(`✅ Found demo #${demoId}: "${row.title}"`);
+
+              const tags = JSON.parse(row.tags || '[]');
+              const browserSupport = JSON.parse(row.browser_support || '{}');
+
+              resolve({
+                content: [
+                  {
+                    type: 'text',
+                    text: `# ${row.title}\n\n` +
+                          `**Category:** ${row.category} | **Difficulty:** ${row.difficulty_level}\n\n` +
+                          `**Description:** ${row.description}\n\n` +
+                          `**Tags:** ${tags.join(', ')}\n\n` +
+                          `**Browser Support:**\n` +
+                          Object.entries(browserSupport).map(([browser, support]) => 
+                            `- ${browser}: ${support}`
+                          ).join('\n') + '\n\n' +
+                          `## HTML Code\n\n\`\`\`html\n${row.html_content || '<div class="demo">Demo</div>'}\n\`\`\`\n\n` +
+                          `## CSS Code\n\n\`\`\`css\n${row.css_content}\n\`\`\`\n\n` +
+                          (demoRow ? `## Complete Demo\n\n\`\`\`html\n${demoRow.complete_html}\n\`\`\`\n\n` : '') +
+                          `**Demo URL:** ${row.demo_url}\n` +
+                          `**Source:** ${row.source_url}`
+                  }
+                ]
+              });
+            }
+          );
+        }
+      );
+    });
+  }
+
+  async listCssCategories(source = 'all') {
+    debugLog(`🏷️ Listing CSS categories (source: ${source})`);
+    
+    return new Promise((resolve, reject) => {
+      let promises = [];
+
+      // iCSS categories
+      if (source === 'all' || source === 'icss') {
+        promises.push(
+          new Promise((resolve, reject) => {
+            this.db.all(
+              'SELECT labels, COUNT(*) as count FROM issues WHERE labels IS NOT NULL GROUP BY labels',
+              (err, rows) => {
+                if (err) {
+                  reject(err);
+                  return;
+                }
+
+                const categoryMap = new Map();
+                rows.forEach(row => {
+                  if (row.labels) {
+                    const labels = JSON.parse(row.labels);
+                    labels.forEach(label => {
+                      categoryMap.set(label, (categoryMap.get(label) || 0) + row.count);
+                    });
+                  }
+                });
+
+                const categories = Array.from(categoryMap.entries())
+                  .sort((a, b) => b[1] - a[1])
+                  .map(([label, count]) => ({ 
+                    label, 
+                    count, 
+                    source: 'iCSS',
+                    type: 'article'
+                  }));
+
+                resolve(categories);
+              }
+            );
+          })
+        );
+      }
+
+      // CSS-Inspiration categories
+      if (source === 'all' || source === 'inspiration') {
+        promises.push(
+          new Promise((resolve, reject) => {
+            this.db.all(
+              'SELECT category, COUNT(*) as count FROM css_inspiration GROUP BY category ORDER BY count DESC',
+              (err, rows) => {
+                if (err) {
+                  reject(err);
+                  return;
+                }
+
+                const categories = rows.map(row => ({
+                  label: row.category,
+                  count: row.count,
+                  source: 'CSS-Inspiration',
+                  type: 'demo'
+                }));
+
+                resolve(categories);
+              }
+            );
+          })
+        );
+      }
+
+      Promise.all(promises)
+        .then(results => {
+          const allCategories = results.flat();
+          debugLog(`✅ Found ${allCategories.length} categories`);
+
+          let output = `Available CSS technique categories:\n\n`;
+
+          if (source === 'all') {
+            // 按来源分组显示
+            const iCSSCategories = allCategories.filter(cat => cat.source === 'iCSS');
+            const inspirationCategories = allCategories.filter(cat => cat.source === 'CSS-Inspiration');
+
+            if (iCSSCategories.length > 0) {
+              output += `## iCSS Articles (${iCSSCategories.length} categories)\n`;
+              output += iCSSCategories.map(cat => 
+                `• **${cat.label}** (${cat.count} articles)`
+              ).join('\n') + '\n\n';
+            }
+
+            if (inspirationCategories.length > 0) {
+              output += `## CSS-Inspiration Demos (${inspirationCategories.length} categories)\n`;
+              output += inspirationCategories.map(cat => 
+                `• **${cat.label}** (${cat.count} demos)`
+              ).join('\n');
+            }
+          } else {
+            output += allCategories.map(cat => 
+              `• **${cat.label}** (${cat.count} ${cat.type}s) - ${cat.source}`
+            ).join('\n');
+          }
+
+          resolve({
+            content: [
+              {
+                type: 'text',
+                text: output
+              }
+            ]
+          });
+        })
+        .catch(reject);
+    });
+  }
+
+  async getRandomCssTip(source = 'both') {
+    debugLog(`🎲 Getting random CSS tip (source: ${source})`);
+    
+    return new Promise((resolve, reject) => {
+      let queries = [];
+
+      if (source === 'both' || source === 'icss') {
+        queries.push({
+          sql: 'SELECT *, "icss" as source_type FROM issues ORDER BY RANDOM() LIMIT 1',
+          params: []
+        });
+      }
+
+      if (source === 'both' || source === 'inspiration') {
+        queries.push({
+          sql: 'SELECT *, "inspiration" as source_type FROM css_inspiration ORDER BY RANDOM() LIMIT 1',
+          params: []
+        });
+      }
+
+      // 随机选择一个查询
+      const randomQuery = queries[Math.floor(Math.random() * queries.length)];
+
+      this.db.get(randomQuery.sql, randomQuery.params, (err, row) => {
+        if (err) {
+          debugLog('❌ Error getting random tip:', err);
+          reject(err);
+          return;
+        }
+
+        if (!row) {
+          reject(new Error('No content available'));
+          return;
+        }
+
+        if (row.source_type === 'icss') {
+          debugLog(`✅ Random iCSS tip: "${row.title}" (Issue #${row.number})`);
 
           const labels = row.labels ? JSON.parse(row.labels) : [];
           const preview = this.extractPreview(row.body);
@@ -450,15 +730,34 @@ class IcssServer {
             content: [
               {
                 type: 'text',
-                text: `🎲 **Random CSS Tip**: ${row.title}\n\n` +
+                text: `🎲 **Random CSS Tip** (from iCSS): ${row.title}\n\n` +
                       `**Issue #${row.number}** | **Tags:** ${labels.join(', ')}\n\n` +
                       `${preview}\n\n` +
                       `[Read full article](${row.html_url})`
               }
             ]
           });
+        } else {
+          debugLog(`✅ Random CSS-Inspiration demo: "${row.title}" (ID #${row.id})`);
+
+          const tags = row.tags ? JSON.parse(row.tags) : [];
+          
+          resolve({
+            content: [
+              {
+                type: 'text',
+                text: `🎲 **Random CSS Demo** (from CSS-Inspiration): ${row.title}\n\n` +
+                      `**Demo ID #${row.id}** | **Category:** ${row.category} | **Difficulty:** ${row.difficulty_level}\n\n` +
+                      `**Tags:** ${tags.join(', ')}\n\n` +
+                      `${row.description}\n\n` +
+                      `**Demo:** ${row.demo_url}\n` +
+                      `**Source:** ${row.source_url}\n\n` +
+                      `💡 Use \`get_css_demo\` with ID ${row.id} to see the complete code!`
+              }
+            ]
+          });
         }
-      );
+      });
     });
   }
 

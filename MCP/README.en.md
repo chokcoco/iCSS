@@ -1,6 +1,6 @@
 # iCSS MCP Server
 
-> 🎨 A Model Context Protocol (MCP) server that provides access to CSS techniques and solutions from the [iCSS repository](https://github.com/chokcoco/iCSS).
+> 🎨 A comprehensive Model Context Protocol (MCP) server that integrates both [iCSS repository](https://github.com/chokcoco/iCSS) techniques and [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) demos, providing complete CSS solutions with runnable code examples.
 
 [![npm version](https://badge.fury.io/js/icss-mcp-server.svg)](https://www.npmjs.com/package/icss-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -43,12 +43,14 @@ npm start
 
 ## 📋 Features
 
-- 🔍 **Search CSS Techniques**: Find relevant CSS solutions from 270+ articles
-- 📖 **Get Article Details**: Access full content of specific iCSS articles
-- 🏷️ **Browse Categories**: List available CSS technique categories
-- 🎲 **Random Tips**: Get random CSS tips for inspiration
+- 🔍 **Dual Search**: Search both iCSS articles and CSS-Inspiration demos
+- 📖 **Article Details**: Access full content of specific iCSS articles
+- 🎯 **Demo Code**: Get complete runnable HTML/CSS code from CSS-Inspiration
+- 🏷️ **Smart Categories**: Browse by technology type and difficulty level
+- 🎲 **Random Discovery**: Get random techniques or demo examples
+- 🔧 **Code Snippets**: Extract and manage CSS/HTML code blocks
 - 🚀 **Easy Integration**: Auto-configures with Cursor IDE
-- 🔧 **CLI Tools**: Simple command-line interface
+- 📊 **Performance Analysis**: Browser compatibility and performance insights
 
 ## 🛠️ Installation & Configuration
 
@@ -93,20 +95,34 @@ Once installed and configured, you can ask Cursor about CSS techniques:
 
 ### Example Queries
 
+#### iCSS Articles
 - *"Show me CSS techniques for flex layout"*
 - *"Find articles about CSS animations from iCSS"*
 - *"How to create gradient borders with CSS?"*
+- *"Get details for issue #80"*
+
+#### CSS-Inspiration Demos
+- *"Search for 3D effect demonstrations"*
+- *"Find animation demos with complete code"*
+- *"Show border effect examples"*
+- *"Get complete code for demo ID #25"*
+
+#### General Features
 - *"Get a random CSS tip"*
-- *"What CSS techniques are available for responsive design?"*
+- *"What CSS technique categories are available?"*
+- *"Show all CSS-Inspiration categories"*
+- *"Random animation demo"*
 
 ### MCP Functions Available
 
 | Function | Description | Parameters |
 |----------|-------------|------------|
-| `search_css_techniques` | Search for CSS techniques | `query`, `limit` (optional) |
-| `get_css_article` | Get full article content | `issue_number` |
-| `list_css_categories` | List all available categories | none |
-| `get_random_css_tip` | Get a random CSS tip | none |
+| `search_css_techniques` | Search iCSS technique articles | `query`, `limit` (optional) |
+| `search_css_demos` | Search CSS-Inspiration demos | `query`, `category` (optional), `difficulty` (optional), `limit` (optional) |
+| `get_css_article` | Get full iCSS article content | `issue_number` |
+| `get_css_demo` | Get complete demo with code | `demo_id` |
+| `list_css_categories` | List all available categories | `source` (optional): icss/inspiration/all |
+| `get_random_css_tip` | Get random technique or demo | `source` (optional): icss/inspiration/both |
 
 ## 🔧 CLI Commands
 
@@ -122,23 +138,39 @@ icss-mcp-install
 # Run setup (create database, fetch data)
 npm run setup
 
+# Fetch iCSS article data
+npm run build
+
+# Fetch CSS-Inspiration demo data
+npm run build:inspiration
+
+# Fetch all data
+npm run build:all
+
 # Test server functionality
 npm test
-
-# Fetch latest data from GitHub
-npm run build
 ```
 
 ## 📊 Data Source
 
-This MCP server provides access to:
+### iCSS Technique Library
+- **270+ high-quality CSS articles** covering animations, layouts, effects, and performance
+- Comprehensive technique explanations with detailed examples
+- Source: [iCSS repository](https://github.com/chokcoco/iCSS)
 
-- **270+ CSS articles** from the iCSS repository
-- **Searchable content** with fuzzy matching
-- **Categorized techniques** by labels
-- **Regular updates** from GitHub issues
+### CSS-Inspiration Demo Library
+- **14 categories** of complete CSS demonstrations
+- Runnable HTML/CSS code with live examples
+- **Difficulty levels**: Beginner, Intermediate, Advanced
+- **Browser compatibility** information included
+- Source: [CSS-Inspiration repository](https://github.com/chokcoco/CSS-Inspiration)
 
-All content is sourced from the excellent [iCSS repository](https://github.com/chokcoco/iCSS) by [chokcoco](https://github.com/chokcoco).
+### Technical Features
+- **Fuzzy search** with intelligent matching
+- **Smart categorization** by technology and difficulty
+- **Automatic code extraction** and snippet management
+- **Performance analysis** and browser compatibility insights
+- **Regular updates** from both repositories
 
 ## 🔍 Troubleshooting
 
