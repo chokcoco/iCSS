@@ -1,6 +1,6 @@
 # iCSS MCP Server 中文使用指南
 
-> iCSS MCP Server 是一个基于 Model Context Protocol (MCP) 的服务端，提供 iCSS 技巧库的搜索、分类、文章详情、随机技巧等能力，支持 Cursor IDE 智能调用。
+> iCSS MCP Server 是一个基于 Model Context Protocol (MCP) 的服务端，整合了 iCSS 技巧库和 CSS-Inspiration 演示案例，提供 CSS 技巧搜索、分类、文章详情、完整代码演示等能力，支持 Cursor IDE 智能调用。
 
 [![npm version](https://badge.fury.io/js/icss-mcp-server.svg?cacheBust=1)](https://www.npmjs.com/package/icss-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -31,12 +31,14 @@ npm start
 ```
 
 ## 📋 主要功能
-- 🔍 CSS 技巧模糊搜索
-- 📖 获取指定 iCSS 文章详情
-- 🏷️ 技巧分类浏览
-- 🎲 随机 CSS 技巧
-- 🚀 一键集成 Cursor
-- 🔧 命令行工具
+- 🔍 **双库搜索**：同时搜索 iCSS 文章和 CSS-Inspiration 演示
+- 📖 **文章详情**：获取指定 iCSS 文章的完整内容
+- 🎯 **演示代码**：获取 CSS-Inspiration 的完整可运行代码
+- 🏷️ **智能分类**：按技术类别、难度级别浏览内容
+- 🎲 **随机发现**：随机获取技巧或演示案例
+- 🔧 **代码片段**：提取和管理 CSS/HTML 代码块
+- 🚀 **一键集成**：自动配置 Cursor IDE
+- 📊 **性能分析**：提供浏览器兼容性和性能建议
 
 ## 🛠️ 安装与配置
 
@@ -72,24 +74,43 @@ icss-mcp-install
 ## 🧩 MCP 可用工具
 | 工具名 | 说明 | 参数 |
 |--------|------|------|
-| search_css_techniques | 搜索 CSS 技巧 | query, limit(可选) |
-| get_css_article | 获取文章详情 | issue_number |
-| list_css_categories | 获取所有分类 | 无 |
-| get_random_css_tip | 随机技巧 | 无 |
+| search_css_techniques | 搜索 iCSS 技巧文章 | query, limit(可选) |
+| search_css_demos | 搜索 CSS-Inspiration 演示 | query, category(可选), difficulty(可选), limit(可选) |
+| get_css_article | 获取 iCSS 文章详情 | issue_number |
+| get_css_demo | 获取演示完整代码 | demo_id |
+| list_css_categories | 获取所有分类 | source(可选): icss/inspiration/all |
+| get_random_css_tip | 随机技巧或演示 | source(可选): icss/inspiration/both |
 
 ## 🔧 常用命令
 ```bash
-icss-mcp            # 启动 MCP 服务
-icss-mcp-install    # 自动配置 Cursor
-npm run setup       # 初始化数据库
-npm test            # 测试服务
-npm run build       # 拉取最新数据
+icss-mcp                # 启动 MCP 服务
+icss-mcp-install        # 自动配置 Cursor
+npm run setup           # 初始化数据库
+npm run build           # 拉取 iCSS 文章数据
+npm run build:inspiration # 拉取 CSS-Inspiration 演示数据
+npm run build:all       # 拉取所有数据
+npm test                # 测试服务
 ```
 
 ## 📊 数据来源
-- 超过 270 篇 iCSS 技巧文章
-- 支持模糊搜索、分类、定期同步
+
+### iCSS 技巧库
+- 超过 270 篇高质量 CSS 技巧文章
+- 涵盖动画、布局、特效、性能优化等主题
 - 原始仓库：[iCSS](https://github.com/chokcoco/iCSS)
+
+### CSS-Inspiration 演示库
+- 包含 14 个分类的完整 CSS 演示
+- 提供可运行的 HTML/CSS 代码
+- 按难度级别分类（初级/中级/高级）
+- 包含浏览器兼容性信息
+- 原始仓库：[CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+
+### 技术特性
+- 支持模糊搜索、智能分类
+- 自动提取代码片段
+- 性能分析和优化建议
+- 定期同步最新内容
 
 ## ❓ 常见问题
 1. **Cursor 未识别 MCP Server**

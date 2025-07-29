@@ -1,7 +1,7 @@
 {
   "name": "icss-mcp-server",
-  "version": "1.0.4",
-  "description": "MCP Server for iCSS repository issues - provides CSS techniques and solutions",
+  "version": "1.1.1",
+  "description": "Comprehensive MCP Server integrating iCSS techniques and CSS-Inspiration demos - provides complete CSS solutions with runnable code",
   "main": "server.js",
   "bin": {
     "icss-mcp": "./bin/icss-mcp.js",
@@ -15,6 +15,7 @@
     "scripts/",
     "data/",
     "README.md",
+    "README.en.md",
     "LICENSE"
   ],
   "scripts": {
@@ -22,10 +23,14 @@
     "start": "node server.js",
     "dev": "nodemon server.js",
     "build": "node scripts/fetch-issues.js",
+    "build:inspiration": "node scripts/fetch-inspiration.js",
+    "build:all": "npm run build && npm run build:inspiration",
     "test": "node test-server.js",
+    "test:inspiration": "node test-inspiration.js",
+    "test:all": "npm run test && npm run test:inspiration",
     "install-mcp": "node bin/install.js",
     "postinstall": "node setup.js",
-    "prepublishOnly": "npm run build && npm test"
+    "prepublishOnly": "npm run build:all && npm test"
   },
   "keywords": [
     "mcp",
@@ -33,10 +38,14 @@
     "frontend",
     "cursor",
     "icss",
+    "css-inspiration",
     "model-context-protocol",
     "ai-tools",
     "css-techniques",
-    "web-development"
+    "css-demos",
+    "web-development",
+    "css-examples",
+    "chokcoco"
   ],
   "author": {
     "name": "iCSS MCP Server",

@@ -8,7 +8,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-console.log('🚀 Installing iCSS MCP Server for Cursor...\n');
+console.log('🚀 Installing iCSS MCP Server v1.1.1 for Cursor...\n');
 
 // 获取 Cursor 配置目录
 function getCursorConfigPath() {
@@ -104,6 +104,17 @@ function verifyInstallation() {
       console.log('✅ Database file exists');
     }
     
+    // 检查新增的脚本文件
+    const inspirationScript = path.join(packagePath, 'scripts', 'fetch-inspiration.js');
+    if (fs.existsSync(inspirationScript)) {
+      console.log('✅ CSS-Inspiration integration script exists');
+    }
+    
+    const testInspiration = path.join(packagePath, 'test-inspiration.js');
+    if (fs.existsSync(testInspiration)) {
+      console.log('✅ CSS-Inspiration test script exists');
+    }
+    
     console.log('✅ Installation verified');
     
   } catch (error) {
@@ -116,25 +127,34 @@ function verifyInstallation() {
 function showUsageInstructions(configFile) {
   console.log('\n🎉 Installation completed successfully!\n');
   
+  console.log('🆕 What\'s new in v1.1.1:');
+  console.log('   - 🎨 Integrated CSS-Inspiration with 160+ complete demos');
+  console.log('   - 🔍 Search both iCSS articles and CSS-Inspiration demos');
+  console.log('   - 💾 Complete runnable code for all demos');
+  console.log('   - 📊 Smart categorization by difficulty and type\n');
+  
   console.log('📋 Next steps:');
   console.log('1. Restart Cursor IDE completely');
   console.log('2. The iCSS MCP Server should be available automatically');
-  console.log('3. Try asking Cursor about CSS techniques from iCSS\n');
+  console.log('3. Try asking Cursor about CSS techniques from both libraries\n');
   
   console.log('🛠️  Configuration details:');
   console.log(`   Config file: ${configFile}`);
   console.log(`   Server path: ${path.join(getPackagePath(), 'server.js')}`);
   
-  console.log('\n💡 Usage examples:');
+  console.log('\n💡 Enhanced usage examples:');
   console.log('   - "Show me CSS techniques for flex layout"');
-  console.log('   - "Find articles about CSS animations"');
-  console.log('   - "Get a random CSS tip from iCSS"');
+  console.log('   - "Find 3D animation demos from CSS-Inspiration"');
+  console.log('   - "Get complete code for demo ID 25"');
+  console.log('   - "Search for border effects with runnable code"');
+  console.log('   - "Get a random CSS tip from both libraries"');
   
   console.log('\n🔧 Manual testing:');
-  console.log('   Run: npx @icss/mcp-server');
+  console.log('   Run: npx icss-mcp-server');
   console.log('   Or:  icss-mcp');
   
   console.log('\n📚 More info: https://github.com/chokcoco/iCSS');
+  console.log('📚 CSS-Inspiration: https://github.com/chokcoco/CSS-Inspiration');
 }
 
 // 主安装流程
