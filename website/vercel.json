@@ -5,9 +5,6 @@
     "regions": [
         "hkg1"
     ],
-    "functions": {
-        "app/api/**/*.ts": {
-            "maxDuration": 30
-        }
-    }
+    "framework": "nextjs",
+    "outputDirectory": ".next"
 }
