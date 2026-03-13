@@ -18,7 +18,7 @@ CSS 奇技淫巧，在这里，都有。
 
 ## iCSS 前端趣闻
 
-所有内容首发更新到我的**公众号**，以及 iCSS 有高质量**微信群聊**，感兴趣不要错过：
+所有内容首发更新到我的**公众号**：
 
 <img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
 
@@ -807,4 +807,5 @@ CSS 奇技淫巧，在这里，都有。
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/chokcoco/iCSS.svg)](https://starchart.cc/chokcoco/iCSS)
+
 
